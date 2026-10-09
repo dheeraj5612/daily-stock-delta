@@ -2,6 +2,7 @@
 const $=id=>document.getElementById(id);
 let snapshot;
 let editorial={};
+const cardAnchors=new Map([...document.querySelectorAll('#ideas .idea[data-security-id]')].map(element=>[element.dataset.securityId,element.id]));
 const dateLabel=date=>date?new Date(`${date}T12:00:00Z`).toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'America/New_York'}):'Awaiting first edition';
 function node(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;}
 function sourceLink(source){try{const u=new URL(source.url);if(!['https:','http:'].includes(u.protocol))return null;const a=node('a',source.label||u.hostname);a.href=u.href;a.target='_blank';a.rel='noopener noreferrer';return a;}catch{return null;}}
@@ -14,6 +15,8 @@ return {company,native:native!==company?native:'',investmentThesis:choose(e.inve
 }
 function card(e){
 const article=node('article',undefined,'idea');
+article.dataset.securityId=e.security_id;
+if(cardAnchors.has(e.security_id))article.id=cardAnchors.get(e.security_id);
 const identity=node('div',undefined,'identity');
 const display=presentation(e);
 identity.append(node('h3',display.company),node('span',e.ticker,'ticker'));
@@ -32,7 +35,10 @@ function render(){
 const q=$('search').value.trim().toLowerCase();
 const all=snapshot?.equities||[];
 const rows=all.filter(e=>{const display=presentation(e);return [e.ticker,e.company,display.company,display.native,e.thesis,display.investmentThesis].some(v=>String(v||'').toLowerCase().includes(q));}).sort((a,b)=>a.rank-b.rank);
-$('ideas').replaceChildren(...rows.map(card));
+const expanded=new Set([...$('ideas').querySelectorAll('.idea')].filter(element=>element.querySelector('details[open]')).map(element=>element.dataset.securityId));
+const cards=rows.map(card);
+for(const element of cards){if(expanded.has(element.dataset.securityId)){const details=element.querySelector('details');if(details)details.open=true;}}
+$('ideas').replaceChildren(...cards);
 if(!rows.length)$('ideas').append(node('p',q?'No names match your search.':'No names in this edition.','empty'));
 $('shown').textContent=`${rows.length} of ${all.length} names`;
 }
@@ -50,6 +56,7 @@ const u=snapshot.date?new URL(`editions/${snapshot.date}.html`,document.baseURI)
 $('share').href=`https://x.com/intent/tweet?${new URLSearchParams({text:`Daily Stock Delta${snapshot.date?` | ${dateLabel(snapshot.date)}`:''}: names and investment theses.`,url:u.href})}`;
 render();
 }catch{
+if($('ideas').querySelector('.idea')&&!new URLSearchParams(location.search).get('date'))return;
 $('ideas').replaceChildren(node('p','This edition could not be loaded. Please refresh or visit the archive.','empty'));
 $('edition-date').textContent='Edition unavailable';
 $('edition-count').textContent='';
