@@ -1,0 +1,501 @@
+{
+  "coverage_gaps": [
+    "Bounded half-work intake screened 22 local reports across an 83-owner census; coverage is incomplete.",
+    "Shared lead pages, remaining completed chats and source windows remain deferred.",
+    "Comparable peer medians, sourced scenario probabilities and most owner-normalized FY1/FY2 EPS are unavailable.",
+    "Ranks preserve the delivered investigation order; a complete peer-relative valuation and risk/reward ranking is not certified.",
+    "Original discovery dates and exact aliases were not fully reconciled; uncertain additional subjects remain held."
+  ],
+  "cutoff_at": "2026-10-09T08:30:34.224896+00:00",
+  "date": "2026-10-09",
+  "digest_id": "TH-6fc24949b0a1c4a3cc9b",
+  "eligible_security_ids": [
+    "NYSE:STZ",
+    "ASX:WAF",
+    "NASDAQ:RELL",
+    "NYSE:WS",
+    "TSE Standard:9846",
+    "TWSE:7610",
+    "TPEx:5386",
+    "TPEx:7828",
+    "TSE Standard:3768",
+    "TSE venue unverified:3181",
+    "NYSE:MCK",
+    "TSE Standard:7719",
+    "TSE Growth:5842",
+    "TWSE:1436"
+  ],
+  "equities": [
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Q3 shipment-to-depletion convergence and sustained brand recovery.",
+      "company": "Constellation Brands",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "USD",
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY27 comparable guidance EPS $11.20-$11.90, 10.39-11.04x; FY28 unknown"
+      ],
+      "price": 123.63,
+      "price_as_of": "2026-10-08 close",
+      "rank": 1,
+      "rank_reason": "First in the delivered investigation order because a dated comparable guidance denominator is available; owner-normalized earnings and the peer comparison remain incomplete.",
+      "risk": "Distributor inventory refill, Veracruz depreciation, marketing expense and contingent acquisition payments can offset demand improvement.",
+      "security_id": "NYSE:STZ",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://ir.cbrands.com/sec-filings/all-sec-filings/content/0000016918-26-000039/stzex991_83120268kearnings.htm"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "Beer depletion improvement faces distributor refill, Veracruz depreciation and marketing; $1.6-$1.7bn FY27 guided FCF is not owner FCF. Check Q3 depletion, cash tax/SBC and share count.",
+      "ticker": "STZ",
+      "torque": "Management reported stronger September depletions; the FY27 guidance denominator is available, but sustainable FY28 margins and owner cash per share remain unverified.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Q4 production against full-year guidance and resolution of the Kiaka explosives permit.",
+      "company": "West African Resources",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "AUD",
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized EPS and P/E unknown",
+        "Indicative price only; quote timestamp and displayed size are unknown."
+      ],
+      "price": 3.5,
+      "price_as_of": null,
+      "rank": 2,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "M5 South delay, Kiaka permit uncertainty and unverified AISC, capex and debt.",
+      "security_id": "ASX:WAF",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://announcements.asx.com.au/asxpdf/20261008/pdf/0752b3d4lfn6nm.pdf"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "Q3 127,950 oz gold and 135,245 oz sales at US$4,240/oz; sales are not cash profit. M5 South delay and Kiaka permit risk. Check AISC, capex, debt and executable quote.",
+      "ticker": "WAF",
+      "torque": "Q3 production of 127,950 oz and sales of 135,245 oz show operating scale; gross sales are not owner cash flow.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Backlog conversion, full 10-Q and call reconciliation, and repeatable cash and margin evidence.",
+      "company": "Richardson Electronics",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "USD",
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown; adjusted Q1 EPS ~$0.21 ex tariff refund cannot annualize"
+      ],
+      "price": 19.97,
+      "price_as_of": "2026-10-08 reference; executable bid unverified",
+      "rank": 3,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Tariff-refund benefit, working-capital funding, stock compensation and option dilution obscure recurring cash economics.",
+      "security_id": "NASDAQ:RELL",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://www.rell.com/webfoo/wp-content/uploads/2026/10/Q1-FY27-Press-Release-092726_Final.pdf"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "Q1 revenue +18.9%, backlog $184.4m; 1.7-point tariff-refund margin benefit and working-capital/SBC dilute FCF. Check 10-Q, call, backlog margin and options.",
+      "ticker": "RELL",
+      "torque": "Q1 revenue grew 18.9% with $184.4m backlog; funded high-margin conversion remains unverified.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "German agreement approval and ownership-adjusted synergy and cash conversion.",
+      "company": "Worthington Steel",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "USD",
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown; 4x adjusted Q1 EPS 15.2x is invalid proxy"
+      ],
+      "price": 34.62,
+      "price_as_of": "2026-10-08 close",
+      "rank": 4,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "About $1.9bn net debt, minority put or guaranteed payments and negative Q1 free cash flow constrain common value.",
+      "security_id": "NYSE:WS",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://ir.worthingtonsteel.com/news/news-details/2026/Worthington-Steel-Reports-First-Quarter-Fiscal-2027-Results/default.aspx"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "Kloeckner transition offers synergy but $1.9bn net debt, minority put/guarantee and -$69m Q1 FCF constrain common value. Check ownership-adjusted FCF and German agreement.",
+      "ticker": "WS",
+      "torque": "Management expects working-capital synergy, but timing, conversion and minority attribution remain unverified.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "H2 margin delivery and returns on store investment.",
+      "company": "Tenmaya Store",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "JPY",
+      "downside_pct": null,
+      "exchange": "TSE Standard",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY guide EPS ¥121.66, P/E unknown; FY2 unknown",
+        "Current executable price and quote timestamp are unknown."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 5,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "H1 operating profit fell 10.8% and CFO less investing cash was negative; maintenance versus growth investment is unknown.",
+      "security_id": "TSE Standard:9846",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://www.release.tdnet.info/inbs/140120261006546368.pdf"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "H1 sales +1.6%, operating profit -10.8%; H2 guide implies operating rebound while H1 CFO less investing -¥101m. Check H2 margins, store capex and ask.",
+      "ticker": "9846",
+      "torque": "The unchanged FY guide implies an H2 operating rebound, but it is guidance and does not establish owner cash growth.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Q3 tungsten volume-price, cash conversion and convertible dilution reconciliation.",
+      "company": "聯友金屬-創",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "TWD",
+      "downside_pct": null,
+      "exchange": "TWSE",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown"
+      ],
+      "price": 1700,
+      "price_as_of": "2026-10-08 close",
+      "rank": 6,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Tungsten-price reversal, minority leakage, related-party demand and convertible dilution.",
+      "security_id": "TWSE:7610",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://mopsov.twse.com.tw/nas/t21/sii/t21sc03_115_9_0.html"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "September tungsten revenue +722.77% YoY but -5.40% MoM; H1 CFO only 2.61% of parent profit, minority and related-party exposure. Check Q3 price/volume, cash, CB dilution.",
+      "ticker": "7610",
+      "torque": "September revenue grew 722.77% year over year but fell 5.40% sequentially; volume-price sustainability is unknown.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Q3 margin, collections, inventory and funding reconciliation.",
+      "company": "青雲",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "TWD",
+      "downside_pct": null,
+      "exchange": "TPEx",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown"
+      ],
+      "price": 282.5,
+      "price_as_of": "2026-10-08 close",
+      "rank": 7,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Negative H1 operating cash, margin compression and concentrated receivables.",
+      "security_id": "TPEx:5386",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://mopsov.twse.com.tw/nas/t21/otc/t21sc03_115_9_0.html"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "September memory/server revenue +574.9% YoY but -44.11% MoM; H1 CFO -NT$1.815bn, margin compression and receivable concentration. Check Q3 cash and inventory funding.",
+      "ticker": "5386",
+      "torque": "September revenue grew 574.9% year over year but fell 44.11% sequentially; the trajectory does not establish sustainable forward cash flow.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Firm equipment orders, Q3 collections and capex reconciliation.",
+      "company": "創新服務",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "TWD",
+      "downside_pct": null,
+      "exchange": "TPEx",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown"
+      ],
+      "price": 1840,
+      "price_as_of": "2026-10-08 close",
+      "rank": 8,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Technoprobe concentration, capital intensity, option dilution and backlog conversion.",
+      "security_id": "TPEx:7828",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://mopsov.twse.com.tw/nas/t21/otc/t21sc03_115_9_0.html"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "September revenue +102.3% YoY but -0.55% MoM; H1 after-capex cash -NT$934.53m and Technoprobe 76.32% sales. Prior bull NT$1,327.05 is 0.721x close, not new target. Check orders and cash.",
+      "ticker": "7828",
+      "torque": "September revenue grew 102.3% year over year but fell 0.55% sequentially; no contracted backlog amount is supplied.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Actual repurchase pace, net share count and recurring earnings reconciliation.",
+      "company": "Riskmonster",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "JPY",
+      "downside_pct": null,
+      "exchange": "TSE Standard",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown",
+        "Current executable price and quote timestamp are unknown."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 9,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Repurchase authority is optional; limited execution does not establish accretion or sustainable earnings.",
+      "security_id": "TSE Standard:3768",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://www.release.tdnet.info/inbs/140120261007547359.pdf"
+        }
+      ],
+      "status": "WATCH",
+      "thesis": "Only 19,900 shares/¥11.158m repurchased versus 300,000-share/¥150m authority; authorization is optional. Check pace, net shares, earnings and ask.",
+      "ticker": "3768",
+      "torque": "Cumulative repurchases were 19,900 shares versus a 300,000-share authorization; earnings torque is unknown.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Confirm listing venue, merchandise margins and expansion capex.",
+      "company": "Kaito Okoku",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "JPY",
+      "downside_pct": null,
+      "exchange": "TSE venue unverified",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown",
+        "Current executable price and quote timestamp are unknown.",
+        "TSE venue unverified; security_id retains the source venue label pending reconciliation."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 10,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Preliminary outlet revenue excludes non-store sales; margin, owner cash flow and venue proof are missing.",
+      "security_id": "TSE venue unverified:3181",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://www.release.tdnet.info/inbs/140120261007547121.pdf"
+        }
+      ],
+      "status": "Conditional WATCH",
+      "thesis": "September all-store +9.5%, existing-store +6.1%; preliminary sales exclude non-store and lack margin/FCF. Check listing line, merchandise margin and capex.",
+      "ticker": "3181",
+      "torque": "September all-store sales grew 9.5% and existing-store sales 6.1%; operating leverage and cash conversion are unknown.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Confirm award history, retained margin and actual recognition against guidance.",
+      "company": "McKesson",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "USD",
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown",
+        "Current executable price and quote timestamp are unknown."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 11,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "The VA order appears retrospective, gross distribution revenue is not incremental profit, and retained margin is unverified.",
+      "security_id": "NYSE:MCK",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000927653.json"
+        }
+      ],
+      "status": "WATCH; rejected award-driven Buy",
+      "thesis": "VA $1.159bn order appears retrospective FY26 utilization, 0.287% of FY26 revenue and not incremental profit. Check award history, retained margin and guidance.",
+      "ticker": "MCK",
+      "torque": "The $1.159bn VA order is about 0.287% of FY26 revenue and does not establish an incremental earnings stream.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Verify cash receipt and any revised guidance.",
+      "company": "Tokyo Koki",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "JPY",
+      "downside_pct": null,
+      "exchange": "TSE Standard",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown",
+        "Current executable price and quote timestamp are unknown."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 12,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Returned short-swing profit is one-time nonoperating income and does not establish recurring earnings.",
+      "security_id": "TSE Standard:7719",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://www.release.tdnet.info/inbs/140120261009548304.pdf"
+        }
+      ],
+      "status": "Rejected as Buy",
+      "thesis": "¥20.009m returned short-swing profit is one-time nonoperating gain, not recurring earnings. Check cash receipt and revised guide.",
+      "ticker": "7719",
+      "torque": "Research needed: the ¥20.009m one-time gain provides no verified recurring earnings torque.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Research needed: a primary fundamental catalyst alongside stock-borrow data.",
+      "company": "Integral Group",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "JPY",
+      "downside_pct": null,
+      "exchange": "TSE Growth",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown",
+        "Current executable price and quote timestamp are unknown."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 13,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Stock-lending eligibility changes market mechanics; cash-flow and valuation effects are unknown.",
+      "security_id": "TSE Growth:5842",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://www.release.tdnet.info/inbs/140120261007547325.pdf"
+        }
+      ],
+      "status": "Research needed",
+      "thesis": "Stock-lending eligibility changes mechanics but not cash flow or equity rights. Need primary fundamental catalyst and borrow data.",
+      "ticker": "5842",
+      "torque": "Research needed: no supported earnings or cash-flow torque is supplied.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Review further corrected filings, project handovers, margins and collections.",
+      "company": "華友聯",
+      "confidence": "Provisional; owner economics, peer valuation and scenario evidence incomplete.",
+      "currency": "TWD",
+      "downside_pct": null,
+      "exchange": "TWSE",
+      "gaps": [
+        "Provisional investigation rank; individual peer-relative rank rationale and matched peer medians are unknown.",
+        "No sourced per-share bear/base/bull cases or probability-weighted return.",
+        "Owner-normalized FY1/FY2 economics remain incomplete: FY1/FY2 normalized P/E unknown"
+      ],
+      "price": 36,
+      "price_as_of": "2026-10-08 close",
+      "rank": 14,
+      "rank_reason": "Retains the delivered evidence-led investigation order; a complete individual valuation, peer-relative and risk/reward rank rationale is unknown.",
+      "risk": "Property handover lumpiness, debt and collection risk; YTD revenue fell 78.52%.",
+      "security_id": "TWSE:1436",
+      "sources": [
+        {
+          "label": "Primary issuer or official filing evidence",
+          "url": "https://mopsov.twse.com.tw/nas/t21/sii/t21sc03_115_9_0.html"
+        }
+      ],
+      "status": "Rejected as Buy",
+      "thesis": "Corrected September revenue NT$167.029m, +42.73% YoY but YTD -78.52%; handover timing is not recurring inflection. Check project delivery and owner cash.",
+      "ticker": "1436",
+      "torque": "September revenue increased 42.73% year over year after correction, but handover timing does not establish a recurring inflection.",
+      "weighted_upside_pct": null,
+      "why_new": "First-time subject included in the confirmed October 9 current-week email delta; original discovery timing is not fully reconciled."
+    }
+  ],
+  "schema_version": 1
+}
