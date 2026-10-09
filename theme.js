@@ -2,14 +2,12 @@
   "use strict";
 
   const storageKey = "daily-stock-delta-theme";
-  const preference = typeof window.matchMedia === "function"
-    ? window.matchMedia("(prefers-color-scheme: dark)") : null;
   let saved = null;
   try {
     const value = window.localStorage.getItem(storageKey);
     if (value === "dark" || value === "light") saved = value;
   } catch (_) { /* Theme still works when browser storage is unavailable. */ }
-  let theme = saved || (preference && preference.matches ? "dark" : "light");
+  let theme = saved || "light";
 
   function apply() {
     document.documentElement.setAttribute("data-theme", theme);
@@ -36,9 +34,4 @@
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", connect, { once: true });
   else connect();
 
-  if (preference && typeof preference.addEventListener === "function") {
-    preference.addEventListener("change", function (event) {
-      if (!saved) { theme = event.matches ? "dark" : "light"; apply(); }
-    });
-  }
 })();
