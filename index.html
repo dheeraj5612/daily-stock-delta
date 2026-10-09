@@ -2,20 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Daily Stock Delta | New ideas, ranked</title>
-<meta name="description" content="The daily new stock delta. Short investment theses, reasons for inclusion, catalysts and risks, ranked by supported risk/reward and upside torque.">
-<meta name="theme-color" content="#102d2b"><meta property="og:title" content="Daily Stock Delta"><meta property="og:description" content="Fresh stock ideas. The thesis, the catalyst, the risk."><meta property="og:type" content="website">
-<link rel="stylesheet" href="style.css"><script src="access-config.js" defer></script><script src="access.js" defer></script><script src="app.js" defer></script>
+<title>Daily Stock Delta | Names and theses</title>
+<meta name="description" content="New stock names and short investment theses, with earlier dated editions in the archive.">
+<meta name="theme-color" content="#102d2b"><meta property="og:title" content="Daily Stock Delta"><meta property="og:description" content="Stock names and investment theses."><meta property="og:type" content="website">
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css"><script src="theme.js" defer></script><script src="access-config.js" defer></script><script src="access.js" defer></script><script src="app.js" defer></script>
 </head>
 <body>
-<header><a class="brand" href="./" aria-label="Daily Stock Delta home"><span class="mark">D</span>DAILY STOCK DELTA</a><nav aria-label="Main navigation"><a class="active" href="./">Latest</a><a href="archive.html">Archive</a><button type="button" data-access-sign-in hidden>Sign in</button><span data-access-user hidden></span><a data-access-billing hidden>Support</a></nav></header>
+<header><a class="brand" href="./" aria-label="Daily Stock Delta home"><img src="logo.svg" alt="" class="mark">DAILY STOCK DELTA</a><nav aria-label="Main navigation"><a class="active" href="./">Latest</a><a href="archive.html">Archive</a><button type="button" id="theme-toggle" aria-label="Switch to dark mode">Dark</button><button type="button" data-access-sign-in hidden>Sign in</button><span data-access-user hidden></span><a data-access-billing hidden>Support</a></nav></header>
 <main>
-<section class="edition" aria-label="Current research edition"><span id="edition-label">LATEST EDITION</span><h1 id="edition-date">Loading</h1><span id="edition-count">Checking published research</span><a id="share" target="_blank" rel="noopener noreferrer" href="https://x.com/intent/tweet">Share on X</a></section>
-<section class="toolbar" aria-label="Research controls"><div><label for="day">Edition</label><select id="day"><option value="">Latest</option></select></div><div class="search"><label for="search">Find a name</label><input id="search" type="search" placeholder="Ticker, company or thesis"></div><div><label for="sort">Stack rank</label><select id="sort"><option value="rank">Research ranking</option><option value="weighted_upside_pct">Weighted upside</option><option value="bull_upside_pct">Bull case upside</option><option value="base_upside_pct">Base case upside</option></select></div></section>
-<section id="coverage" class="coverage" aria-label="Evidence and coverage"></section>
+<section class="edition" aria-label="Current edition"><span id="edition-label">LATEST EDITION</span><h1 id="edition-date">Loading</h1><span id="edition-count">Loading names</span><a id="share" target="_blank" rel="noopener noreferrer" href="https://x.com/intent/tweet">Share on X</a></section>
+<section class="toolbar" aria-label="Search names"><div class="search"><label for="search">Find a name</label><input id="search" type="search" placeholder="Ticker, company or thesis"></div></section>
 <div class="list-heading"><h2>New to the list</h2><span id="shown"></span></div>
 <section id="ideas" aria-live="polite"><p class="empty">Loading the latest edition.</p></section>
-<details class="method"><summary>Ranking methodology &amp; edition context</summary><p>Order follows supported valuation anomalies, probability-weighted risk/reward, and earnings or catalyst torque over 12–24 months. Each name carries its own reasoning and source status. An early research lead can appear before valuation work is complete. Missing scenarios stay marked unavailable; a high position is not a Buy rating.</p><p>The daily delta uses the same cutoff and new-name cohort as the email. Earlier editions remain in the <a href="archive.html">archive</a>. Prices are dated research reference points, not live quotes.</p></details>
+
 </main>
-<footer><span>Daily Stock Delta</span><p>Research for discussion. Scenarios are estimates, not promises. Verify the evidence and your own investment decisions.</p><a href="data/current.json">Latest data</a></footer>
+<footer><p>Research for discussion.</p></footer>
 </body></html>
