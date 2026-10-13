@@ -1,0 +1,716 @@
+{
+  "coverage_gaps": [
+    "No qualified matched-peer FY1 median normalized P/E was established for this cohort. Conditional earnings, deal and DCF reference MOICs are not expected returns or comparable certified peer scores.",
+    "Several entries use delayed or pre-announcement prices. Current executable quotes, gross capital and U.S.-individual broker permissions remain unverified; Installux expressly excludes U.S. offer participation.",
+    "Complete earlier report/findings histories and several source windows remain unavailable. Exact run-chat recovery and accessible pending findings preserve cases, but do not establish complete source coverage.",
+    "Clinical, social-only, identity-unresolved and source-intake leads remain pending rather than being treated as completed valuations or zero findings."
+  ],
+  "cutoff_at": "2026-10-13T12:47:13.725425+00:00",
+  "date": "2026-10-13",
+  "digest_id": "TH-f5fa8644be4c385d760e",
+  "eligible_security_ids": [
+    "Nasdaq|LWAY|ordinary",
+    "Euronext Growth Paris|ALCWE|ordinary",
+    "Euronext Paris|EXA|ordinary",
+    "HKEX HKD counter|02020|ordinary",
+    "AIM|NAH|ordinary",
+    "HKEX Main Board|01473|ordinary",
+    "Vienna Official Market|SEM|ordinary",
+    "Euronext Growth Paris|ALLUX|ordinary",
+    "Frankfurt Prime Standard|SHA0|ordinary",
+    "TSX|SXP|ordinary",
+    "Euronext Growth Paris|ALLIX|ordinary",
+    "ASX|CG1|ordinary",
+    "ASX|EXL|ordinary",
+    "Euronext Growth Oslo MERK|DSRT|ordinary",
+    "Euronext Paris|BIG|ordinary",
+    "Euronext Growth Paris|ALDVI|ordinary",
+    "Euronext Growth Oslo MERK|DVD|ordinary"
+  ],
+  "equities": [
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Capacity conversion and possible milk/packaging-cost normalization.",
+      "company": "Lifeway Foods, Inc.",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "USD",
+      "downside_pct": null,
+      "exchange": "Nasdaq",
+      "gaps": [
+        "Point-date gross awards/share denominator not fully reconciled",
+        "Large capex and working-capital requirements; recurring SBC retained in owner FCF",
+        "Milk/packaging costs may prevent assumed margin recovery",
+        "No compatible matched-peer normalized FY1 median"
+      ],
+      "investment_thesis": "Lifeway sells branded kefir. Capacity expansion and sales growth could increase common earnings, but second-quarter gross margin fell to19.5% and H1 owner-economic FCF was negative$16.067m after recurring SBC. Analyst FY2027/2028 base EPS$0.881/$1.131 gives own P/E25.63x/19.97x at$22.58. Holding the own FY1 multiple, not a peer fair-value multiple, gives FY2 low/base/high MOIC0.529x/1.283x/1.949x. Margin recovery, substantial capex and current gross award dilution remain unverified. The passive insider accumulation is not activism.",
+      "price": 22.58,
+      "price_as_of": "2026-10-12 close, Yahoo daily OHLC; non-executable",
+      "rank": 1,
+      "rank_reason": "FY2 no-rerating base return is highest among the finite conditional references, but it relies on a strong analyst earnings recovery.",
+      "risk": "Margin recovery fails or investment consumes cash; current maximum awards not reconciled.",
+      "security_id": "Nasdaq|LWAY|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www.sec.gov/Archives/edgar/data/814586/000168316826006302/lifeway_i10q-063026.htm"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www.sec.gov/Archives/edgar/data/814586/000168316826001886/lifeway_i10k-123125.htm"
+        }
+      ],
+      "status": "Watch signal; conditional valuation pending",
+      "thesis": "Lifeway sells branded kefir. Capacity expansion and sales growth could increase common earnings, but second-quarter gross margin fell to19.5% and H1 owner-economic FCF was negative$16.067m after recurring SBC. Analyst FY2027/2028 base EPS$0.881/$1.131 gives own P/E25.63x/19.97x at$22.58. Holding the own FY1 multiple, not a peer fair-value multiple, gives FY2 low/base/high MOIC0.529x/1.283x/1.949x. Margin recovery, substantial capex and current gross award dilution remain unverified. The passive insider accumulation is not activism.",
+      "ticker": "LWAY",
+      "torque": "Conditional gross reference MOIC 1.283784x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "Capacity conversion and possible milk/packaging-cost normalization."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Proposed cash offer and intended squeeze-out.",
+      "company": "Charwood Energy",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "EUR",
+      "downside_pct": null,
+      "exchange": "Euronext Growth Paris",
+      "gaps": [
+        "Post-announcement ask and AMF conformity/fairness/calendar not established",
+        "Historical book is not liquidation recovery; no failure target or probability",
+        "Current diluted capital/cash flow and broker acceptance pending"
+      ],
+      "investment_thesis": "Charwood builds biomass-energy systems and owns related projects. The bidder reports91.75% ownership and proposes a€4.10 cash offer followed by squeeze-out. Against the pre-announcementOctober9 close€3.47, the gross reference MOIC is1.182x, not a current executable spread or expected return. FY2025 revenue was€9.3m, EBITDA negative€1.4m and net loss€2.1m, with€1.9m cash and€5.2m debt. Historical book equity around€0.57 per share is not failed-deal recovery. AMF conformity, a post-announcement ask, fairness opinion and completion timetable are necessary before any actionable arbitrage conclusion.",
+      "price": 3.47,
+      "price_as_of": "2026-10-09 PRE-announcement close; not executable",
+      "rank": 2,
+      "rank_reason": "Second-highest finite gross reference, explicitly using a stale pre-announcement price; not comparable peer earnings MOIC.",
+      "risk": "Stale pre-announcement entry, conformity/timing and unvalued failed-deal common recovery.",
+      "security_id": "Euronext Growth Paris|ALCWE|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://live.euronext.com/en/node/12915720"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://live.euronext.com/en/products/equities/company-news/2026-04-27-charwood-energy-charwood-energy-reports-sharply-improved"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Charwood builds biomass-energy systems and owns related projects. The bidder reports91.75% ownership and proposes a€4.10 cash offer followed by squeeze-out. Against the pre-announcementOctober9 close€3.47, the gross reference MOIC is1.182x, not a current executable spread or expected return. FY2025 revenue was€9.3m, EBITDA negative€1.4m and net loss€2.1m, with€1.9m cash and€5.2m debt. Historical book equity around€0.57 per share is not failed-deal recovery. AMF conformity, a post-announcement ask, fairness opinion and completion timetable are necessary before any actionable arbitrage conclusion.",
+      "ticker": "ALCWE",
+      "torque": "Conditional gross reference MOIC 1.181556x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "Proposed cash offer and intended squeeze-out."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Defence/robotics growth and conditional long-dated Thales transaction.",
+      "company": "Exail Technologies",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "EUR",
+      "downside_pct": null,
+      "exchange": "Euronext Paris",
+      "gaps": [
+        "ODIRNANE, ICG, employee-plan and cash/debt overlap need common waterfall",
+        "Cash flow and dilution prevent normalized FY1 earnings certification",
+        "Long-dated conditional deal/entry/failure value and broker access unverified"
+      ],
+      "investment_thesis": "Exail makes robotics, navigation and defence systems. H1 current EBITDA grew to€63m on€275m sales, but reported operating loss€23m and net loss€87m show the importance of common-owner claims. Retention/share costs, acquired amortization, ODIRNANE, ICG and employee-plan liabilities cannot be ignored. Signed Thales terms anchor a conditional€134-per-share tender following a family acquisition expectedQ32027, with tender completion expected early2028. Against delayed€124.80, gross reference MOIC is1.074x before time, fees and failure risk. Rough H1 cash after working capital/capex was negative€55m before unresolved claims. Deal spread is not a completed earnings valuation.",
+      "price": 124.8,
+      "price_as_of": "2026-10-09 delayed close; not executable",
+      "rank": 3,
+      "rank_reason": "Finite conditional long-dated offer reference; low gross spread for the unresolved duration and capital risks.",
+      "risk": "Large senior/employee/convertible claims and long deal duration; failure value and current quote unknown.",
+      "security_id": "Euronext Paris|EXA|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www.exail-technologies.com/wp-content/uploads/formidable/4/cpexail-technologiesh1-2026en.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www.exail-technologies.com/thales-and-exail-technologies-sign-tender-offer-agreement/"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Exail makes robotics, navigation and defence systems. H1 current EBITDA grew to€63m on€275m sales, but reported operating loss€23m and net loss€87m show the importance of common-owner claims. Retention/share costs, acquired amortization, ODIRNANE, ICG and employee-plan liabilities cannot be ignored. Signed Thales terms anchor a conditional€134-per-share tender following a family acquisition expectedQ32027, with tender completion expected early2028. Against delayed€124.80, gross reference MOIC is1.074x before time, fees and failure risk. Rough H1 cash after working capital/capex was negative€55m before unresolved claims. Deal spread is not a completed earnings valuation.",
+      "ticker": "EXA",
+      "torque": "Conditional gross reference MOIC 1.073718x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "Defence/robotics growth and conditional long-dated Thales transaction."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "PUMA stake acquisition completed; core brand earnings and cash generation provide an operating anchor.",
+      "company": "ANTA Sports Products Limited",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "HKD",
+      "downside_pct": null,
+      "exchange": "HKEX HKD counter",
+      "gaps": [
+        "PUMA associate profit/loss and acquisition accounting/current liquidity unknown",
+        "Deposits subject Mainland remittance limits; pledged deposits not free cash",
+        "Gross current shares and grant schedule not certified",
+        "FY1 and FY2/core scopes not matched to qualified peer forecasts"
+      ],
+      "investment_thesis": "ANTA owns a multi-brand sportswear business and completed its29.06% PUMA stake purchase for€1.5055bn onOctober7. PUMA is an associate investment, not full PUMA earnings or a cash return. H1 core diluted EPS wasRMB2.561 after excluding Amer dilution gain and associate profit. Core-only analyst FY2026/2027 base EPSRMB5.119/RMB5.359 gives own P/E12.07x/11.53x at theHK$72.45 dated reference using the statedOctober12 FX. Holding the own FY2026 base multiple gives FY2027 low/base/high MOIC0.912x/1.047x/1.182x. June reported deposit-inclusive net cashRMB39.113bn falls mechanically by aboutRMB11.28bn for the purchase before other movements; deposits are not all unrestricted offshore cash. PUMA returns, acquisition accounting and current capital remain unknown.",
+      "price": 72.45,
+      "price_as_of": "2026-10-13T08:08:26Z dated feed; non-executable",
+      "rank": 4,
+      "rank_reason": "Finite core-only no-rerating reference; strategic PUMA optionality is excluded rather than counted as forecast profit.",
+      "risk": "Large cash use, associate losses/impairment, restricted deposits and unreconciled current dilution.",
+      "security_id": "HKEX HKD counter|02020|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://links.sgx.com/FileOpen/EANTA2026IRSGX.ashx?App=Announcement&FileID=902451"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://ir.anta.com/en/news_detail.php?id=170762"
+        },
+        {
+          "label": "Primary issuer/offer source 3",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100701669.pdf"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "ANTA owns a multi-brand sportswear business and completed its29.06% PUMA stake purchase for€1.5055bn onOctober7. PUMA is an associate investment, not full PUMA earnings or a cash return. H1 core diluted EPS wasRMB2.561 after excluding Amer dilution gain and associate profit. Core-only analyst FY2026/2027 base EPSRMB5.119/RMB5.359 gives own P/E12.07x/11.53x at theHK$72.45 dated reference using the statedOctober12 FX. Holding the own FY2026 base multiple gives FY2027 low/base/high MOIC0.912x/1.047x/1.182x. June reported deposit-inclusive net cashRMB39.113bn falls mechanically by aboutRMB11.28bn for the purchase before other movements; deposits are not all unrestricted offshore cash. PUMA returns, acquisition accounting and current capital remain unknown.",
+      "ticker": "02020",
+      "torque": "Conditional gross reference MOIC 1.046802x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "PUMA stake acquisition completed; core brand earnings and cash generation provide an operating anchor."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Completed disposal de-risks scope; collection and Critical Care instruction growth could support earnings.",
+      "company": "NAHL Group plc",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "GBP",
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Collection/claim volume and gross options at current date need verification",
+        "Sale EV is not certified net cash proceeds; unreceived settlement not credited",
+        "No compatible matched-peer FY1 median",
+        "Period differs from calendar2027 FY1 models; not numerically compared as qualified peers"
+      ],
+      "investment_thesis": "NAHL combines consumer legal services with expert-witness and case-management services. Continuing H1 diluted underlying EPS was3.5p and defined FCF£2.158m. The Searches UK sale completedOctober8 at£1.234m enterprise value; the separate£1.85m settlement was still dueOctober15, so neither is recurring EPS or assumed received cash. Analyst FY2026/2027 base EPS7.2p/7.5p implies own P/E6.14x/5.89x at44.20p. FY2027 low/base/high MOIC0.847x/1.042x/1.222x holds the own base FY2026 multiple unchanged, not peer fair value. Fewer legal settlements, long collection cycles and LLP/minority economics constrain the recovery.",
+      "price": 0.442,
+      "price_as_of": "2026-10-12 dated44.20p reference; not executable",
+      "rank": 5,
+      "rank_reason": "Finite unchanged-own-multiple reference and low own P/E, but growth upside and common cash collection remain limited.",
+      "risk": "Unreceived settlement, slow receivables and fewer H2 claim settlements; sale EV is not guaranteed net proceeds.",
+      "security_id": "AIM|NAH|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www.nahlgroupplc.co.uk/media/uimjf1ha/nahl-2026-interim-results.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www.investegate.co.uk/announcement/rns/nahl-group--nah/completion-of-the-sale-of-searches-uk-limited/9814111"
+        }
+      ],
+      "status": "Watch signal; conditional valuation pending",
+      "thesis": "NAHL combines consumer legal services with expert-witness and case-management services. Continuing H1 diluted underlying EPS was3.5p and defined FCF£2.158m. The Searches UK sale completedOctober8 at£1.234m enterprise value; the separate£1.85m settlement was still dueOctober15, so neither is recurring EPS or assumed received cash. Analyst FY2026/2027 base EPS7.2p/7.5p implies own P/E6.14x/5.89x at44.20p. FY2027 low/base/high MOIC0.847x/1.042x/1.222x holds the own base FY2026 multiple unchanged, not peer fair value. Fewer legal settlements, long collection cycles and LLP/minority economics constrain the recovery.",
+      "ticker": "NAH",
+      "torque": "Conditional gross reference MOIC 1.041667x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "October8 Searches UK disposal actually completed; prior Sent described the sale and settlement as conditional. Completion changes proceeds/continuing-scope risk, not recurring EPS."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "H1 profit alert and new exclusive laser-system supply agreement.",
+      "company": "Pangaea Connectivity Technology Limited",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "HKD",
+      "downside_pct": null,
+      "exchange": "HKEX Main Board",
+      "gaps": [
+        "Current owner FCF/working capital and laser margin/cost bridge not disclosed",
+        "FY28 flat sensitivity is not a forecast supported by issuer volumes",
+        "Matched-peer FY1 forecasts unavailable",
+        "Future recurring SBC/capital and broker entry remain to verify"
+      ],
+      "investment_thesis": "Pangaea supplies optical and semiconductor components. Its October12 alert expects H1 FYMarch2027 owner profit of at leastHK$80m and an exclusive laser-source contract of at leastUS$55m throughMarch2027, with deliveries starting inOctober. On1.272bn gross option-diluted shares, explicit FY2027 analyst EPS isHK$0.08345/0.13843/0.18253; FY2028 is only held flat. Own base P/E is9.61x atHK$1.33. At an illustrative10x earnings threshold, low/base/high MOIC is0.627x/1.041x/1.372x; at6x, even base is0.625x. Laser margin, trade working capital and cash conversion can defeat the apparent growth. TIA qualification and CW-laser samples are not booked revenue.",
+      "price": 1.33,
+      "price_as_of": "2026-10-13T08:08:26Z dated feed; not executable",
+      "rank": 6,
+      "rank_reason": "Finite10x earnings-threshold reference only; not matched-peer MOIC. New contract gives torque, with substantial cash and margin uncertainty.",
+      "risk": "Borrowing exceeds unrestricted cash; project margins, working capital and FY28 demand are unknown.",
+      "security_id": "HKEX Main Board|01473|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1012/2026101200169.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1007/2026100700371.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 3",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0624/2026062401202.pdf"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Pangaea supplies optical and semiconductor components. Its October12 alert expects H1 FYMarch2027 owner profit of at leastHK$80m and an exclusive laser-source contract of at leastUS$55m throughMarch2027, with deliveries starting inOctober. On1.272bn gross option-diluted shares, explicit FY2027 analyst EPS isHK$0.08345/0.13843/0.18253; FY2028 is only held flat. Own base P/E is9.61x atHK$1.33. At an illustrative10x earnings threshold, low/base/high MOIC is0.627x/1.041x/1.372x; at6x, even base is0.625x. Laser margin, trade working capital and cash conversion can defeat the apparent growth. TIA qualification and CW-laser samples are not booked revenue.",
+      "ticker": "01473",
+      "torque": "Conditional gross reference MOIC 1.040854x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "New October12 H1 profit floor and at leastUS$55m exclusive laser-system contract replace an ununderwritten price-mover baseline."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Higher operating EBITDA guidance and improved industrial operating performance.",
+      "company": "Semperit AG Holding",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "EUR",
+      "downside_pct": null,
+      "exchange": "Vienna Official Market",
+      "gaps": [
+        "Lease principal, SBC/NCI and noncore sale/provision bridge unfinished",
+        "No FY27/FY28 issuer forecast or matched-peer FY1 median",
+        "Current entry/diluted capital not fully verified"
+      ],
+      "investment_thesis": "Semperit sells industrial rubber and engineered products. It raised FY2026 operating EBITDA guidance from€100m to€115m, excluding about€5m project costs. EBITDA is not common profit. A provisional FY2027 analyst bridge uses EBITDA€90/110/130m, annualized H1 D&A€49.8m and finance€10.6m, and20.5% tax, giving EPS€1.144/€1.917/€2.690; FY2028 is only held flat. At the delayed€18.60 reference, own base P/E is9.70x; a10x threshold gives base MOIC1.030x, not a peer-derived rerating target. Lease principal, SBC, redeemable minority claims, working capital and noncore-sale adjustments still prevent a completed common-cash valuation.",
+      "price": 18.6,
+      "price_as_of": "2026-10-09 delayed historical close; later compatible close unavailable",
+      "rank": 7,
+      "rank_reason": "Finite10x threshold reference only, with little base upside and unresolved common claims.",
+      "risk": "Cyclicality, special costs, minority redemption and cash conversion can absorb earnings improvement.",
+      "security_id": "Vienna Official Market|SEM|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www.semperitgroup.com/fileadmin/user_upload/MediaLibrary/SemperitGroup/Investor_relations/Interim_reports_EN/2026-H1_Report.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www.eqs-news.com/news/ad-hoc/semperit-ag-holding-raises-earnings-forecast-for-full-year-2026/915e2b82-f72d-4216-a476-646e3a3078c3_en"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Semperit sells industrial rubber and engineered products. It raised FY2026 operating EBITDA guidance from€100m to€115m, excluding about€5m project costs. EBITDA is not common profit. A provisional FY2027 analyst bridge uses EBITDA€90/110/130m, annualized H1 D&A€49.8m and finance€10.6m, and20.5% tax, giving EPS€1.144/€1.917/€2.690; FY2028 is only held flat. At the delayed€18.60 reference, own base P/E is9.70x; a10x threshold gives base MOIC1.030x, not a peer-derived rerating target. Lease principal, SBC, redeemable minority claims, working capital and noncore-sale adjustments still prevent a completed common-cash valuation.",
+      "ticker": "SEM",
+      "torque": "Conditional gross reference MOIC 1.030477x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "Higher operating EBITDA guidance and improved industrial operating performance."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Offer documents resolve price/calendar and independent fundamental DCF.",
+      "company": "Installux SA",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "EUR",
+      "downside_pct": null,
+      "exchange": "Euronext Growth Paris",
+      "gaps": [
+        "US-person offer participation prohibited",
+        "No normalized FY1/FY2 P/E or peer-ratio MOIC; no tender profit at reference close",
+        "Calendar indicative and securities/broker wind-down need verification"
+      ],
+      "investment_thesis": "Installux manufactures aluminium systems. Its conforming cash offer is€492 ex-dividend; the€8 dividend is already detached and must not be added for a new buyer. October12 Euronext close was€492, so offer-price gross MOIC is1.000x before fees. Independent-expert ex-dividend DCF low/base/high values€469.2/€480.8/€493.0 give MOIC0.954x/0.977x/1.002x; the plan assumes11.5% discount rate,1.8% terminal growth,2.4% sales CAGR and substantial capex/working capital. The offer excludes U.S. persons. These are tender/DCF values, not normalized peer-P/E ranking, and no profitable U.S.-eligible arbitrage is established.",
+      "price": 492,
+      "price_as_of": "2026-10-12 official Euronext close,1567shares/21trades",
+      "rank": 8,
+      "rank_reason": "Independent DCF base reference below market; blocked participation, not an investable cash-spread recommendation.",
+      "risk": "US-person offer exclusion, zero gross cash spread and squeeze-out/delisting risk.",
+      "security_id": "Euronext Growth Paris|ALLUX|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www.groupe-installux.com/wp-content/uploads/installux-note-en-reponse-visee-de-la-societe.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www.groupe-installux.com/wp-content/uploads/fcce-note-dinformation-visee-de-linitiateur.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 3",
+          "url": "https://live.euronext.com/en/ajax/AwlHistoricalPrice/getFullDownloadAjax/FR0000060451-ALXP?format=csv&startdate=2026-10-09&enddate=2026-10-13"
+        }
+      ],
+      "status": "Blocked: U.S. persons excluded from offer",
+      "thesis": "Installux manufactures aluminium systems. Its conforming cash offer is€492 ex-dividend; the€8 dividend is already detached and must not be added for a new buyer. October12 Euronext close was€492, so offer-price gross MOIC is1.000x before fees. Independent-expert ex-dividend DCF low/base/high values€469.2/€480.8/€493.0 give MOIC0.954x/0.977x/1.002x; the plan assumes11.5% discount rate,1.8% terminal growth,2.4% sales CAGR and substantial capex/working capital. The offer excludes U.S. persons. These are tender/DCF values, not normalized peer-P/E ranking, and no profitable U.S.-eligible arbitrage is established.",
+      "ticker": "ALLUX",
+      "torque": "Conditional gross reference MOIC 0.977236x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "Offer documents resolve price/calendar and independent fundamental DCF."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Retirement program may lower later costs and improve future cash.",
+      "company": "Schaeffler AG",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "EUR",
+      "downside_pct": null,
+      "exchange": "Frankfurt Prime Standard",
+      "gaps": [
+        "New program benefit belongs2029; FY27 quantum undisclosed",
+        "Special-item cash/tax and finance bridge incomplete; H1 ETR59.5% differs from30% assumption",
+        "No FY2/peer median/current capital and entry verification"
+      ],
+      "investment_thesis": "Schaeffler supplies automotive and industrial components. Around1,800 additional partial-retirement agreements are expected to improve cash from2027, but the stated€55m annual earnings benefit belongs to2029; €70m provisions run through2030. FY2026 revenue/margin guidance and assumed finance/tax produce before-special-item EPS sensitivities€0.265/€0.465/€0.680, not normalized common forecasts. At delayed€5.88, a10x base sensitivity is only0.790x. H1 cash flow was negative€300m and net debt€5.545bn. Special cash charges, the actual59.5% H1 tax rate, FY2027 economics and dilution need reconstruction. The current listed line is SHA0, registered common ISINDE000SHA0100, not stale SHA.",
+      "price": 5.88,
+      "price_as_of": "2026-10-09 delayed close; October12 OHLC missing; not executable",
+      "rank": 9,
+      "rank_reason": "Only an incomplete before-special-item threshold diagnostic; no positive normalized peer-MOIC case established.",
+      "risk": "Benefit is distant; near-term provisions, leverage, high tax and integration can overwhelm savings.",
+      "security_id": "Frankfurt Prime Standard|SHA0|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www.schaeffler.com/remotemedien/media/_shared_media_rwd/08_investor_relations/reports/2026_h1_schaeffler_interim_financial_report_en_14cvjk.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www.schaeffler.com/en/investor-relations/share/basic-data/"
+        },
+        {
+          "label": "Primary issuer/offer source 3",
+          "url": "https://www.eqs-news.com/news/corporate/schaeffler-completes-earnings-improvement-program-with-about-1800-additional-partial-retirement-agreements/1b110dc5-e862-442a-a96e-88a0f43da445_en"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Schaeffler supplies automotive and industrial components. Around1,800 additional partial-retirement agreements are expected to improve cash from2027, but the stated€55m annual earnings benefit belongs to2029; €70m provisions run through2030. FY2026 revenue/margin guidance and assumed finance/tax produce before-special-item EPS sensitivities€0.265/€0.465/€0.680, not normalized common forecasts. At delayed€5.88, a10x base sensitivity is only0.790x. H1 cash flow was negative€300m and net debt€5.545bn. Special cash charges, the actual59.5% H1 tax rate, FY2027 economics and dilution need reconstruction. The current listed line is SHA0, registered common ISINDE000SHA0100, not stale SHA.",
+      "ticker": "SHA0",
+      "torque": "Conditional gross reference MOIC 0.790598x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "Retirement program may lower later costs and improve future cash."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Tariff and restructuring release materially changes the previously delivered profit bridge.",
+      "company": "Supremex Inc.",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "CAD",
+      "downside_pct": null,
+      "exchange": "TSX",
+      "gaps": [
+        "Embedded tariff B unknown; subtracting all tariff impact may double count H1 costs",
+        "Tax and acquisition/lease cash economics remain uncertain",
+        "Current post-July shares and executable access unverified",
+        "No matched-peer FY1 median; FY28 flat sensitivity only"
+      ],
+      "investment_thesis": "Supremex makes envelopes and packaging. Its quantified tariff burden ofC$10-12m annually can outweighC$5.7m planned savings, with aC$1.8m Q4 restructuring charge. The changed operating release was absent from its previous delivered acquisition/restructuring thesis. AtC$3.01, analyst FY2027/2028 flat base EPSC$0.095-0.121 implies roughly25-32x own P/E, not deep value; a tariff-off case is6.6-8.5x. A10x earnings-threshold base MOIC is0.316-0.402x. The key unknown is tariff cost already embedded in H1: subtracting all tariff costs again may double count them. H1 cash FCF wasC$1.738m, while large leases and cash-settled awards remain real claims.",
+      "price": 3.01,
+      "price_as_of": "2026-10-09 last trade; Canada closed October12; not executable",
+      "rank": 10,
+      "rank_reason": "Lower conditional base return than the other finite references; high case depends on removing tariffs, not a supported operating forecast.",
+      "risk": "Unknown embedded tariffs, tax, leases, integration and cash claims can invalidate a low-multiple impression.",
+      "security_id": "TSX|SXP|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://supremex.com/wp-content/uploads/2026/01/SXP-Press-Release-Tariffs-Restructuring-2026-10-06-final.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://supremex.com/wp-content/uploads/2026/01/SXP-MDA-Q2-2026-EN-final-2026-07-30.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 3",
+          "url": "https://supremex.com/wp-content/uploads/2026/01/SXP-Financial-Statements-Q2-2026-final-2026-07-30.pdf"
+        }
+      ],
+      "status": "Watch signal; conditional valuation pending",
+      "thesis": "Supremex makes envelopes and packaging. Its quantified tariff burden ofC$10-12m annually can outweighC$5.7m planned savings, with aC$1.8m Q4 restructuring charge. The changed operating release was absent from its previous delivered acquisition/restructuring thesis. AtC$3.01, analyst FY2027/2028 flat base EPSC$0.095-0.121 implies roughly25-32x own P/E, not deep value; a tariff-off case is6.6-8.5x. A10x earnings-threshold base MOIC is0.316-0.402x. The key unknown is tariff cost already embedded in H1: subtracting all tariff costs again may double count them. H1 cash FCF wasC$1.738m, while large leases and cash-settled awards remain real claims.",
+      "ticker": "SXP",
+      "torque": "Conditional gross reference MOIC 0.402181x; not peer-ranking MOIC",
+      "weighted_upside_pct": null,
+      "why_new": "October6 quantified annual tariff hit10-12m, savings5.7m andQ4charge1.8m were absent from the October6 00:35NY Sent attachment; that exact row has no tariff text. This is recovered changed operating economics, not a price-only refresh."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "ARR growth and narrowing losses may support a recurring software cash inflection.",
+      "company": "WALLIX Group",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "EUR",
+      "downside_pct": null,
+      "exchange": "Euronext Growth Paris",
+      "gaps": [
+        "No quantified FY1/FY2 earnings or current full gross shares",
+        "R&D/capex and WC-funded FCF need reconstruction",
+        "Loss/growth cash valuation lacks supported forecasts/peer inputs; no target fabricated"
+      ],
+      "investment_thesis": "WALLIX sells privileged-access cybersecurity software. H1 revenue rose14.2% and ARR19.4% to€33.1m, with operating loss narrowed to€1.199m. Reported FCF€0.2m relied on a€1.8m working-capital release; without that release it is about negative€1.6m. At delayed€23.40, illustrative EV is about€157m or4.7x ARR, not an earnings or peer-MOIC valuation. Growth and a positive-FY2026 operating/FCF objective merit research, but unquantified earnings, R&D/capex, gross share awards and recurring cash conversion prevent FY1/FY2 targets or a supported MOIC.",
+      "price": 23.4,
+      "price_as_of": "2026-10-09 delayed close; not executable",
+      "rank": 11,
+      "rank_reason": "Unrankable MOIC; strongest remaining operating-growth evidence, with cash conversion still negative after the one-time release.",
+      "risk": "Working-capital release masks underlying cash use; R&D, dilution and monetization are unresolved.",
+      "security_id": "Euronext Growth Paris|ALLIX|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www.webdisclosure.fr/press-release/wallix-epa-allix-strong-improvement-in-earnings-and-positive-free-cash-flow-in-h1-2026-2026-objectives-confirmed-x5GuEwYwOH1"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www.webdisclosure.fr/press-release/wallix-epa-allix-information-relative-au-nombre-de-droits-de-votes-et-dactions-7djB4SAMkL1"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "WALLIX sells privileged-access cybersecurity software. H1 revenue rose14.2% and ARR19.4% to€33.1m, with operating loss narrowed to€1.199m. Reported FCF€0.2m relied on a€1.8m working-capital release; without that release it is about negative€1.6m. At delayed€23.40, illustrative EV is about€157m or4.7x ARR, not an earnings or peer-MOIC valuation. Growth and a positive-FY2026 operating/FCF objective merit research, but unquantified earnings, R&D/capex, gross share awards and recurring cash conversion prevent FY1/FY2 targets or a supported MOIC.",
+      "ticker": "ALLIX",
+      "torque": "No supported per-share MOIC; retain as an input-blocked fundamental case",
+      "weighted_upside_pct": null,
+      "why_new": "ARR growth and narrowing losses may support a recurring software cash inflection."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "New Reworld sites and existing-business revenue growth.",
+      "company": "Carbonxt Group Limited",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "AUD",
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Reworld gross margin unspecified; calendar2027 sales not all FY27",
+        "Kentucky is excluded from guide; financing/conversion/warrant ownership conditional",
+        "Current maximum gross shares, net interest/capex and common FCF unverified; loss/financing method cannot yield supported target"
+      ],
+      "investment_thesis": "Carbonxt makes activated-carbon products. Four additional Reworld sites startJanuary2027, adding aboutA$1m calendar2027 revenue; existing-business FY2027 revenue is guided at least40% aboveFY2026, excluding Kentucky. Revenue is not earnings. Audited FY2026 underlying EBITDA was negativeA$1.041m, finance costA$4.639m and net debt including leasesA$18.420m. New mill capexA$1.1m, conditional notes, warrants and Kentucky ownership/funding can consume sales growth. Black Birch margin, current gross capital and owner cash are insufficient to support FY1/FY2 EPS, targets or MOIC.",
+      "price": 0.076,
+      "price_as_of": "2026-10-13 indicative ask after market close; not executable",
+      "rank": 12,
+      "rank_reason": "Unrankable MOIC; quantified new revenue is meaningful but cannot yet support common profit or cash.",
+      "risk": "Heavy finance burden, capex and conditional dilution/financing; Kentucky is excluded from guide.",
+      "security_id": "ASX|CG1|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073jms3dlyzlr8.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://announcements.asx.com.au/asxpdf/20260731/pdf/0728wfzqwmppkv.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 3",
+          "url": "https://announcements.asx.com.au/asxpdf/20261013/pdf/0757zq10jl3gk8.pdf"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Carbonxt makes activated-carbon products. Four additional Reworld sites startJanuary2027, adding aboutA$1m calendar2027 revenue; existing-business FY2027 revenue is guided at least40% aboveFY2026, excluding Kentucky. Revenue is not earnings. Audited FY2026 underlying EBITDA was negativeA$1.041m, finance costA$4.639m and net debt including leasesA$18.420m. New mill capexA$1.1m, conditional notes, warrants and Kentucky ownership/funding can consume sales growth. Black Birch margin, current gross capital and owner cash are insufficient to support FY1/FY2 EPS, targets or MOIC.",
+      "ticker": "CG1",
+      "torque": "No supported per-share MOIC; retain as an input-blocked fundamental case",
+      "weighted_upside_pct": null,
+      "why_new": "New Reworld sites and existing-business revenue growth."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Hemp sales/margin-growth update changes prior operating evidence.",
+      "company": "Elixinol Wellness Limited",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "AUD",
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Hemp segment GP percentage is not absolute whole-group owner profit",
+        "Current notes/gross dilution, US asset-sale value and continuing mix unknown",
+        "Going-concern uncertainty/current funding prevent FY1/FY2 common targets"
+      ],
+      "investment_thesis": "Elixinol sells hemp and wellness products. Nine-month hemp revenue rose12% toA$6.41m and gross profit41%, but absolute gross profit and whole-group reconciliation are absent. H1 continuing lossA$0.973m and cash FCF negativeA$0.733m contrast with the segment growth headline. June debt exceeds cash, the auditor notes going-concern uncertainty, and current notes, options, US divestiture proceeds and continuing mix remain unresolved. Fundamental loss/runway work was performed, but no supported FY1/FY2 EPS or per-share target/MOIC can be inferred from the nine-month segment update.",
+      "price": 0.007,
+      "price_as_of": "2026-10-13 indicative ask; not executable",
+      "rank": 13,
+      "rank_reason": "Unrankable MOIC; operating improvement has substance, but financing and scope block shareholder-value forecasts.",
+      "risk": "Going concern, group-versus-segment mismatch, debt and evolving dilution.",
+      "security_id": "ASX|EXL|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://announcements.asx.com.au/asxpdf/20260831/pdf/073j45r2y2fk5z.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://announcements.asx.com.au/asxpdf/20261013/pdf/0757v0d19zk8ns.pdf"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Elixinol sells hemp and wellness products. Nine-month hemp revenue rose12% toA$6.41m and gross profit41%, but absolute gross profit and whole-group reconciliation are absent. H1 continuing lossA$0.973m and cash FCF negativeA$0.733m contrast with the segment growth headline. June debt exceeds cash, the auditor notes going-concern uncertainty, and current notes, options, US divestiture proceeds and continuing mix remain unresolved. Fundamental loss/runway work was performed, but no supported FY1/FY2 EPS or per-share target/MOIC can be inferred from the nine-month segment update.",
+      "ticker": "EXL",
+      "torque": "No supported per-share MOIC; retain as an input-blocked fundamental case",
+      "weighted_upside_pct": null,
+      "why_new": "October13 nine-month hemp revenue and GP growth update changes the segment operating evidence; whole-group margin/cash and funding remain blocked."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Guidance withdrawal and rebuilt post-rights loss/runway economics.",
+      "company": "Desert Control AS",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "NOK",
+      "downside_pct": null,
+      "exchange": "Euronext Growth Oslo MERK",
+      "gaps": [
+        "Guidance withdrawn; current cash and full option register unknown",
+        "Sensitivity assumes50%margin and annual costs, not issuer forecast; funding needed",
+        "No sustainable earnings or defensible positive base/bull intrinsic value; no P/E or peer MOIC"
+      ],
+      "investment_thesis": "Desert Control sells soil-water technology. It withdrew FY2026 revenue guidance as sales cycles lengthened and pilot evidence was delayed. H1 cash FCF was negativeNOK45.078m and owner-economic FCF negativeNOK49.864m after recurring SBC. July’sNOK70m rights issue increased basic shares to377.2m; atNOK0.245 the basic market cap isNOK92.4m. Analyst FY2027 revenueNOK2/10/40m with50% gross margin still produces operating lossesNOK72.62/68.62/53.62m and owner FCF lossesNOK85.39/81.39/66.39m. Current cash and gross options are unknown. Financing is required under these sensitivities; bear common value can approach zero, but no credible positive base/bull intrinsic value or MOIC is established.",
+      "price": 0.245,
+      "price_as_of": "2026-10-12 official close",
+      "rank": 14,
+      "rank_reason": "Unrankable MOIC; guidance withdrawal and severe modeled burn put it behind the operating-growth cases.",
+      "risk": "Persistent burn, execution delays and further funding dilution; historical pro-forma cash is not current cash.",
+      "security_id": "Euronext Growth Oslo MERK|DSRT|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://desertcontrol.com/wp-content/uploads/2026/08/2026-1H-Financial-Statements-and-Review.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://news.cision.com/desert-control-as/r/desert-control-withdraws-revenue-guidance,c4405963"
+        },
+        {
+          "label": "Primary issuer/offer source 3",
+          "url": "https://desertcontrol.com/wp-content/uploads/2026/08/Desert-Control-2026-Capital-Markets-Day-Presentation-Transcript.pdf"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Desert Control sells soil-water technology. It withdrew FY2026 revenue guidance as sales cycles lengthened and pilot evidence was delayed. H1 cash FCF was negativeNOK45.078m and owner-economic FCF negativeNOK49.864m after recurring SBC. July’sNOK70m rights issue increased basic shares to377.2m; atNOK0.245 the basic market cap isNOK92.4m. Analyst FY2027 revenueNOK2/10/40m with50% gross margin still produces operating lossesNOK72.62/68.62/53.62m and owner FCF lossesNOK85.39/81.39/66.39m. Current cash and gross options are unknown. Financing is required under these sensitivities; bear common value can approach zero, but no credible positive base/bull intrinsic value or MOIC is established.",
+      "ticker": "DSRT",
+      "torque": "No supported per-share MOIC; retain as an input-blocked fundamental case",
+      "weighted_upside_pct": null,
+      "why_new": "Guidance withdrawal and rebuilt post-rights loss/runway economics."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Completed sale converts a safeguard headline into actual cash and credit claims.",
+      "company": "Bigben Interactive SA",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "EUR",
+      "downside_pct": null,
+      "exchange": "Euronext Paris",
+      "gaps": [
+        "Cash sale proceeds primarily repay creditors, not common distribution",
+        "Final creditor tranches/dilution, continuing accounts and common waterfall unresolved",
+        "No residual share target or MOIC; vendor credit is not35m additional cash"
+      ],
+      "investment_thesis": "Bigben completed its Bigben Connected disposal for€35m cash plus an approximately€13m five-year vendor credit. The restructuring plan directs proceeds primarily to creditors, so this is not€48m of common equity or recurring EPS. The proposed rights/creditor subscriptions could add billions of low-price shares; exact final dilution and the residual business accounts are unresolved. Fundamental creditor-waterfall work was performed, but postponed accounts, vendor-credit recovery and remaining claims prevent FY1/FY2 common earnings or a supported residual-share MOIC.",
+      "price": 0.071,
+      "price_as_of": "2026-10-09 delayed close; not executable",
+      "rank": 15,
+      "rank_reason": "Unrankable MOIC; completed cash sale is outweighed by unresolved creditor allocation and dilution.",
+      "risk": "Creditors absorb proceeds; very large proposed dilution, delayed accounts and vendor-credit risk.",
+      "security_id": "Euronext Paris|BIG|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://bigben-group.com/press-corner/press-releases/"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://bigben-group.com/?file_upload_media=5102&fileshare_name=section-1-2026-2027_docs&post_id=40"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Bigben completed its Bigben Connected disposal for€35m cash plus an approximately€13m five-year vendor credit. The restructuring plan directs proceeds primarily to creditors, so this is not€48m of common equity or recurring EPS. The proposed rights/creditor subscriptions could add billions of low-price shares; exact final dilution and the residual business accounts are unresolved. Fundamental creditor-waterfall work was performed, but postponed accounts, vendor-credit recovery and remaining claims prevent FY1/FY2 common earnings or a supported residual-share MOIC.",
+      "ticker": "BIG",
+      "torque": "No supported per-share MOIC; retain as an input-blocked fundamental case",
+      "weighted_upside_pct": null,
+      "why_new": "October8 completed35m cash sale and vendor credit plus creditor-use/dilution bridge replace metadata-only safeguard baseline."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "New net funding and issuer runway statement.",
+      "company": "Advicenne",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "EUR",
+      "downside_pct": null,
+      "exchange": "Euronext Growth Paris",
+      "gaps": [
+        "Reported profit is dominated by tax/rebate/nonrecurring items",
+        "Variable-price conversion/current cash, NDA withdrawal and safeguard block diluted forecast",
+        "Issuer runway claim is not common intrinsic value; no target/MOIC fabricated"
+      ],
+      "investment_thesis": "Advicenne develops treatments for rare kidney diseases. October12 net convertible funding of€1m is said to extend runway to2028, but availability of another€1.2m backstop is not cash received. H1 reported profit€4.618m included€5.989m pharmaceutical-tax/rebate benefits and€1.112m other nonrecurring items; the reconstructed underlying loss is approximately€2.483m. June cash was€1.549m. Variable-price conversion, the US NDA withdrawal, safeguard process and current cash block normalized diluted FY1/FY2 earnings, targets and MOIC. Funding can preserve the business while diluting common holders.",
+      "price": 0.659,
+      "price_as_of": "2026-10-09 delayed close; not executable",
+      "rank": 16,
+      "rank_reason": "Unrankable MOIC; funding improves runway but does not establish profitable common earnings.",
+      "risk": "Nonrecurring reported profit, variable-price dilution and uncertain clinical/regulatory recovery.",
+      "security_id": "Euronext Growth Paris|ALDVI|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://advicenne.com/wp-content/uploads/2026/09/PR-ADVICENNE_H1-2026-FINAL.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://advicenne.com/investors/press-releases/"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "Advicenne develops treatments for rare kidney diseases. October12 net convertible funding of€1m is said to extend runway to2028, but availability of another€1.2m backstop is not cash received. H1 reported profit€4.618m included€5.989m pharmaceutical-tax/rebate benefits and€1.112m other nonrecurring items; the reconstructed underlying loss is approximately€2.483m. June cash was€1.549m. Variable-price conversion, the US NDA withdrawal, safeguard process and current cash block normalized diluted FY1/FY2 earnings, targets and MOIC. Funding can preserve the business while diluting common holders.",
+      "ticker": "ALDVI",
+      "torque": "No supported per-share MOIC; retain as an input-blocked fundamental case",
+      "weighted_upside_pct": null,
+      "why_new": "New net funding and issuer runway statement."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": "Post-sale distribution and new warrants require a residual-equity bridge.",
+      "company": "3030 DVD AS, formerly Deep Value Driller",
+      "confidence": "Conditional/source-input-blocked; no verified Buy",
+      "currency": "NOK",
+      "downside_pct": null,
+      "exchange": "Euronext Growth Oslo MERK",
+      "gaps": [
+        "Historical parent book is not realizable NAV; vessel earnings and payout unavailable to new buyers",
+        "New investment common waterfall/fees/dilution and current cash unknown",
+        "No normalized FY1/FY2 EPS or evidenced base/bull value;1.5xbook multiplier rejected as arbitrary"
+      ],
+      "investment_thesis": "3030 DVD, formerly Deep Value Driller, is now a post-vessel-sale investment shell. TheNOK20.60 distribution went ex onOctober8 and is unavailable toOctober12 buyers. AtNOK2.47, price is about4.35x the dated parent residual-book proxyNOK0.5684 per share, not a76.99% discount to book. That book value is not realizable NAV. Full exercise of newNOK1 warrants gives only a static asset proxy aroundNOK0.6077, with proceeds counted once. Sold-vessel H1 profit and CFO are not recurring. Future acquisitions, fees, current cash and dilution are unidentified, so a bear zero is possible but no supported base/bull intrinsic target or earnings MOIC exists.",
+      "price": 2.47,
+      "price_as_of": "2026-10-12 dated close",
+      "rank": 17,
+      "rank_reason": "Unrankable fair-value MOIC; book diagnostic is not a target and gives no supported common upside.",
+      "risk": "New buyers cannot receive the detached payout; price greatly exceeds dated residual book.",
+      "security_id": "Euronext Growth Oslo MERK|DVD|ordinary",
+      "sources": [
+        {
+          "label": "Primary issuer/offer source 1",
+          "url": "https://www.deepvaluedriller.no/dvd-h1-2026-results/"
+        },
+        {
+          "label": "Primary issuer/offer source 2",
+          "url": "https://www.deepvaluedriller.no/wp-content/uploads/2026/10/Deep-Value-Driller-AS-Minutes-of-EGM-7-October-2026-incl.-appendices.pdf"
+        },
+        {
+          "label": "Primary issuer/offer source 3",
+          "url": "https://www.deepvaluedriller.no/wp-content/uploads/2026/09/Deep-Value-Driller-AS-Notice-of-EGM-7-october-2026.pdf"
+        }
+      ],
+      "status": "Research needed; valuation pending",
+      "thesis": "3030 DVD, formerly Deep Value Driller, is now a post-vessel-sale investment shell. TheNOK20.60 distribution went ex onOctober8 and is unavailable toOctober12 buyers. AtNOK2.47, price is about4.35x the dated parent residual-book proxyNOK0.5684 per share, not a76.99% discount to book. That book value is not realizable NAV. Full exercise of newNOK1 warrants gives only a static asset proxy aroundNOK0.6077, with proceeds counted once. Sold-vessel H1 profit and CFO are not recurring. Future acquisitions, fees, current cash and dilution are unidentified, so a bear zero is possible but no supported base/bull intrinsic target or earnings MOIC exists.",
+      "ticker": "DVD",
+      "torque": "No supported per-share MOIC; retain as an input-blocked fundamental case",
+      "weighted_upside_pct": null,
+      "why_new": "Post-sale distribution and new warrants require a residual-equity bridge."
+    }
+  ],
+  "schema_version": 1
+}
