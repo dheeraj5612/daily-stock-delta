@@ -1,6 +1,12 @@
 {
-  "current_date": "2026-10-16",
+  "current_date": "2026-10-20",
   "days": [
+    {
+      "count": 9422,
+      "date": "2026-10-20",
+      "digest_id": "TH-d0c8ffb003a850a2d079",
+      "path": "data/days/2026-10-20.json"
+    },
     {
       "count": 1025,
       "date": "2026-10-16",
