@@ -5,6 +5,7 @@ let editorial={};
 const cardAnchors=new Map([...document.querySelectorAll('#ideas .idea[data-security-id]')].map(element=>[element.dataset.securityId,element.id]));
 const dateLabel=date=>date?new Date(`${date}T12:00:00Z`).toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'America/New_York'}):'Awaiting first edition';
 function node(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;}
+function metricText(text){return text.replace(/(-?\d[\d,]*\.\d{2,})(\s*%)/g,(_,number,unit)=>`${Number(number.replaceAll(',','')).toLocaleString('en-US',{minimumFractionDigits:1,maximumFractionDigits:1})}${unit}`);}
 function sourceLink(source){try{const u=new URL(source.url);if(!['https:','http:'].includes(u.protocol))return null;const a=node('a',source.label||u.hostname);a.href=u.href;a.target='_blank';a.rel='noopener noreferrer';return a;}catch{return null;}}
 function presentation(e){
 const override=editorial.editions?.[snapshot?.date]?.[e.security_id]||{};
@@ -21,12 +22,12 @@ const identity=node('div',undefined,'identity');
 const display=presentation(e);
 identity.append(node('h3',display.company),node('span',e.ticker,'ticker'));
 if(display.native)identity.append(node('span',display.native,'native-company'));
-article.append(identity,node('p',e.thesis,'thesis'));
+article.append(identity,node('p',metricText(e.thesis),'thesis'));
 const details=node('details',undefined,'details');details.append(node('summary','More details'));
-if(display.investmentThesis){const thesis=node('div',undefined,'investment-thesis');thesis.append(node('h4','Investment thesis'),node('p',display.investmentThesis));details.append(thesis);}
+if(display.investmentThesis){const thesis=node('div',undefined,'investment-thesis');thesis.append(node('h4','Investment thesis'),node('p',metricText(display.investmentThesis)));details.append(thesis);}
 const grid=node('div',undefined,'detail-grid');
-for(const [title,value] of [['Catalyst',e.catalyst],['Risk / thesis breaker',e.risk],['Upside torque',e.torque]]){if(typeof value!=='string'||!value.trim())continue;const d=node('div');d.append(node('h4',title),node('p',value));grid.append(d);}if(grid.children.length)details.append(grid);
-const metrics=node('div',undefined,'metrics');for(const [title,key] of [['Weighted','weighted_upside_pct'],['Base case','base_upside_pct'],['Bull case','bull_upside_pct'],['Downside','downside_pct']]){if(!Number.isFinite(e[key]))continue;const metric=node('span',undefined,'metric');metric.append(node('span',title),node('strong',`${e[key]>0?'+':''}${e[key].toLocaleString('en-US',{maximumFractionDigits:1})}%`));metrics.append(metric);}if(metrics.children.length)details.append(metrics);
+for(const [title,value] of [['Catalyst',e.catalyst],['Risk / thesis breaker',e.risk],['Upside torque',e.torque]]){if(typeof value!=='string'||!value.trim())continue;const d=node('div');d.append(node('h4',title),node('p',metricText(value)));grid.append(d);}if(grid.children.length)details.append(grid);
+const metrics=node('div',undefined,'metrics');for(const [title,key] of [['Weighted','weighted_upside_pct'],['Base case','base_upside_pct'],['Bull case','bull_upside_pct'],['Downside','downside_pct']]){if(!Number.isFinite(e[key]))continue;const metric=node('span',undefined,'metric');metric.append(node('span',title),node('strong',`${e[key]>0?'+':''}${e[key].toLocaleString('en-US',{minimumFractionDigits:1,maximumFractionDigits:1})}%`));metrics.append(metric);}if(metrics.children.length)details.append(metrics);
 const sources=node('div',undefined,'sources');for(const source of e.sources||[]){const a=sourceLink(source);if(a)sources.append(a);}if(sources.children.length)details.append(sources);
 if(details.children.length>1)article.append(details);
 return article;
