@@ -33,6 +33,7 @@ if(details.children.length>1)article.append(details);
 return article;
 }
 function render(){
+if(!snapshot)return;
 const q=$('search').value.trim().toLowerCase();
 const all=snapshot?.equities||[];
 const rows=all.filter(e=>{const display=presentation(e);return [e.ticker,e.company,display.company,display.native,e.thesis,display.investmentThesis].some(v=>String(v||'').toLowerCase().includes(q));}).sort((a,b)=>a.rank-b.rank);
@@ -43,11 +44,28 @@ $('ideas').replaceChildren(...cards);
 if(!rows.length)$('ideas').append(node('p',q?'No names match your search.':'No names in this edition.','empty'));
 $('shown').textContent=`${rows.length} of ${all.length} names`;
 }
+function unavailable(){
+snapshot=undefined;
+$('ideas').replaceChildren(node('p','This edition could not be loaded. Please refresh or visit the archive.','empty'));
+$('edition-date').textContent='Edition unavailable';
+$('edition-label').textContent='EDITION UNAVAILABLE';
+$('edition-count').textContent='';
+$('shown').textContent='';
+$('share').removeAttribute('href');
+}
+function validDate(value){
+if(typeof value!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(value)||value.startsWith('0000-'))return false;
+const parsed=new Date(`${value}T00:00:00Z`);
+return !Number.isNaN(parsed.getTime())&&parsed.toISOString().slice(0,10)===value;
+}
 async function load(date,editorialReady=Promise.resolve()){
+let mismatched=false;
 try{
 const response=await fetch(date?`data/days/${date}.json`:'data/current.json',{cache:'no-store'});
 if(!response.ok)throw new Error('Edition unavailable');
 const data=await response.json();
+if(date&&data?.date!==date){mismatched=true;throw new Error('Edition date mismatch');}
+if(!data||!Array.isArray(data.equities))throw new Error('Invalid edition');
 await editorialReady;
 snapshot=data;
 $('edition-date').textContent=dateLabel(snapshot.date);
@@ -57,22 +75,31 @@ const u=snapshot.date?new URL(`editions/${snapshot.date}.html`,document.baseURI)
 $('share').href=`https://x.com/intent/tweet?${new URLSearchParams({text:`Daily Stock Delta${snapshot.date?` | ${dateLabel(snapshot.date)}`:''}: names and investment theses.`,url:u.href})}`;
 render();
 }catch{
-if($('ideas').querySelector('.idea')&&!new URLSearchParams(location.search).get('date'))return;
-$('ideas').replaceChildren(node('p','This edition could not be loaded. Please refresh or visit the archive.','empty'));
-$('edition-date').textContent='Edition unavailable';
-$('edition-count').textContent='';
+const staticDate=document.documentElement.dataset.edition;
+const explicit=new URLSearchParams(location.search).has('date');
+if(!mismatched&&date&&staticDate===date)return;
+if(!mismatched&&!date&&!explicit&&!staticDate&&$('ideas').querySelector('.idea'))return;
+unavailable();
 }
 }
 (async()=>{
 const editorialRequest=fetch('data/editorial.json',{cache:'no-store'}).then(response=>response.ok?response.json():null).then(data=>{if(data?.schema_version===1&&data.editions)editorial=data;}).catch(()=>{});
-const requested=new URLSearchParams(location.search).get('date')||document.documentElement.dataset.edition;
-let date='';
+const params=new URLSearchParams(location.search);
+const explicit=params.has('date');
+const requested=explicit?params.get('date'):document.documentElement.dataset.edition;
+if((explicit&&params.getAll('date').length!==1)||(requested!==undefined&&requested!==null&&!validDate(requested))){unavailable();return;}
+let index=null;
 try{
 const response=await fetch('data/index.json',{cache:'no-store'});
-if(response.ok){
-const index=await response.json();
-const dates=[...new Set((Array.isArray(index.days)?index.days:[]).map(day=>day.date).filter(day=>typeof day==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(day)))].sort().reverse();
-if(requested&&dates.includes(requested))date=requested;
+if(!response.ok)throw new Error('Index unavailable');
+const data=await response.json();
+if(!data||!Array.isArray(data.days))throw new Error('Invalid index');
+index=data;
+}catch{}
+const date=requested||'';
+if(index){
+const dates=[...new Set(index.days.map(day=>day?.date).filter(validDate))].sort().reverse();
+if(date&&!dates.includes(date)){unavailable();return;}
 if(dates.length){
 const wrapper=node('div',undefined,'edition-picker');
 const label=node('label','Choose an edition');label.htmlFor='edition-picker';
@@ -83,7 +110,6 @@ select.addEventListener('change',()=>{const day=select.value;if(!dates.includes(
 wrapper.append(label,select);$('share').before(wrapper);
 }
 }
-}catch{}
 await load(date,editorialRequest);
 })();
 $('search').addEventListener('input',render);
