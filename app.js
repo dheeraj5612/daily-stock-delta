@@ -67,9 +67,23 @@ $('edition-count').textContent='';
 const editorialRequest=fetch('data/editorial.json',{cache:'no-store'}).then(response=>response.ok?response.json():null).then(data=>{if(data?.schema_version===1&&data.editions)editorial=data;}).catch(()=>{});
 const requested=new URLSearchParams(location.search).get('date')||document.documentElement.dataset.edition;
 let date='';
-if(requested&&/^\d{4}-\d{2}-\d{2}$/.test(requested)){
-try{const response=await fetch('data/index.json',{cache:'no-store'});if(response.ok){const index=await response.json();if((index.days||[]).some(day=>day.date===requested))date=requested;}}catch{}
+try{
+const response=await fetch('data/index.json',{cache:'no-store'});
+if(response.ok){
+const index=await response.json();
+const dates=[...new Set((Array.isArray(index.days)?index.days:[]).map(day=>day.date).filter(day=>typeof day==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(day)))].sort().reverse();
+if(requested&&dates.includes(requested))date=requested;
+if(dates.length){
+const wrapper=node('div',undefined,'edition-picker');
+const label=node('label','Choose an edition');label.htmlFor='edition-picker';
+const select=node('select');select.id='edition-picker';
+for(const day of dates){const option=node('option',`${dateLabel(day)}${day===index.current_date?' (latest)':''}`);option.value=day;select.append(option);}
+select.value=date||index.current_date;
+select.addEventListener('change',()=>{const day=select.value;if(!dates.includes(day))return;location.assign(new URL(day===index.current_date?'./':`./?date=${day}`,document.baseURI).href);});
+wrapper.append(label,select);$('share').before(wrapper);
 }
+}
+}catch{}
 await load(date,editorialRequest);
 })();
 $('search').addEventListener('input',render);
