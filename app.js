@@ -22,11 +22,14 @@ const identity=node('div',undefined,'identity');
 const display=presentation(e);
 identity.append(node('h3',display.company),node('span',e.ticker,'ticker'));
 if(display.native)identity.append(node('span',display.native,'native-company'));
+if(typeof e.status==='string'&&e.status.trim())identity.append(node('span',e.status,'research-status'));
 article.append(identity,node('p',metricText(e.thesis),'thesis'));
 const details=node('details',undefined,'details');details.append(node('summary','More details'));
 if(display.investmentThesis){const thesis=node('div',undefined,'investment-thesis');thesis.append(node('h4','Investment thesis'),node('p',metricText(display.investmentThesis)));details.append(thesis);}
 const grid=node('div',undefined,'detail-grid');
 for(const [title,value] of [['Catalyst',e.catalyst],['Risk / thesis breaker',e.risk],['Upside torque',e.torque]]){if(typeof value!=='string'||!value.trim())continue;const d=node('div');d.append(node('h4',title),node('p',metricText(value)));grid.append(d);}if(grid.children.length)details.append(grid);
+const gaps=Array.isArray(e.gaps)?e.gaps.filter(value=>typeof value==='string'&&value.trim()):[];
+if(gaps.length){const section=node('div',undefined,'research-gaps');section.append(node('h4','Open questions'));const list=node('ul');for(const gap of gaps)list.append(node('li',gap));section.append(list);details.append(section);}
 const metrics=node('div',undefined,'metrics');for(const [title,key] of [['Weighted','weighted_upside_pct'],['Base case','base_upside_pct'],['Bull case','bull_upside_pct'],['Downside','downside_pct']]){if(!Number.isFinite(e[key]))continue;const metric=node('span',undefined,'metric');metric.append(node('span',title),node('strong',`${e[key]>0?'+':''}${e[key].toLocaleString('en-US',{minimumFractionDigits:1,maximumFractionDigits:1})}%`));metrics.append(metric);}if(metrics.children.length)details.append(metrics);
 const sources=node('div',undefined,'sources');for(const source of e.sources||[]){const a=sourceLink(source);if(a)sources.append(a);}if(sources.children.length)details.append(sources);
 if(details.children.length>1)article.append(details);
@@ -44,6 +47,15 @@ $('ideas').replaceChildren(...cards);
 if(!rows.length)$('ideas').append(node('p',q?'No names match your search.':'No names in this edition.','empty'));
 $('shown').textContent=`${rows.length} of ${all.length} names`;
 }
+function renderCoverage(data){
+const gaps=Array.isArray(data?.coverage_gaps)?data.coverage_gaps.filter(value=>typeof value==='string'&&value.trim()):[];
+const target=$('edition-gaps');
+if(!target)return;
+if(!gaps.length){target.replaceChildren();return;}
+const details=node('details');details.append(node('summary','Research coverage'));
+const list=node('ul');for(const gap of gaps)list.append(node('li',gap));
+details.append(list);target.replaceChildren(details);
+}
 function unavailable(){
 snapshot=undefined;
 $('ideas').replaceChildren(node('p','This edition could not be loaded. Please refresh or visit the archive.','empty'));
@@ -51,6 +63,7 @@ $('edition-date').textContent='Edition unavailable';
 $('edition-label').textContent='EDITION UNAVAILABLE';
 $('edition-count').textContent='';
 $('shown').textContent='';
+$('edition-gaps')?.replaceChildren();
 $('share').removeAttribute('href');
 }
 function validDate(value){
@@ -68,6 +81,7 @@ if(date&&data?.date!==date){mismatched=true;throw new Error('Edition date mismat
 if(!data||!Array.isArray(data.equities))throw new Error('Invalid edition');
 await editorialReady;
 snapshot=data;
+renderCoverage(snapshot);
 $('edition-date').textContent=dateLabel(snapshot.date);
 $('edition-label').textContent=date?'DATED EDITION':'LATEST EDITION';
 $('edition-count').textContent=`${snapshot.equities.length} names`;
