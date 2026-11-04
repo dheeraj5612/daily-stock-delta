@@ -1,0 +1,699 @@
+{
+  "coverage_gaps": [
+    "PARTIAL SOURCE COMPILATION: Coverage is incomplete; prices and valuations are pending. Items are not investment recommendations, and their order is not a ranking.",
+    "RETROSPECTIVE: Compiled on November 4 from reviewed source notes. This does not claim an edition or email was sent on this date.",
+    "The displayed time is the recorded run cutoff or source capture; it does not establish original qualification or complete intake."
+  ],
+  "cutoff_at": "2026-10-29T12:34:33Z",
+  "date": "2026-10-29",
+  "digest_id": "web-source-2026-10-29-5021d1d4d8040407",
+  "eligible_security_ids": [
+    "source-subject|otcqx: vrno",
+    "source-subject|sgx: ulg / ugs",
+    "source-subject|euronext paris: sop",
+    "source-subject|tse: 9531",
+    "source-subject|nasdaq: wen",
+    "source-subject|nasdaq: tpcs",
+    "source-subject|nasdaq: ambr",
+    "source-subject|nasdaq: nwfl",
+    "source-subject|aim: big",
+    "source-subject|krx: 005930",
+    "source-subject|krx: 006400",
+    "source-subject|tse: 6723",
+    "source-subject|sgx: 8az",
+    "source-subject|asx: ais",
+    "source-subject|nasdaq: googl (class a) / goog (class c)",
+    "source-subject|nyse: cdlr",
+    "source-subject|tsx: adn",
+    "source-subject|tsxv: ncau",
+    "source-subject|tsx: tlry",
+    "source-subject|asx: alc",
+    "source-subject|aim: ensi"
+  ],
+  "equities": [
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Verano Holdings Corp.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "OTCQX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 1,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The quarter recorded a net loss. Review taxes, regulatory risks, cash generation, share class and valuation.",
+      "security_id": "source-subject|otcqx: vrno",
+      "sources": [
+        {
+          "label": "Issuer results · October 29, 2026",
+          "url": "https://investors.verano.com/news-releases/news-release-details/verano-announces-strong-third-quarter-2026-financial-results"
+        },
+        {
+          "label": "Issuer-distributed release · October 29, 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391097/0/en/verano-announces-strong-third-quarter-2026-financial-results-highlighted-by-212-million-in-revenue-and-year-over-year-organic-growth.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Verano reported third-quarter revenue of $212.4 million, up from $202.8 million a year earlier, and a net loss attributable to the company of $4.1 million. Operating cash flow was $49 million.",
+      "ticker": "VRNO",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Verano reported third-quarter revenue of $212.4 million, up from $202.8 million a year earlier, and a net loss attributable to the company of $4.1 million. Operating cash flow was $49 million."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "UltraGreen.ai Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "SGX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 2,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Check the revised outlook, account settlement currency and current valuation before drawing conclusions.",
+      "security_id": "source-subject|sgx: ulg / ugs",
+      "sources": [
+        {
+          "label": "Issuer business update · October 29",
+          "url": "https://investor.ultragreen.ai/newsroom/20261029_065404_UGS_6FJNMAM0WORSPYS2.1.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In its third-quarter business update, the company expected full-year 2026 sales below its earlier guidance and said US competition could weigh on 2027 sales and profitability. ULG and UGS are two currency counters for the same ordinary shares.",
+      "ticker": "ULG / UGS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In its third-quarter business update, the company expected full-year 2026 sales below its earlier guidance and said US competition could weigh on 2027 sales and profitability. ULG and UGS are two currency counters for the same ordinary shares."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Sopra Steria Group",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Euronext Paris",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 3,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Organic growth is an adjusted measure and the target is a forecast. Check margins, cash flow and the current share valuation.",
+      "security_id": "source-subject|euronext paris: sop",
+      "sources": [
+        {
+          "label": "Issuer trading update · October 29, 2026",
+          "url": "https://www.soprasteria.com/docs/librariesprovider2/sopra-steria-corporate/finance/cp-fi/29102026_sop_q326-revenues_eng.pdf?sfvrsn=f3e417db_8"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Sopra Steria reported third-quarter revenue of €1,420.1 million, up 4.3% organically, and raised its 2026 organic revenue growth target to 2.5%–3.0%. This retrospective source review does not establish qualification by the original cutoff.",
+      "ticker": "SOP",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Sopra Steria reported third-quarter revenue of €1,420.1 million, up 4.3% organically, and raised its 2026 organic revenue growth target to 2.5%–3.0%. This retrospective source review does not establish qualification by the original cutoff."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Tokyo Gas Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 4,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The authorisation does not establish that any shares were purchased. Check execution, current capital allocation, exact share line and valuation.",
+      "security_id": "source-subject|tse: 9531",
+      "sources": [
+        {
+          "label": "Issuer repurchase resolution · October 29, 2026",
+          "url": "https://www.tokyo-gas.co.jp/en/IR/support/pdf/20261029-04e.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Tokyo Gas announced board approval to acquire up to 12 million common shares for up to ¥50 billion on the Tokyo Stock Exchange from November 2, 2026 through March 31, 2027. This retrospective review does not establish qualification by the original cutoff.",
+      "ticker": "9531",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Tokyo Gas announced board approval to acquire up to 12 million common shares for up to ¥50 billion on the Tokyo Stock Exchange from November 2, 2026 through March 31, 2027. This retrospective review does not establish qualification by the original cutoff."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "The Wendy’s Company",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 5,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The proposal was nonbinding, with financing subject to negotiation. Check later board responses, funding, transaction terms and current valuation.",
+      "security_id": "source-subject|nasdaq: wen",
+      "sources": [
+        {
+          "label": "SEC filing · October 28, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/30697/000093041326003164/xslSCHEDULE_13D_X02/primary_doc.xml"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "A Schedule 13D amendment accepted on October 28 after the recorded October 28 cutoff disclosed a nonbinding proposal by Trian and partners to acquire shares not already held by the filers for $7.35 per share in cash. This is a retrospective October 29 carryforward; original qualification remains unconfirmed.",
+      "ticker": "WEN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "A Schedule 13D amendment accepted on October 28 after the recorded October 28 cutoff disclosed a nonbinding proposal by Trian and partners to acquire shares not already held by the filers for $7.35 per share in cash. This is a retrospective October 29 carryforward; original qualification remains unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "TechPrecision Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 6,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A maturity extension is not proof that other covenant or financing risks are resolved. Check current credit terms, liquidity, lender actions and valuation.",
+      "security_id": "source-subject|nasdaq: tpcs",
+      "sources": [
+        {
+          "label": "SEC filing · October 28, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1328792/000110465926119706/tm2628379d1_8k.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In a filing accepted October 28 after the recorded October 28 cutoff, TechPrecision said a loan amendment extended the maturity of its revolving credit facility from October 16 to November 30, 2026. This retrospective October 29 carryforward does not establish original qualification or prior delivery.",
+      "ticker": "TPCS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In a filing accepted October 28 after the recorded October 28 cutoff, TechPrecision said a loan amendment extended the maturity of its revolving credit facility from October 16 to November 30, 2026. This retrospective October 29 carryforward does not establish original qualification or prior delivery."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Amber International Holding Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 7,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The Nasdaq-traded depositary shares and the Class A and Class B ordinary shares are distinct. Check voting rights, depositary ratio, issuance, outstanding awards and fully diluted ownership.",
+      "security_id": "source-subject|nasdaq: ambr",
+      "sources": [
+        {
+          "label": "SEC-filed issuer announcement · October 23, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1697818/000110465926118256/tm2628186d1_ex99-1.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 23, Amber International said shareholders approved a fully vested award of 23,469,189 Class B ordinary shares to its chief executive and increased the incentive-plan reserve to 11 million Class A ordinary shares. This is a retrospective October 29 review; original qualification and delivery are unconfirmed.",
+      "ticker": "AMBR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 23, Amber International said shareholders approved a fully vested award of 23,469,189 Class B ordinary shares to its chief executive and increased the incentive-plan reserve to 11 million Class A ordinary shares. This is a retrospective October 29 review; original qualification and delivery are unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Norwood Financial Corp",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 8,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The one-time benefit limits simple annualization. Check loan quality, funding, capital, security history and current valuation.",
+      "security_id": "source-subject|nasdaq: nwfl",
+      "sources": [
+        {
+          "label": "SEC-filed issuer results · October 27, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1013272/000101327226000024/nwfl-20261027xex99_1.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Norwood Financial reported third-quarter net income of $11.763 million and diluted earnings of $1.08 per share. The company said a resolved borrower bankruptcy provided a one-time benefit to interest income and margin. This is a retrospective October 29 review; original qualification and delivery are unconfirmed.",
+      "ticker": "NWFL",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Norwood Financial reported third-quarter net income of $11.763 million and diluted earnings of $1.08 per share. The company said a resolved borrower bankruptcy provided a one-time benefit to interest income and margin. This is a retrospective October 29 review; original qualification and delivery are unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Big Technologies plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 9,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The dispute’s outcome, costs and effects are uncertain. Check subsequent court developments, cash, claims and valuation.",
+      "security_id": "source-subject|aim: big",
+      "sources": [
+        {
+          "label": "Issuer litigation update · October 26, 2026",
+          "url": "https://www.investegate.eu/announcement/rns/big-technologies--big/further-litigation-update/9839999"
+        },
+        {
+          "label": "LSE RNS 3720A · October 26, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/BIG/further-litigation-update/6cc0-90-9f-c0-79-47dbb0"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 26, Big Technologies said it had received particulars of a defamation claim and was preparing its response. The company said it disputed the claim. This is a retrospective October 29 review; original qualification and delivery are unconfirmed.",
+      "ticker": "BIG",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 26, Big Technologies said it had received particulars of a defamation claim and was preparing its response. The company said it disputed the claim. This is a retrospective October 29 review; original qualification and delivery are unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Samsung Electronics Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "KRX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 10,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Memory strength and segment results can change with the cycle. Check pricing, capital spending, segment margins and current valuation.",
+      "security_id": "source-subject|krx: 005930",
+      "sources": [
+        {
+          "label": "Issuer third-quarter results · October 29, 2026",
+          "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Samsung Electronics reported third-quarter revenue of KRW 195.3 trillion and operating profit of KRW 107.4 trillion. Its Device eXperience division recorded an operating loss of KRW 0.8 trillion. This is a retrospective source note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "005930",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Samsung Electronics reported third-quarter revenue of KRW 195.3 trillion and operating profit of KRW 107.4 trillion. Its Device eXperience division recorded an operating loss of KRW 0.8 trillion. This is a retrospective source note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Samsung SDI Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "KRX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 11,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Demand mix and the earnings rebound may not persist. Check orders, margins, cash use and current valuation.",
+      "security_id": "source-subject|krx: 006400",
+      "sources": [
+        {
+          "label": "Issuer third-quarter results · October 29, 2026",
+          "url": "https://www.samsungsdi.com/sdi-now/sdi-news/5066.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Samsung SDI reported third-quarter revenue of KRW 4.69 trillion, up 52.6% year over year, and operating profit of KRW 407.8 billion compared with a KRW 591.3 billion loss a year earlier. This is a retrospective source note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "006400",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Samsung SDI reported third-quarter revenue of KRW 4.69 trillion, up 52.6% year over year, and operating profit of KRW 407.8 billion compared with a KRW 591.3 billion loss a year earlier. This is a retrospective source note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Renesas Electronics Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 12,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "IFRS operating profit includes a gain on the sale of the timing business. Reconcile nonrecurring items, review demand and assess current valuation.",
+      "security_id": "source-subject|tse: 6723",
+      "sources": [
+        {
+          "label": "Issuer third-quarter results · October 29, 2026",
+          "url": "https://www.renesas.com/en/about/newsroom/renesas-reports-financial-results-third-quarter-ended-september-30-2026"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Renesas reported third-quarter IFRS revenue of ¥435.9 billion and IFRS operating profit of ¥565.3 billion, versus non-GAAP operating profit of ¥150.5 billion. This is a retrospective source note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "6723",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Renesas reported third-quarter IFRS revenue of ¥435.9 billion and IFRS operating profit of ¥565.3 billion, versus non-GAAP operating profit of ¥150.5 billion. This is a retrospective source note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Aztech Global Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "SGX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 13,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A demand is not a judgment. The legal outcome and potential exposure are unresolved; check the separately dated November 3 update and later notices.",
+      "security_id": "source-subject|sgx: 8az",
+      "sources": [
+        {
+          "label": "Issuer demand announcement · October 29, 2026",
+          "url": "https://www.aztechglobal.com/investor-relations/Aztech%20Global%20Ltd.-%20Receipt%20of%20Letter%20of%20Demand.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Aztech said a subsidiary received a customer demand alleging approximately US$19.4 million in losses. The group denied liability and said it intended to defend and pursue its own claims. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "8AZ",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Aztech said a subsidiary received a customer demand alleging approximately US$19.4 million in losses. The group denied liability and said it intended to defend and pursue its own claims. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Aeris Resources Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 14,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Cash and receivables are not cash alone, and copper-equivalent output depends on commodity assumptions. Check operating costs, guidance, debt and current valuation.",
+      "security_id": "source-subject|asx: ais",
+      "sources": [
+        {
+          "label": "Issuer quarterly report · October 29, 2026",
+          "url": "https://hermes-cdn.investorhub.com/announcement-pdfs/asx/7811424.pdf?v=63960447123"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Aeris reported quarterly copper-equivalent production of 9.3 thousand tonnes and A$178.7 million in cash and receivables at quarter end. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "AIS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Aeris reported quarterly copper-equivalent production of 9.3 thousand tonnes and A$178.7 million in cash and receivables at quarter end. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Alphabet Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 15,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "These are distinct share classes for one issuer event. Review capital spending, cash conversion, legal risks and valuation.",
+      "security_id": "source-subject|nasdaq: googl (class a) / goog (class c)",
+      "sources": [
+        {
+          "label": "Issuer-filed Q3 results · October 28, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Alphabet reported third-quarter revenue of US$127.577 billion versus US$102.346 billion and Google Cloud revenue of US$30.709 billion versus US$15.157 billion. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "GOOGL (Class A) / GOOG (Class C)",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Alphabet reported third-quarter revenue of US$127.577 billion versus US$102.346 billion and Google Cloud revenue of US$30.709 billion versus US$15.157 billion. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Cadeler A/S",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 16,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The preliminary count was not final, and settlement and other steps remained subject to the offer process. One ADS represented four underlying shares; check the later final announcement and current security status.",
+      "security_id": "source-subject|nyse: cdlr",
+      "sources": [
+        {
+          "label": "Issuer preliminary exchange-offer result · October 29, 2026",
+          "url": "https://ir.cadeler.com/financials/all-sec-filings/content/0001978867-26-000129/a6-kxcadelerxpreliminaryre.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Cadeler reported a preliminary 92.02% acceptance rate in the share exchange for its UK redomiciliation, meeting the minimum acceptance condition. The count was subject to verification. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "CDLR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Cadeler reported a preliminary 92.02% acceptance rate in the share exchange for its UK redomiciliation, meeting the minimum acceptance condition. The count was subject to verification. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Acadian Timber Corp.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 17,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Timber volumes declined and results include fair-value and asset-sale effects. Check seasonal cash flow, maintenance needs, distributions and valuation.",
+      "security_id": "source-subject|tsx: adn",
+      "sources": [
+        {
+          "label": "Issuer Q3 results · October 28, 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3390825/0/en/acadian-timber-corp-reports-third-quarter-results.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Acadian reported third-quarter adjusted EBITDA of C$5.023 million versus C$3.508 million, and company-defined free cash flow of C$3.253 million versus C$0.991 million. This is a retrospective October 29 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "ADN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Acadian reported third-quarter adjusted EBITDA of C$5.023 million versus C$3.508 million, and company-defined free cash flow of C$3.253 million versus C$0.991 million. This is a retrospective October 29 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Newcore Gold Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSXV",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 18,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The intercepts were outside the current resource estimate and preliminary feasibility study; they do not establish new reserves or cash flow. Check true widths, continuity, economics and funding.",
+      "security_id": "source-subject|tsxv: ncau",
+      "sources": [
+        {
+          "label": "Issuer drilling results · October 28, 2026",
+          "url": "https://newcoregold.com/news/newcore-gold-drilling-intersects-2.16-g-t-gold-over-37.0-metres-including-5.10-g-t-gold-over-9.0-metres-at-the-enchi-gold/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Newcore reported an Enchi drill interval of 37 metres at 2.16 grams of gold per tonne, including 9 metres at 5.10 grams per tonne. This is a retrospective October 29 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "NCAU",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Newcore reported an Enchi drill interval of 37 metres at 2.16 grams of gold per tonne, including 9 metres at 5.10 grams per tonne. This is a retrospective October 29 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Tilray Brands Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 19,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The savings are a future target, not realized cash flow. Check restructuring costs, dilution, debt, execution and valuation.",
+      "security_id": "source-subject|tsx: tlry",
+      "sources": [
+        {
+          "label": "Issuer beverage update · October 29, 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391117/0/en/tilray-brands-announces-next-phase-of-beverage-transformation.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Tilray said it had consolidated its US brewing footprint from 10 facilities to six and targeted approximately US$20 million of annualized cost savings by the end of fiscal 2028. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "TLRY",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Tilray said it had consolidated its US brewing footprint from 10 facilities to six and targeted approximately US$20 million of annualized cost savings by the end of fiscal 2028. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Alcidion Group Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 20,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Contracted revenue includes renewals and is not recognized revenue or cash profit; the outlook is forward-looking. Check execution, margins, cash flow and valuation.",
+      "security_id": "source-subject|asx: alc",
+      "sources": [
+        {
+          "label": "Issuer trading update · October 29, 2026",
+          "url": "https://www.alcidion.com/asx-announcements/trading-update/"
+        },
+        {
+          "label": "ASX trading update · October 29, 2026",
+          "url": "https://announcements.asx.com.au/asxpdf/20261029/pdf/075y3j08z9kzlk.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Alcidion reported A$50.0 million of FY27 contracted sold-and-renewal revenue at September 30, up 38% on the prior corresponding period. It reaffirmed that FY27 revenue and underlying EBITDA were expected to exceed FY26. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "ALC",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Alcidion reported A$50.0 million of FY27 contracted sold-and-renewal revenue at September 30, up 38% on the prior corresponding period. It reaffirmed that FY27 revenue and underlying EBITDA were expected to exceed FY26. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "EnSilica plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 21,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Tape-out is a development milestone, not proof of production or recurring sales. Check customer execution, margins, cash conversion and valuation.",
+      "security_id": "source-subject|aim: ensi",
+      "sources": [
+        {
+          "label": "Issuer contract update · October 29, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/ENSI/new-contract-win-completed-tape-out-of-asic/16d1-f1-c6-c1-89-49e4ad"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, EnSilica announced a US$2.4 million development-and-supply agreement with an unnamed US healthcare technology company and, separately, completion of a chip tape-out under a previously announced US$1.6 million life-sciences contract. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "ENSI",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, EnSilica announced a US$2.4 million development-and-supply agreement with an unnamed US healthcare technology company and, separately, completion of a chip tape-out under a previously announced US$1.6 million life-sciences contract. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    }
+  ],
+  "schema_version": 1
+}
