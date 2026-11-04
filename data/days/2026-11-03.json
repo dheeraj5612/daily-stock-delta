@@ -1,0 +1,471 @@
+{
+  "coverage_gaps": [
+    "PARTIAL SOURCE COMPILATION: Coverage is incomplete; prices and valuations are pending. Items are not investment recommendations, and their order is not a ranking.",
+    "RETROSPECTIVE: Compiled on November 4 from reviewed source notes. This does not claim an edition or email was sent on this date.",
+    "The timestamp is a calendar grouping boundary; the original daily cutoff is not established."
+  ],
+  "cutoff_at": "2026-11-03T23:59:59-05:00",
+  "date": "2026-11-03",
+  "digest_id": "web-source-2026-11-03-019b21187dc69de1",
+  "eligible_security_ids": [
+    "source-subject|aim: dotd",
+    "source-subject|kosdaq: 317770",
+    "source-subject|nasdaq: pltr",
+    "source-subject|hkex: 00064",
+    "source-subject|hkex: 00905",
+    "source-subject|hkex: 01993",
+    "source-subject|sgx: dcru",
+    "source-subject|sgx: 8az",
+    "source-subject|lse: supr",
+    "source-subject|tsx: wjx",
+    "source-subject|lse: aire",
+    "source-subject|aim: clbs",
+    "source-subject|lse: acg",
+    "source-subject|aim: tru"
+  ],
+  "equities": [
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Dotdigital Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 1,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Growth and acquisition effects need to be separated. Check recurring revenue, cash generation, acquisition costs and current valuation.",
+      "security_id": "source-subject|aim: dotd",
+      "sources": [
+        {
+          "label": "London Stock Exchange issuer results · November 3, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/DOTD/full-year-results/f83b-d4-7f-85-18-46aa97"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, Dotdigital reported fiscal 2026 revenue of £90.9 million, up 8% from the prior year, while revenue excluding acquisitions was flat. Forward-looking contracted annual recurring revenue rose 18% to £85.4 million, including 8% organic growth.",
+      "ticker": "DOTD",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, Dotdigital reported fiscal 2026 revenue of £90.9 million, up 8% from the prior year, while revenue excluding acquisitions was flat. Forward-looking contracted annual recurring revenue rose 18% to £85.4 million, including 8% organic growth."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Xperix Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "KOSDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 2,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Check whether payment occurs, the investment target and use of proceeds, resulting dilution and valuation.",
+      "security_id": "source-subject|kosdaq: 317770",
+      "sources": [
+        {
+          "label": "Korean DART amended filing · November 3, 2026",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000246"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, Xperix amended a proposed capital increase to 962,461 ordinary shares at ₩2,078 each, for approximately ₩2.0 billion in gross proceeds. Payment was scheduled for November 16 and had not been confirmed in that filing.",
+      "ticker": "317770",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, Xperix amended a proposed capital increase to 962,461 ordinary shares at ₩2,078 each, for approximately ₩2.0 billion in gross proceeds. Payment was scheduled for November 16 and had not been confirmed in that filing."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Palantir Technologies Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 3,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The forecast is not a final result. Review stock-based compensation, dilution, cash generation, growth durability and current valuation.",
+      "security_id": "source-subject|nasdaq: pltr",
+      "sources": [
+        {
+          "label": "Issuer SEC results filing · November 2, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000045/a2026q3ex991pressrelease.htm"
+        },
+        {
+          "label": "SEC filing acceptance · November 2, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000045/0001321655-26-000045-index.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In an SEC filing accepted on November 2 at 4:06 p.m. New York time, Palantir reported third-quarter revenue of $2.313 billion, up 96% year over year. It raised its full-year 2026 revenue forecast to $8.530 billion to $8.534 billion.",
+      "ticker": "PLTR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In an SEC filing accepted on November 2 at 4:06 p.m. New York time, Palantir reported third-quarter revenue of $2.313 billion, up 96% year over year. It raised its full-year 2026 revenue forecast to $8.530 billion to $8.534 billion."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Get Nice Holdings Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "HKEX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 4,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Sanction is not proof the scheme became effective or that holders were paid. Check registration, remaining conditions, delisting and holder-specific payment.",
+      "security_id": "source-subject|hkex: 00064",
+      "sources": [
+        {
+          "label": "Joint exchange announcement · November 3, 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1103/2026110300021.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, Get Nice and the offeror said the court had sanctioned the proposed privatization scheme. Registration and effectiveness were expected on November 5, subject to remaining conditions. This retrospective review does not establish original cutoff qualification.",
+      "ticker": "00064",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, Get Nice and the offeror said the court had sanctioned the proposed privatization scheme. Registration and effectiveness were expected on November 5, subject to remaining conditions. This retrospective review does not establish original cutoff qualification."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Walnut Capital Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "HKEX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 5,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The proposed sale may not complete; proceeds would go to the selling shareholder. Check completion, subsequent control, liquidity and valuation.",
+      "security_id": "source-subject|hkex: 00905",
+      "sources": [
+        {
+          "label": "Issuer exchange announcement · November 2, 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1102/2026110203775.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Walnut Capital said its controlling shareholder had agreed to a best-efforts placement of 584,503,925 existing shares, representing 55.64% of the company, at no less than HK$0.242 per share. This is a retrospective November 3 review; original cutoff qualification remains unconfirmed.",
+      "ticker": "00905",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Walnut Capital said its controlling shareholder had agreed to a best-efforts placement of 584,503,925 existing shares, representing 55.64% of the company, at no less than HK$0.242 per share. This is a retrospective November 3 review; original cutoff qualification remains unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Asiaray Media Group Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "HKEX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 6,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The transaction remains conditional and may dilute holders. Check approvals, conversion terms, actual proceeds, financing claims and valuation.",
+      "security_id": "source-subject|hkex: 01993",
+      "sources": [
+        {
+          "label": "Issuer exchange announcement · November 2, 2026",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1102/2026110203973.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Asiaray announced a conditional connected-party subscription for HK$40 million of perpetual subordinated convertible securities. At the initial conversion price, full conversion would issue approximately 87.9 million shares, or 15.35% of the enlarged shares. This is a retrospective November 3 review; original cutoff qualification remains unconfirmed.",
+      "ticker": "01993",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Asiaray announced a conditional connected-party subscription for HK$40 million of perpetual subordinated convertible securities. At the initial conversion price, full conversion would issue approximately 87.9 million shares, or 15.35% of the enlarged shares. This is a retrospective November 3 review; original cutoff qualification remains unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Digital Core REIT",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "SGX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 7,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Check proceeds, debt, exchange effects and the separately pending acquisitions. A divestment fee is to be paid in units, with dilution details to follow.",
+      "security_id": "source-subject|sgx: dcru",
+      "sources": [
+        {
+          "label": "Manager announcement · November 3, 2026",
+          "url": "https://repository.shareinvestor.com/rpt_view.pl/id/515670403.1/type/sgxnet/original_filename/1"
+        },
+        {
+          "label": "SGX company announcement listing",
+          "url": "https://www.sgx.com/securities/company-announcements?value=Z74"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, Digital Core REIT’s manager said it completed the sale of its 90% interests in Los Angeles and Toronto facilities and a 39% interest in a Northern Virginia facility, retaining 51% of the latter. This retrospective review does not establish original cutoff qualification.",
+      "ticker": "DCRU",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, Digital Core REIT’s manager said it completed the sale of its 90% interests in Los Angeles and Toronto facilities and a 39% interest in a Northern Virginia facility, retaining 51% of the latter. This retrospective review does not establish original cutoff qualification."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Aztech Global Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "SGX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 8,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The update did not say the extension was granted or resolve the claim. Check later legal developments, exposure and valuation.",
+      "security_id": "source-subject|sgx: 8az",
+      "sources": [
+        {
+          "label": "Issuer demand update · November 3, 2026",
+          "url": "https://www.aztechglobal.com/investor-relations/Aztech%20Global%20Ltd.%20-%20Update%20on%20Receipt%20of%20Letter%20of%20Demand.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, Aztech said it had appointed counsel, who requested more time to respond to the customer demand disclosed October 29. The company said the customer was not a major customer. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "8AZ",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, Aztech said it had appointed counsel, who requested more time to respond to the customer demand disclosed October 29. The company said the customer was not a major customer. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Supermarket Income REIT plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 9,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The issue and acquisitions were proposed, not guaranteed. Check final pricing, completion, dilution, debt and property cash flows before assessing valuation.",
+      "security_id": "source-subject|lse: supr",
+      "sources": [
+        {
+          "label": "Issuer proposed equity issue · November 3, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/SUPR/proposed-equity-issue-to-fund-transaction-pipeline/5f2d-dd-9b-38-3a-4ee3a0"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, Supermarket Income REIT announced a proposed equity issue seeking approximately £50 million in gross proceeds to fund a pipeline of six transactions. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "SUPR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, Supermarket Income REIT announced a proposed equity issue seeking approximately £50 million in gross proceeds to fund a pipeline of six transactions. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Wajax Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 10,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted earnings and margins declined, and backlog is not equivalent to profit or cash. Check equipment demand, working capital, execution and valuation.",
+      "security_id": "source-subject|tsx: wjx",
+      "sources": [
+        {
+          "label": "Issuer Q3 results · November 2, 2026",
+          "url": "https://www.newswire.ca/news-releases/wajax-announces-2026-third-quarter-results-880343982.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Wajax reported that third-quarter revenue fell 1.1% to C$477.8 million while backlog grew approximately 18% year over year. This is a retrospective November 3 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "WJX",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Wajax reported that third-quarter revenue fell 1.1% to C$477.8 million while backlog grew approximately 18% year over year. This is a retrospective November 3 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Alternative Income REIT plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 11,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The reported percentage combines owned shares and acceptances; the squeeze-out threshold had not been met. Check subsequent notices, holder terms and actual completion.",
+      "security_id": "source-subject|lse: aire",
+      "sources": [
+        {
+          "label": "Offeror acceptance update · November 3, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/acceptance-level-update/ff83-a6-7e-50-85-4e20bb"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, offeror Glenstone said its holding plus valid acceptances represented 87.98% of Alternative Income REIT’s issued shares as of November 2; its 70 pence-per-share offer remained open. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "AIRE",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, offeror Glenstone said its holding plus valid acceptances represented 87.98% of Alternative Income REIT’s issued shares as of November 2; its 70 pence-per-share offer remained open. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Celebrus Technologies plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 12,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The change was planned rather than completed, and no successor was named in the announcement. Check subsequent governance updates and business performance.",
+      "security_id": "source-subject|aim: clbs",
+      "sources": [
+        {
+          "label": "Issuer directorate change · November 3, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/CLBS/directorate-change/6a58-57-72-92-29-45c2a9"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, Celebrus said its chair, Tom Skelton, intended to retire on December 31, 2026, and that a search for a successor had begun. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "CLBS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, Celebrus said its chair, Tom Skelton, intended to retire on December 31, 2026, and that a search for a successor had begun. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "ACG Metals Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 13,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Completion remained conditional, and the project required further construction funding. Check approvals, dilution, financing and execution before assessing value.",
+      "security_id": "source-subject|lse: acg",
+      "sources": [
+        {
+          "label": "Issuer acquisition announcement · November 3, 2026",
+          "url": "https://acgmetals.com/acg-to-acquire-100-of-blue-moon-norway-including-the-construction-stage-nussir-copper-mine-to-create-a-high-growth-european-copper-company/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, ACG Metals announced an agreement to acquire Blue Moon Norway, including its interest in the construction-stage Nussir copper project, for US$220 million in new shares. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "ACG",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, ACG Metals announced an agreement to acquire Blue Moon Norway, including its interest in the construction-stage Nussir copper project, for US$220 million in new shares. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "TruFin plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 14,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The dividend timetable was to follow and projected cost savings and post-distribution cash were management estimates. Check later notices, liquidity and valuation.",
+      "security_id": "source-subject|aim: tru",
+      "sources": [
+        {
+          "label": "Issuer dividend and restructuring update · November 3, 2026",
+          "url": "https://www.trufin.com/news/193/2026-11-03/further-special-dividend-and-cost-restructuring"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, TruFin announced a further £17.5 million special dividend and a restructuring targeting lower annualized head-office costs. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "TRU",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, TruFin announced a further £17.5 million special dividend and a restructuring targeting lower annualized head-office costs. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    }
+  ],
+  "schema_version": 1
+}
