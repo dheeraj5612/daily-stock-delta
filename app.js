@@ -5,7 +5,8 @@ let editorial={};
 const cardAnchors=new Map([...document.querySelectorAll('#ideas .idea[data-security-id]')].map(element=>[element.dataset.securityId,element.id]));
 const dateLabel=date=>date?new Date(`${date}T12:00:00Z`).toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'America/New_York'}):'Awaiting first edition';
 function node(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;}
-function metricText(text){return text.replace(/(-?\d[\d,]*\.\d{2,})(\s*%)/g,(_,number,unit)=>`${Number(number.replaceAll(',','')).toLocaleString('en-US',{minimumFractionDigits:1,maximumFractionDigits:1})}${unit}`);}
+// Preserve the exact research wording delivered in the email edition.
+function metricText(text){return text;}
 function sourceLink(source){try{const u=new URL(source.url);if(!['https:','http:'].includes(u.protocol))return null;const a=node('a',source.label||u.hostname);a.href=u.href;a.target='_blank';a.rel='noopener noreferrer';return a;}catch{return null;}}
 function presentation(e){
 const override=editorial.editions?.[snapshot?.date]?.[e.security_id]||{};
