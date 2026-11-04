@@ -1,0 +1,603 @@
+{
+  "coverage_gaps": [
+    "PARTIAL SOURCE COMPILATION: Coverage is incomplete; prices and valuations are pending. Items are not investment recommendations, and their order is not a ranking.",
+    "RETROSPECTIVE: Compiled on November 4 from reviewed source notes. This does not claim an edition or email was sent on this date.",
+    "The timestamp is a calendar grouping boundary; the original daily cutoff is not established."
+  ],
+  "cutoff_at": "2026-11-02T23:59:59-05:00",
+  "date": "2026-11-02",
+  "digest_id": "web-source-2026-11-02-b58301e1e69da485",
+  "eligible_security_ids": [
+    "source-subject|nasdaq: fstr",
+    "source-subject|tse: 4445",
+    "source-subject|aim: qed",
+    "source-subject|otcqx: guer",
+    "source-subject|tse: 285a",
+    "source-subject|nyse: abr",
+    "source-subject|tse: 8053",
+    "source-subject|tsx: lb common",
+    "source-subject|lse: pdl",
+    "source-subject|aim: ixi",
+    "source-subject|lse: spi",
+    "source-subject|nyse: fsm",
+    "source-subject|lse: mcg",
+    "source-subject|dfm: orient",
+    "source-subject|nyse: cdlr",
+    "source-subject|tse: 8133",
+    "source-subject|lse: lseg",
+    "source-subject|aquis: stak"
+  ],
+  "equities": [
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "L.B. Foster Company",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 1,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The EBITDA estimate depends on integration and future synergies; it is not current earnings. Check financing, integration costs, realized cash flow and valuation.",
+      "security_id": "source-subject|nasdaq: fstr",
+      "sources": [
+        {
+          "label": "Issuer SEC filing · October 29, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/352825/000035282526000053/ex-991form8xkprojectworth.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "A November 2 research review considered L.B. Foster’s October 29 announcement that it had acquired Dulworth operating assets for about $52.2 million in cash. The company estimated annual EBITDA contribution of $6.5 million to $7.5 million after integration, including expected synergies.",
+      "ticker": "FSTR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "A November 2 research review considered L.B. Foster’s October 29 announcement that it had acquired Dulworth operating assets for about $52.2 million in cash. The company estimated annual EBITDA contribution of $6.5 million to $7.5 million after integration, including expected synergies."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Living Technologies Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 2,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The revised operating profit forecast remains below the previous year. Verify final results, share count, sustainable cash flow, security identity and account access.",
+      "security_id": "source-subject|tse: 4445",
+      "sources": [
+        {
+          "label": "Issuer forecast revision, November 2, 2026",
+          "url": "https://www.release.tdnet.info/inbs/140120261102563269.pdf"
+        },
+        {
+          "label": "JPX listed-company disclosure",
+          "url": "https://www2.jpx.co.jp/disc/44450/140120261102563269.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2 the issuer raised its FY2026 revenue forecast from ¥4,070 million to ¥4,190 million and operating profit forecast from ¥290 million to ¥380 million. These are company forecasts, not final results.",
+      "ticker": "4445",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2 the issuer raised its FY2026 revenue forecast from ¥4,070 million to ¥4,190 million and operating profit forecast from ¥290 million to ¥380 million. These are company forecasts, not final results."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Quadrise plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 3,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Payment or fundraising may be delayed or fail. Verify payment, financing and deployment, then assess diluted capital and forward economics.",
+      "security_id": "source-subject|aim: qed",
+      "sources": [
+        {
+          "label": "Issuer update · November 2",
+          "url": "https://www.londonstockexchange.com/en/news/article/QED/valkor-update/9fe9-20-e4-2c-4e-4c7587"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "Quadrise updated the expected timing of a Valkor site licence payment on November 2. Valkor expects to pay $300,000 of the $950,000 outstanding balance in early November, with the remainder expected after fundraising. Shipment and mobilisation remain conditional on receipt of the balance.",
+      "ticker": "QED",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "Quadrise updated the expected timing of a Valkor site licence payment on November 2. Valkor expects to pay $300,000 of the $950,000 outstanding balance in early November, with the remainder expected after fundraising. Shipment and mobilisation remain conditional on receipt of the balance."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Guerrilla RF, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "OTCQX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 4,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The company reported a $3.731 million net loss, including a $5.991 million warrant-liability remeasurement loss. Reconcile preferred and warrant claims, working capital and sustainable margins.",
+      "security_id": "source-subject|otcqx: guer",
+      "sources": [
+        {
+          "label": "Quarterly filing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1832487/000143774926034283/guer20260930_10q.htm"
+        },
+        {
+          "label": "Earnings release",
+          "url": "https://www.sec.gov/Archives/edgar/data/1832487/000143774926034281/ex_1035104.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "Third-quarter revenue rose to $10.096 million from $6.288 million a year earlier, and operating income was $2.428 million versus a $0.198 million operating loss. The improvement’s durability and its value to common shareholders remain unassessed.",
+      "ticker": "GUER",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "Third-quarter revenue rose to $10.096 million from $6.288 million a year earlier, and operating income was $2.428 million versus a $0.198 million operating loss. The improvement’s durability and its value to common shareholders remain unassessed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Kioxia Holdings Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 5,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Memory demand and prices are cyclical. Check the drivers and durability of margins, cash flow, capacity and current valuation.",
+      "security_id": "source-subject|tse: 285a",
+      "sources": [
+        {
+          "label": "Issuer financial results · October 30, 2026",
+          "url": "https://ssl4.eir-parts.net/doc/285A/tdnet/2902678/00.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In an October 30 release, Kioxia reported revenue of ¥4.247 trillion and operating profit of ¥3.265 trillion for the six months ended September 30, compared with ¥791.1 billion and ¥130.8 billion respectively a year earlier. This was reviewed retrospectively for November 2; the original cutoff is unknown.",
+      "ticker": "285A",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In an October 30 release, Kioxia reported revenue of ¥4.247 trillion and operating profit of ¥3.265 trillion for the six months ended September 30, compared with ¥791.1 billion and ¥130.8 billion respectively a year earlier. This was reviewed retrospectively for November 2; the original cutoff is unknown."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Arbor Realty Trust, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 6,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Review loan losses, collateral recovery, funding maturities, liquidity and current valuation.",
+      "security_id": "source-subject|nyse: abr",
+      "sources": [
+        {
+          "label": "SEC-filed issuer release · October 30, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1253986/000125398626000062/abr-09302026xearningsrelea.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 30, Arbor Realty Trust reported a third-quarter GAAP net loss of $85.4 million and said it was suspending its quarterly cash dividend on common stock. This was reviewed retrospectively for November 2; the original cutoff is unknown.",
+      "ticker": "ABR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 30, Arbor Realty Trust reported a third-quarter GAAP net loss of $85.4 million and said it was suspending its quarterly cash dividend on common stock. This was reviewed retrospectively for November 2; the original cutoff is unknown."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Sumitomo Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 7,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The revised figure is a forecast, not realized profit. Check second-half performance, cash generation and current valuation.",
+      "security_id": "source-subject|tse: 8053",
+      "sources": [
+        {
+          "label": "Issuer forecast revision · November 2, 2026",
+          "url": "https://www.sumitomocorp.com/-/media/Files/hq/news/release/2026/21790/21790_en.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Sumitomo raised its forecast for profit attributable to owners for the year ending March 2027 from ¥630 billion to ¥670 billion. This was reviewed retrospectively for November 2; the original cutoff is unknown.",
+      "ticker": "8053",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Sumitomo raised its forecast for profit attributable to owners for the year ending March 2027 from ¥630 billion to ¥670 billion. This was reviewed retrospectively for November 2; the original cutoff is unknown."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Laurentian Bank of Canada",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 8,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Distinguish the acquired common shares from outstanding preferred shares. Check actual delisting and holder-specific consideration.",
+      "security_id": "source-subject|tsx: lb common",
+      "sources": [
+        {
+          "label": "Issuer closing announcement · November 2, 2026",
+          "url": "https://news.laurentianbank.ca/2026-11-02-Laurentian-Bank-Completes-Transactions-with-NBC-and-Fairstone-Bank"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Laurentian Bank said Fairstone had acquired all of its common shares for C$40.50 per share in cash. The bank expected the common shares to delist after the November 3 close, while its Series 13 preferred shares would remain listed. This was reviewed retrospectively for November 2; the original cutoff is unknown.",
+      "ticker": "LB common",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Laurentian Bank said Fairstone had acquired all of its common shares for C$40.50 per share in cash. The bank expected the common shares to delist after the November 3 close, while its Series 13 preferred shares would remain listed. This was reviewed retrospectively for November 2; the original cutoff is unknown."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Petra Diamonds Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 9,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A suspension alone does not establish insolvency or equity recovery. Check reporting, any restoration, creditor outcomes and security status.",
+      "security_id": "source-subject|lse: pdl",
+      "sources": [
+        {
+          "label": "Issuer suspension announcement · November 2, 2026",
+          "url": "https://news.cision.com/petra-diamonds-limited/r/suspension-of-listing-and-trading,c4418347"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Petra Diamonds said its ordinary shares had been suspended from listing and trading after it missed the deadline to publish its annual financial report. This was reviewed retrospectively for November 2; the original cutoff is unknown.",
+      "ticker": "PDL",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Petra Diamonds said its ordinary shares had been suspended from listing and trading after it missed the deadline to publish its annual financial report. This was reviewed retrospectively for November 2; the original cutoff is unknown."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "IXICO plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 10,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The announced contract value is spread over six years and does not establish profit or cash flow. Check timing, contractual terms, execution and current valuation.",
+      "security_id": "source-subject|aim: ixi",
+      "sources": [
+        {
+          "label": "Issuer contract RNS · November 2, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/IXI/2-7m-clinical-phase-3-contract-win/b1fc-10-e3-17-45-416e98"
+        },
+        {
+          "label": "Issuer contract announcement · November 2, 2026",
+          "url": "https://ixico.com/news-and-resources/news/2-7-million-phase-3-contract-win-in-huntingtons-disease/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, IXICO announced a £2.7 million imaging contract for a Phase 3 Huntington’s disease clinical trial, with revenue expected over six years. This is a retrospective November 2 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "IXI",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, IXICO announced a £2.7 million imaging contract for a Phase 3 Huntington’s disease clinical trial, with revenue expected over six years. This is a retrospective November 2 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Spire Healthcare Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 11,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Shareholder approval was not completion: the scheme remained subject to other conditions, including regulatory approval and court sanction. Check later announcements and valuation.",
+      "security_id": "source-subject|lse: spi",
+      "sources": [
+        {
+          "label": "Issuer scheme vote results · October 30, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/SPI/results-of-court-meeting-and-general-meeting/2eaf-d0-cd-6b-aa-423b94"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 30, after that day’s recorded run cutoff, Spire said the required shareholder votes on its proposed acquisition scheme had passed. This is a retrospective November 2 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "SPI",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 30, after that day’s recorded run cutoff, Spire said the required shareholder votes on its proposed acquisition scheme had passed. This is a retrospective November 2 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Fortuna Mining Corp.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 12,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Admissibility is not a granted exploitation permit or an investment decision. Check subsequent permitting, project costs, financing and valuation.",
+      "security_id": "source-subject|nyse: fsm",
+      "sources": [
+        {
+          "label": "Issuer-filed project update · November 2, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1341335/000110465926121491/tm2628818d1_ex99-1.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Fortuna said Senegal’s Ministry of Mines and Geology had issued a notice that its Diamba Sud exploitation-permit application was admissible and its documentation compliant. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "FSM",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Fortuna said Senegal’s Ministry of Mines and Geology had issued a notice that its Diamba Sud exploitation-permit application was admissible and its documentation compliant. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Mobico Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 13,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The offer was subject to conditions and court approval; it was not a completed transaction. Check subsequent announcements and valuation.",
+      "security_id": "source-subject|lse: mcg",
+      "sources": [
+        {
+          "label": "Issuer recommended acquisition · October 30, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/recommended-cash-acquisition-for-mobico-group-plc/f46c-22-57-40-b5-45da82"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 30, Mobico announced a recommended cash acquisition at 46 pence per share, to be implemented by a scheme of arrangement. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "MCG",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 30, Mobico announced a recommended cash acquisition at 46 pence per share, to be implemented by a scheme of arrangement. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Orient Insurance PJSC",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "DFM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 14,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The filing was unaudited and its release time was not independently established. Review insurance claims, investments, capital, exact security and valuation.",
+      "security_id": "source-subject|dfm: orient",
+      "sources": [
+        {
+          "label": "Issuer interim statements · October 30, 2026",
+          "url": "https://feeds.dfm.ae/documents/efsah/2026/Oct/30/104aee3e-3392-43e2-bb23-d75ef9f76a9a/ORIENT%20FS%20E%2030%2010%202026.Pdf.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "For the quarter ended September 30, Orient Insurance reported consolidated net profit after tax of AED 181.565 million versus AED 155.688 million a year earlier. The issuer’s interim statements were dated October 30. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "ORIENT",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "For the quarter ended September 30, Orient Insurance reported consolidated net profit after tax of AED 181.565 million versus AED 155.688 million a year earlier. The issuer’s interim statements were dated October 30. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Cadeler A/S",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 15,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Settlement was expected around November 4 and the proposed compulsory acquisition of remaining shares was a future step at that time. Check actual settlement, trading and current security status.",
+      "security_id": "source-subject|nyse: cdlr",
+      "sources": [
+        {
+          "label": "Issuer final exchange-offer result · November 2, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1978867/000197886726000132/a6-kxcadelerxfinalresultsx.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Cadeler reported a final 92.06% acceptance rate in the share exchange, said all offer conditions were satisfied, and initiated completion and settlement. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "CDLR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Cadeler reported a final 92.06% acceptance rate in the share exchange, said all offer conditions were satisfied, and initiated completion and settlement. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Itochu Enex Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 16,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The interim results do not establish a sustainable full-year run rate, and forecasts may change. Check segment drivers, cash flow, dilution and valuation.",
+      "security_id": "source-subject|tse: 8133",
+      "sources": [
+        {
+          "label": "Issuer six-month results · October 30, 2026",
+          "url": "https://www.itcenex.com/en/news/2026/icfbq30000003imh-att/20261030aEN.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In results dated October 30, Itochu Enex reported six-month revenue of ¥476.283 billion and profit attributable to shareholders of ¥14.586 billion. Its full-year earnings forecast was unchanged. This is a retrospective November 2 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "8133",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In results dated October 30, Itochu Enex reported six-month revenue of ¥476.283 billion and profit attributable to shareholders of ¥14.586 billion. Its full-year earnings forecast was unchanged. This is a retrospective November 2 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "London Stock Exchange Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 17,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The amount is a maximum, not proof that shares were purchased or the full sum spent. Check execution, purchase prices, capital allocation and valuation.",
+      "security_id": "source-subject|lse: lseg",
+      "sources": [
+        {
+          "label": "Issuer buyback announcement · November 2, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/LSEG/commencement-of-share-buyback-programme/b26c-f8-28-d8-15-4243b1"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, London Stock Exchange Group announced the start of a share buyback of up to £650 million, as part of its previously announced capital-return programme. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "LSEG",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, London Stock Exchange Group announced the start of a share buyback of up to £650 million, as part of its previously announced capital-return programme. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Stack BTC plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Aquis",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 18,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The related-party proposal remained nonbinding and subject to conditions; deferred consideration depended on performance. Check financing, approvals, dilution and any later definitive terms.",
+      "security_id": "source-subject|aquis: stak",
+      "sources": [
+        {
+          "label": "Issuer revised terms · November 2, 2026",
+          "url": "https://www.aquis.eu/stock-exchange/announcements/5998944"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 2, Stack BTC announced revised nonbinding heads for its proposed acquisition of DB London, trading as Direct Bullion, with approximately £12 million of total share consideration. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "STAK",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 2, Stack BTC announced revised nonbinding heads for its proposed acquisition of DB London, trading as Direct Bullion, with approximately £12 million of total share consideration. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    }
+  ],
+  "schema_version": 1
+}

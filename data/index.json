@@ -14,6 +14,12 @@
       "path": "data/days/2026-11-03.json"
     },
     {
+      "count": 18,
+      "date": "2026-11-02",
+      "digest_id": "web-source-2026-11-02-b58301e1e69da485",
+      "path": "data/days/2026-11-02.json"
+    },
+    {
       "count": 303,
       "date": "2026-10-26",
       "digest_id": "TH-057af14802e10f280f88",
