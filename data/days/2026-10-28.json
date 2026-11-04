@@ -1,0 +1,1327 @@
+{
+  "coverage_gaps": [
+    "PARTIAL SOURCE COMPILATION: Coverage is incomplete; prices and valuations are pending. Items are not investment recommendations, and their order is not a ranking.",
+    "RETROSPECTIVE: Compiled on November 4 from reviewed source notes. This does not claim an edition or email was sent on this date.",
+    "The timestamp is a calendar grouping boundary; the original daily cutoff is not established."
+  ],
+  "cutoff_at": "2026-10-28T23:59:59-04:00",
+  "date": "2026-10-28",
+  "digest_id": "web-source-2026-10-28-d77006ce7381a627",
+  "eligible_security_ids": [
+    "source-subject|aim: rnwh",
+    "source-subject|aim: puls",
+    "source-subject|tse: 5967",
+    "source-subject|tsxv: lem",
+    "source-subject|krx: 000660",
+    "source-subject|euronext paris: rco",
+    "source-subject|euronext paris: bn",
+    "source-subject|euronext amsterdam: heia",
+    "source-subject|nasdaq: rrgb",
+    "source-subject|aim: elco",
+    "source-subject|lse: ulvr",
+    "source-subject|aim: rws",
+    "source-subject|aim: revb",
+    "source-subject|aim: ihc",
+    "source-subject|tse: 6501",
+    "source-subject|sgx: f34",
+    "source-subject|sgx: m44u",
+    "source-subject|tsxv: qgr",
+    "source-subject|cse: idk",
+    "source-subject|tsxv: bbb",
+    "source-subject|tsxv: whn",
+    "source-subject|asx: sea",
+    "source-subject|tse: 5243",
+    "source-subject|nzx: sko",
+    "source-subject|lse: rkt",
+    "source-subject|aim: swg",
+    "source-subject|aim: kefi",
+    "source-subject|lse: sus",
+    "source-subject|lse: php",
+    "source-subject|lse: ultp",
+    "source-subject|aim: lpa",
+    "source-subject|tse: 7751",
+    "source-subject|tse: 9697",
+    "source-subject|lse: rhim",
+    "source-subject|lse: vsvs",
+    "source-subject|lse: cgeo",
+    "source-subject|lse: stan",
+    "source-subject|tsx: far",
+    "source-subject|asx: sha",
+    "source-subject|asx: fg1"
+  ],
+  "equities": [
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Renew Holdings plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 1,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Contingent payments and the acquisition’s future cash contribution remain uncertain. Check debt, integration, current price and valuation.",
+      "security_id": "source-subject|aim: rnwh",
+      "sources": [
+        {
+          "label": "London Stock Exchange issuer announcement · October 28, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/RNWH/acquisition-of-porter-brothers-holdings-limited/66d2-39-49-ad-17-45e393"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Renew announced that a subsidiary had acquired Porter Brothers Holdings for up to £50 million. Initial consideration of £31.1 million was funded through existing bank facilities; up to £18.9 million more depended on profit targets over three years.",
+      "ticker": "RNWH",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Renew announced that a subsidiary had acquired Porter Brothers Holdings for up to £50 million. Initial consideration of £31.1 million was funded through existing bank facilities; up to £18.9 million more depended on profit targets over three years."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Pulsar Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 2,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The proposed financing was not certain to proceed. Check the financing outcome, dilution, current trading status, cash flow and valuation.",
+      "security_id": "source-subject|aim: puls",
+      "sources": [
+        {
+          "label": "London Stock Exchange issuer announcement · October 28, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/PULS/trading-update-fundraise-capital-access-window/d122-76-7a-55-b7-4ce1ba"
+        },
+        {
+          "label": "AIM suspension notice · October 28, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/capital-access-window-pulsar-group-plc/50ee-80-10-df-ef-4af08d"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Pulsar estimated fiscal 2026 revenue of about £65 million and said it was assessing demand for a potential fundraise of up to £5 million. Its shares were suspended pending an announcement at that time.",
+      "ticker": "PULS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Pulsar estimated fiscal 2026 revenue of about £65 million and said it was assessing demand for a potential fundraise of up to £5 million. Its shares were suspended pending an announcement at that time."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "TONE Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 3,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The program has ended; do not assume further purchases. Check treasury-share treatment, cash and debt, dilution, current share price and valuation.",
+      "security_id": "source-subject|tse: 5967",
+      "sources": [
+        {
+          "label": "TDnet issuer notice · October 28, 2026",
+          "url": "https://www.release.tdnet.info/inbs/140120261028557498.pdf"
+        },
+        {
+          "label": "JPX listed-company disclosure",
+          "url": "https://www2.jpx.co.jp/disc/59670/140120261028557498.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "Historical event dated October 28, 2026: TONE reported repurchasing 750,000 ordinary shares for ¥317.25 million through ToSTNeT-3, completing the program authorized on August 28.",
+      "ticker": "5967",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "Historical event dated October 28, 2026: TONE reported repurchasing 750,000 ordinary shares for ¥317.25 million through ToSTNeT-3, completing the program authorized on August 28."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Leading Edge Materials Corp.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSXV",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 4,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Beginning an assessment is not permit or mine approval. Verify consultation, funding, permit progress, security line and valuation.",
+      "security_id": "source-subject|tsxv: lem",
+      "sources": [
+        {
+          "label": "Issuer-distributed release · October 28, 2026",
+          "url": "https://www.mfn.se/one/a/leading-edge-materials/leading-edge-materials-commences-environmental-impact-assessment-for-norra-karr-891ed445"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In a release distributed October 28, Leading Edge Materials said work had begun on an environmental impact assessment for its Norra Kärr project and that an environmental permit application was planned for 2027.",
+      "ticker": "LEM",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In a release distributed October 28, Leading Edge Materials said work had begun on an environmental impact assessment for its Norra Kärr project and that an environmental permit application was planned for 2027."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "SK hynix",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "KRX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 5,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Memory pricing, capital spending, dilution and the execution of capital returns remain important to assess. Verify the historical share line and valuation.",
+      "security_id": "source-subject|krx: 000660",
+      "sources": [
+        {
+          "label": "Issuer results · October 28",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
+        },
+        {
+          "label": "Quarterly dividend disclosure",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800045"
+        },
+        {
+          "label": "Share-purchase disclosure",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000014"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "SK hynix reported preliminary third-quarter results and described demand for AI memory products. Separate disclosures announced a quarterly dividend and a planned share purchase; an authorisation does not establish that purchases were completed.",
+      "ticker": "000660",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "SK hynix reported preliminary third-quarter results and described demand for AI memory products. Separate disclosures announced a quarterly dividend and a planned share purchase; an authorisation does not establish that purchases were completed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Rémy Cointreau SA",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Euronext Paris",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 6,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Sales growth is not a measure of profit, cash flow or value. Check regional demand, margins, cash flow and the current share valuation.",
+      "security_id": "source-subject|euronext paris: rco",
+      "sources": [
+        {
+          "label": "Issuer sales update · October 27, 2026",
+          "url": "https://news.remy-cointreau.com/chiffre-daffaires-en-hausse-de-29-en-organique-au-premier-semestre-29545/?lang=eng"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In an issuer update dated October 27, Rémy Cointreau reported first-half sales of €510.9 million, up 2.9% organically, and second-quarter organic growth of 4.2%. This retrospective note is filed with the October 28 review; original cutoff qualification remains unconfirmed.",
+      "ticker": "RCO",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In an issuer update dated October 27, Rémy Cointreau reported first-half sales of €510.9 million, up 2.9% organically, and second-quarter organic growth of 4.2%. This retrospective note is filed with the October 28 review; original cutoff qualification remains unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Danone SA",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Euronext Paris",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 7,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Like-for-like growth is an alternative measure, and guidance is a forecast. Check margins, cash flow and the current share valuation.",
+      "security_id": "source-subject|euronext paris: bn",
+      "sources": [
+        {
+          "label": "Issuer sales release · October 28, 2026",
+          "url": "https://www.danone.com/content/dam/corp/global/danonecom/investors/en-all-publications/2026/pressreleases/prdanone281026.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Danone reported third-quarter sales of €7.233 billion, up 4.0% on a like-for-like basis, and confirmed its 2026 guidance. This retrospective source review does not establish qualification by the original cutoff.",
+      "ticker": "BN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Danone reported third-quarter sales of €7.233 billion, up 4.0% on a like-for-like basis, and confirmed its 2026 guidance. This retrospective source review does not establish qualification by the original cutoff."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Heineken N.V.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Euronext Amsterdam",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 8,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Organic and BEIA figures are adjusted measures, not statutory operating profit. Check margins, cash flow and the current share valuation.",
+      "security_id": "source-subject|euronext amsterdam: heia",
+      "sources": [
+        {
+          "label": "Issuer trading update · October 28, 2026",
+          "url": "https://www.heineken.co.uk/media/heineken-nv-reports-on-2026-third-quarter-trading"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Heineken reported third-quarter total volume growth of 4.8% organically and net revenue growth of 4.6% organically on its BEIA measure. This retrospective source review does not establish qualification by the original cutoff.",
+      "ticker": "HEIA",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Heineken reported third-quarter total volume growth of 4.8% organically and net revenue growth of 4.6% organically on its BEIA measure. This retrospective source review does not establish qualification by the original cutoff."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Red Robin Gourmet Burgers, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 9,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The governance change does not establish operating improvement or shareholder value. Check later board changes, business performance, debt and current valuation.",
+      "security_id": "source-subject|nasdaq: rrgb",
+      "sources": [
+        {
+          "label": "SEC filing · October 27, 2026",
+          "url": "https://ir.redrobin.com/sec-filings/all-sec-filings/content/0000921895-26-002859/primary_doc.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "A Schedule 13D amendment filed on October 27 after the recorded October 27 cutoff disclosed the resignations of two directors and the termination of the reporting group’s agreement. This is a retrospective October 28 carryforward; original qualification remains unconfirmed.",
+      "ticker": "RRGB",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "A Schedule 13D amendment filed on October 27 after the recorded October 27 cutoff disclosed the resignations of two directors and the termination of the reporting group’s agreement. This is a retrospective October 28 carryforward; original qualification remains unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Eleco plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 10,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Approval was not completion: conditions, court sanction and the subsequent effective date need verification.",
+      "security_id": "source-subject|aim: elco",
+      "sources": [
+        {
+          "label": "Issuer release · October 27, 2026",
+          "url": "https://ir.eleco.com/regulatory/results-of-court-meeting-and-general-meeting/"
+        },
+        {
+          "label": "London Stock Exchange release time · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/ELCO/results-of-court-meeting-and-general-meeting/6499-d0-88-63-55-4fb191"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "Eleco reported that the required shareholder votes on its proposed scheme passed. The scheme remained subject to remaining conditions and court sanction. This is a retrospective October 28 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "ELCO",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "Eleco reported that the required shareholder votes on its proposed scheme passed. The scheme remained subject to remaining conditions and court sanction. This is a retrospective October 28 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Unilever PLC",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 11,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Results were unaudited and Foods volume was weak. Check segment mix, margins, cash flow and current valuation.",
+      "security_id": "source-subject|lse: ulvr",
+      "sources": [
+        {
+          "label": "Issuer Q3 trading statement · October 28, 2026",
+          "url": "https://www.unilever.com/news/press-and-media/press-releases/2026/continued-strong-performance-in-the-third-quarter/"
+        },
+        {
+          "label": "London Stock Exchange RNS release time · October 28, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/ULVR/q3-2026-trading-statement/e544-99-77-97-60-41c185"
+        },
+        {
+          "label": "Issuer Q3 trading statement · SEC exhibit",
+          "url": "https://www.sec.gov/Archives/edgar/data/217410/000021741026000061/a2026-10x28xunileverq320.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Unilever reported third-quarter underlying sales growth of 5.2%, including 2.9% volume growth, and maintained its full-year underlying sales growth range of 4% to 6%. Foods volume declined 1.1%. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "ULVR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Unilever reported third-quarter underlying sales growth of 5.2%, including 2.9% volume growth, and maintained its full-year underlying sales growth range of 4% to 6%. Foods volume declined 1.1%. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "RWS Holdings plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 12,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The trading statement was unaudited and its estimates were subject to final results. Check final accounts, exact security, access and current valuation.",
+      "security_id": "source-subject|aim: rws",
+      "sources": [
+        {
+          "label": "Issuer RNS trading statement · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/RWS/trading-statement/7d04-93-79-03-8b-4b3c9b"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, RWS estimated full-year revenue of approximately £700 million and organic constant-currency revenue growth of about 3%. The source record was captured after the October 27 run cutoff; this is a retrospective October 28 note, with original qualification and delivery unconfirmed.",
+      "ticker": "RWS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, RWS estimated full-year revenue of approximately £700 million and organic constant-currency revenue growth of about 3%. The source record was captured after the October 27 run cutoff; this is a retrospective October 28 note, with original qualification and delivery unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Revolution Beauty Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 13,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The interim results were unaudited and adjusted EBITDA is not net profit or cash flow. Check turnaround execution, debt, margins, exact security and valuation.",
+      "security_id": "source-subject|aim: revb",
+      "sources": [
+        {
+          "label": "Issuer half-year RNS · October 27, 2026",
+          "url": "https://data.fca.org.uk/artefacts/NSM/RNS/94ec80bb-0d9a-40e8-9ae3-0e66d74f210a.html"
+        },
+        {
+          "label": "London Stock Exchange release time · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/REVB/half-year-financial-report/9988-cd-6d-a0-10-4fb7b5"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Revolution Beauty reported first-half revenue of £48.4 million and adjusted EBITDA of £2.0 million, compared with a £12.5 million adjusted EBITDA loss a year earlier. The source record was captured after the October 27 run cutoff; this is a retrospective October 28 note, with original qualification and delivery unconfirmed.",
+      "ticker": "REVB",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Revolution Beauty reported first-half revenue of £48.4 million and adjusted EBITDA of £2.0 million, compared with a £12.5 million adjusted EBITDA loss a year earlier. The source record was captured after the October 27 run cutoff; this is a retrospective October 28 note, with original qualification and delivery unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Inspiration Healthcare Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 14,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The prior period benefited from one-off export orders and gross margin declined. Check product execution, financing, exact security and current valuation.",
+      "security_id": "source-subject|aim: ihc",
+      "sources": [
+        {
+          "label": "Issuer half-year RNS · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/IHC/half-year-financial-report/6ff5-19-ca-f0-a4-4507b9"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Inspiration Healthcare reported first-half revenue of £22.0 million versus £24.0 million a year earlier. The source record was captured after the October 27 run cutoff; this is a retrospective October 28 note, with original qualification and delivery unconfirmed.",
+      "ticker": "IHC",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Inspiration Healthcare reported first-half revenue of £22.0 million versus £24.0 million a year earlier. The source record was captured after the October 27 run cutoff; this is a retrospective October 28 note, with original qualification and delivery unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Hitachi, Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 15,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted operating income and EBIT diverged. Review other income, cash conversion, exact security and current valuation.",
+      "security_id": "source-subject|tse: 6501",
+      "sources": [
+        {
+          "label": "Issuer half-year results · October 28, 2026",
+          "url": "https://www.hitachi.com/en/press/articles/2026/10/1028/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Hitachi reported six-month revenue of ¥5.614 trillion, up 17%, and adjusted operating income of ¥643.3 billion, up 27%. EBIT declined 8% to ¥627.5 billion. This is a retrospective source note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "6501",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Hitachi reported six-month revenue of ¥5.614 trillion, up 17%, and adjusted operating income of ¥643.3 billion, up 27%. EBIT declined 8% to ¥627.5 billion. This is a retrospective source note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Wilmar International Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "SGX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 16,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The prior-year comparison was affected by a large Indonesian compensation expense. Review normalized earnings, operating cash flow, debt, currency effects and current valuation.",
+      "security_id": "source-subject|sgx: f34",
+      "sources": [
+        {
+          "label": "Issuer quarterly financial summary · October 28, 2026",
+          "url": "https://links.sgx.com/FileOpen/WIL%203Q2026%20Executive%20Financial%20Summary_28.10.2026.ashx?App=Announcement&FileID=909522"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Wilmar reported third-quarter core net profit of US$267.3 million, down 25.2% year over year, and reported net profit of US$281.0 million versus a prior-year loss. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "F34",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Wilmar reported third-quarter core net profit of US$267.3 million, down 25.2% year over year, and reported net profit of US$281.0 million versus a prior-year loss. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Mapletree Logistics Trust",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "SGX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 17,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The security is a trust unit. Compare recurring distributions after divestments and perpetual-security distributions, and review debt, currency effects and valuation.",
+      "security_id": "source-subject|sgx: m44u",
+      "sources": [
+        {
+          "label": "Trust second-quarter announcement · October 28, 2026",
+          "url": "https://links.sgx.com/FileOpen/20261028-MLT_2QFY2627_Press%20Release.ashx?App=Announcement&FileID=909498"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Mapletree Logistics Trust reported second-quarter distribution per unit of 1.816 Singapore cents, up 0.1% year over year, with portfolio occupancy of 96.4%. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "M44U",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Mapletree Logistics Trust reported second-quarter distribution per unit of 1.816 Singapore cents, up 0.1% year over year, with portfolio occupancy of 96.4%. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Q-Gold Resources Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSXV",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 18,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The issuance dilutes existing shareholders. Review future milestone obligations, financing, permits, project economics and valuation.",
+      "security_id": "source-subject|tsxv: qgr",
+      "sources": [
+        {
+          "label": "Issuer milestone announcement · October 27, 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389739/0/en/qgold-completes-first-milestone-payment-for-quartz-mountain-gold-project-through-share-issuance.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27 after that day’s recorded run cutoff, Q-Gold said it satisfied its first Quartz Mountain milestone by issuing 22,859,861 shares to Alamos at a deemed C$0.1937 each, approximately C$4.43 million. This is a retrospective October 28 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "QGR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27 after that day’s recorded run cutoff, Q-Gold said it satisfied its first Quartz Mountain milestone by issuing 22,859,861 shares to Alamos at a deemed C$0.1937 each, approximately C$4.43 million. This is a retrospective October 28 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "ThreeD Capital Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "CSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 19,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The company’s NAV per share is non-GAAP; portfolio fair values are not cash and may change. Check liquidity, holdings, dilution and current valuation.",
+      "security_id": "source-subject|cse: idk",
+      "sources": [
+        {
+          "label": "Issuer annual results · October 27, 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389807/0/en/threed-capital-inc-releases-results-for-the-year-ended-june-30-2026.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27 after that day’s recorded run cutoff, ThreeD Capital reported June 2026 year-end non-GAAP net asset value per share of C$0.20 versus C$0.40 a year earlier and an annual net loss of approximately C$12.84 million. This is a retrospective October 28 note; original qualification and delivery remain unconfirmed.",
+      "ticker": "IDK",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27 after that day’s recorded run cutoff, ThreeD Capital reported June 2026 year-end non-GAAP net asset value per share of C$0.20 versus C$0.40 a year earlier and an annual net loss of approximately C$12.84 million. This is a retrospective October 28 note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Brixton Metals Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSXV",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 20,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The financing was proposed, subject to applicable approvals, and would dilute holders; proceeds are restricted to qualifying exploration spending. Check final terms and valuation.",
+      "security_id": "source-subject|tsxv: bbb",
+      "sources": [
+        {
+          "label": "Issuer financing announcement · October 28, 2026",
+          "url": "https://brixtonmetals.com/brixton-metals-announces-non-brokered-private-placement-of-up-to-6-million/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Brixton announced a proposed non-brokered flow-through financing of up to C$6 million, with national flow-through shares priced at C$0.68 and critical-mineral flow-through shares at C$0.71. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "BBB",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Brixton announced a proposed non-brokered flow-through financing of up to C$6 million, with national flow-through shares priced at C$0.68 and critical-mineral flow-through shares at C$0.71. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Westhaven Gold Corp.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSXV",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 21,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A drill intercept is not a reserve or proof of mine economics. Check true widths, resource estimates, mine studies, permits, financing and valuation.",
+      "security_id": "source-subject|tsxv: whn",
+      "sources": [
+        {
+          "label": "Issuer drill results · October 28, 2026",
+          "url": "https://www.westhavengold.com/news-media/news-releases/westhaven-reports-new-high-grade-south-zone-results-including-23m-grading-669-gt-au-and-42-gt-ag-and-advances-exploration-and-pre-feasibility-programs-shovelnose-project-southern-british-columbia"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Westhaven reported a South Zone drill intercept of 23.00 metres grading 6.69 grams per tonne of gold and 41.7 grams per tonne of silver at Shovelnose. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "WHN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Westhaven reported a South Zone drill intercept of 23.00 metres grading 6.69 grams per tonne of gold and 41.7 grams per tonne of silver at Shovelnose. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Sea Forest Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 22,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The operating inflow included interest; the prior quarter included a one-off R&D refund. Check customer volumes, cash runway, exact security and current valuation.",
+      "security_id": "source-subject|asx: sea",
+      "sources": [
+        {
+          "label": "Issuer quarterly update · October 28, 2026",
+          "url": "https://hermes-cdn.investorhub.com/announcement-pdfs/asx/7808820.pdf?v=63960356522"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Sea Forest reported quarterly SeaFeed sales revenue of A$3.4 million, up 67% from the prior quarter, and operating cash inflow of A$0.24 million. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "SEA",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Sea Forest reported quarterly SeaFeed sales revenue of A$3.4 million, up 67% from the prior quarter, and operating cash inflow of A$0.24 million. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "note inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 23,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A completed repurchase is not proof of valuation or future returns. Check the post-buyback share count, cash, exact security and current valuation.",
+      "security_id": "source-subject|tse: 5243",
+      "sources": [
+        {
+          "label": "Issuer repurchase result · October 28, 2026",
+          "url": "https://www.release.tdnet.info/inbs/140120261028557428.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, note inc. reported completing a ToSTNeT-3 repurchase of 347,500 ordinary shares for approximately ¥999.8 million, or 1.8% of shares outstanding excluding treasury stock as of August 31, 2026. The purchase completed its announced authorization. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "5243",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, note inc. reported completing a ToSTNeT-3 repurchase of 347,500 ordinary shares for approximately ¥999.8 million, or 1.8% of shares outstanding excluding treasury stock as of August 31, 2026. The purchase completed its announced authorization. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Serko Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NZX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 24,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The revision was anticipated, not yet issued. Check booking volumes, cash flow, execution and valuation.",
+      "security_id": "source-subject|nzx: sko",
+      "sources": [
+        {
+          "label": "Issuer NZX guidance update · October 27, 2026",
+          "url": "https://announcements.nzx.com/announcement/482361"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27 New Zealand time, Serko said stronger first-half trading led it to expect a modest upward revision to its FY27 total-income guidance at its November results. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "SKO",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27 New Zealand time, Serko said stronger first-half trading led it to expect a modest upward revision to its FY27 total-income guidance at its November results. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Reckitt Benckiser Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 25,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The guidance is a forecast; North America was below expectations and manufacturing constraints affected supply. Check margins, cash flow and valuation.",
+      "security_id": "source-subject|lse: rkt",
+      "sources": [
+        {
+          "label": "Issuer Q3 results · October 27, 2026",
+          "url": "https://www.reckitt.com/news/q3-results-2026/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Reckitt reported third-quarter like-for-like net revenue growth of 3.3% for Core Reckitt and adjusted its FY26 growth guidance to 3.5%–4.5%. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "RKT",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Reckitt reported third-quarter like-for-like net revenue growth of 3.3% for Core Reckitt and adjusted its FY26 growth guidance to 3.5%–4.5%. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Shearwater Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 26,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted EBITDA is not net income or owner cash; the comparison period covered 15 months rather than 12. Check statutory profit, cash flow and valuation.",
+      "security_id": "source-subject|aim: swg",
+      "sources": [
+        {
+          "label": "Issuer FY26 results · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/SWG/fy26-results/4876-fa-1b-ea-11-4b39ac"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Shearwater reported FY26 revenue of £42.3 million and adjusted EBITDA of £2.6 million. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "SWG",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Shearwater reported FY26 revenue of £42.3 million and adjusted EBITDA of £2.6 million. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "KEFI Gold and Copper plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 27,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The development remained conditional, including on a mining licence. Check funding, dilution, project economics and valuation.",
+      "security_id": "source-subject|aim: kefi",
+      "sources": [
+        {
+          "label": "Issuer project announcement · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/KEFI/conditional-approval-of-jibal-qutman-development/a3ab-4b-b6-8d-0e-406aad"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, KEFI said its 13%-owned Saudi joint venture conditionally approved an approximately US$87 million Stage 1 development programme at Jibal Qutman. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "KEFI",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, KEFI said its 13%-owned Saudi joint venture conditionally approved an approximately US$87 million Stage 1 development programme at Jibal Qutman. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "S&U plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 28,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The headline amount is capacity, not earnings. Check utilisation, funding costs, credit losses and valuation.",
+      "security_id": "source-subject|lse: sus",
+      "sources": [
+        {
+          "label": "Issuer financing announcement · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/SUS/transformative-600m-securitisation-secured/8bb6-eb-93-ea-dd-466eb2"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, S&U announced two securitisation facilities providing up to £600 million over an initial three-year term, replacing existing £330 million facilities. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "SUS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, S&U announced two securitisation facilities providing up to £600 million over an initial three-year term, replacing existing £330 million facilities. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Primary Health Properties PLC",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 29,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The larger target and contracted transfer do not establish completed investment returns. Check completion, funding, tenant exposure and valuation.",
+      "security_id": "source-subject|lse: php",
+      "sources": [
+        {
+          "label": "Issuer joint-venture announcement · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/PHP/increased-target-size-of-existing-jv-with-uss/ba8d-95-a1-b0-31-43db91"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Primary Health Properties and USS increased the target size of their existing joint venture from £250 million to £400 million and exchanged contracts to transfer about £67 million of assets to it. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "PHP",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Primary Health Properties and USS increased the target size of their existing joint venture from £250 million to £400 million and exchanged contracts to transfer about £67 million of assets to it. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Ultimate Products plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 30,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted EBITDA is not owner cash; check margins, working capital, dividend sustainability and valuation.",
+      "security_id": "source-subject|lse: ultp",
+      "sources": [
+        {
+          "label": "Issuer audited results · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/ULTP/audited-results-for-the-year-ended-31-july-2026/2e88-47-18-79-3f-49a093"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Ultimate Products reported FY26 revenue of £144.9 million versus £150.1 million and adjusted EBITDA of £10 million. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "ULTP",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Ultimate Products reported FY26 revenue of £144.9 million versus £150.1 million and adjusted EBITDA of £10 million. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "LPA Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 31,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The trading update included timing effects from contract payments. Check audited results, order conversion, cash and valuation.",
+      "security_id": "source-subject|aim: lpa",
+      "sources": [
+        {
+          "label": "Issuer trading update · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/LPA/year-end-trading-update/0d75-22-72-53-14-4a18a0"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, LPA reported FY26 revenue of £28.1 million, up 30%, and a closing order book of £25.1 million. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "LPA",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, LPA reported FY26 revenue of £28.1 million, up 30%, and a closing order book of £25.1 million. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Canon Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 32,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Forecasts can change; the company cited medical-production delays. Check recovery, segment margins, cash flow and valuation.",
+      "security_id": "source-subject|tse: 7751",
+      "sources": [
+        {
+          "label": "Issuer Q3 presentation · October 27, 2026",
+          "url": "https://global.canon/en/ir/conference/pdf/conf2026q3e.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Canon reduced its FY26 sales forecast from ¥4.800 trillion to ¥4.766 trillion and its operating-profit forecast from ¥465 billion to ¥456 billion. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "7751",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Canon reduced its FY26 sales forecast from ¥4.800 trillion to ¥4.766 trillion and its operating-profit forecast from ¥465 billion to ¥456 billion. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Capcom Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 33,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Game release timing can make half-year growth uneven. Check the full-year release schedule, margins, cash flow and valuation.",
+      "security_id": "source-subject|tse: 9697",
+      "sources": [
+        {
+          "label": "Issuer interim results · October 27, 2026",
+          "url": "https://www.capcom.co.jp/ir/english/news/html/e261027a.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Capcom reported first-half sales growth of 49.0% and operating-profit growth of 54.5%, while maintaining its full-year forecast. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "9697",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Capcom reported first-half sales growth of 49.0% and operating-profit growth of 54.5%, while maintaining its full-year forecast. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "RHI Magnesita N.V.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 34,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "There was no firm offer, and financial terms and completion remained uncertain. Check subsequent statements and valuation.",
+      "security_id": "source-subject|lse: rhim",
+      "sources": [
+        {
+          "label": "Issuer possible-offer statement · October 27, 2026",
+          "url": "https://www.eqs-news.com/news/corporate/statement-re-possible-offer/b4935331-8cf9-40a0-8cc6-2d19ead5c90d_en"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, RHI Magnesita said the deadline for a possible offer for Vesuvius was extended to November 24 and reported headline agreement on certain execution-risk matters. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "RHIM",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, RHI Magnesita said the deadline for a possible offer for Vesuvius was extended to November 24 and reported headline agreement on certain execution-risk matters. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Vesuvius plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 35,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A deadline extension is not a firm offer or completed transaction. Financial terms and execution remained uncertain.",
+      "security_id": "source-subject|lse: vsvs",
+      "sources": [
+        {
+          "label": "Issuer deadline announcement · October 27, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/VSVS/pusu-extension-announcement/816b-9e-fb-7c-d4-4298a2"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 27, Vesuvius said the deadline for RHI Magnesita to announce a firm offer or withdraw was extended to November 24 as discussions continued. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "VSVS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 27, Vesuvius said the deadline for RHI Magnesita to announce a firm offer or withdraw was extended to November 24 as discussions continued. This source was reviewed after the October 27 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Georgia Capital PLC",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 36,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "NAV includes asset valuations that may not be realizable at carrying value. Check portfolio marks, currency, liquidity and valuation.",
+      "security_id": "source-subject|lse: cgeo",
+      "sources": [
+        {
+          "label": "Issuer Q3 results · October 28, 2026",
+          "url": "https://georgiacapital.ge/news/company-news/1324-georgia-capital-plc-3q26-and-9m26-results"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Georgia Capital reported third-quarter net asset value per share of GEL 198.91, up 13.6% from the previous quarter, and increased its announced buyback programme by US$50 million to US$100 million. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "CGEO",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Georgia Capital reported third-quarter net asset value per share of GEL 198.91, up 13.6% from the previous quarter, and increased its announced buyback programme by US$50 million to US$100 million. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Standard Chartered PLC",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 37,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Excluding notable items is an adjusted comparison. Check credit impairments, capital, interest rates, cash distributions and valuation.",
+      "security_id": "source-subject|lse: stan",
+      "sources": [
+        {
+          "label": "Issuer Q3 results · October 28, 2026",
+          "url": "https://www.sc.com/en/uploads/sites/66/content/docs/standard-chartered-plc-q3-2026-results.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Standard Chartered reported third-quarter operating income of US$5.8 billion and 14% growth excluding notable items. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "STAN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Standard Chartered reported third-quarter operating income of US$5.8 billion and 14% growth excluding notable items. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Foraco International S.A.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 38,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Revenue growth did not prevent lower profit and net debt included lease liabilities. Check cash conversion, working capital, capital spending and valuation.",
+      "security_id": "source-subject|tsx: far",
+      "sources": [
+        {
+          "label": "Issuer Q3 results · October 28, 2026",
+          "url": "https://www.newswire.ca/news-releases/foraco-international-s-a-q3-2026-results-836424823.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Foraco reported unaudited third-quarter revenue of US$86.214 million, up 21.4% year over year, while gross margin declined to 16.7% from 19.7%. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "FAR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Foraco reported unaudited third-quarter revenue of US$86.214 million, up 21.4% year over year, while gross margin declined to 16.7% from 19.7%. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "SHAPE Australia Corporation Ltd",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 39,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Wins and backlog are not realized earnings or cash. Check project margins, customer concentration, working capital, execution and valuation.",
+      "security_id": "source-subject|asx: sha",
+      "sources": [
+        {
+          "label": "Issuer Q1 trading update · October 28, 2026",
+          "url": "https://asx.api.markitdigital.com/asx-research/1.0/file/2924-03154154-2A1706544"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, SHAPE Australia reported first-quarter FY27 project wins of A$504.6 million versus A$336 million in the prior comparable quarter, and quarter-end backlog of A$762.7 million. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "SHA",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, SHAPE Australia reported first-quarter FY27 project wins of A$504.6 million versus A$336 million in the prior comparable quarter, and quarter-end backlog of A$762.7 million. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Flynn Gold Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 40,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Gross proceeds are before costs, and options can dilute shareholders. Check actual net cash, the full capital structure and funding needs.",
+      "security_id": "source-subject|asx: fg1",
+      "sources": [
+        {
+          "label": "Issuer rights issue completion · October 28, 2026",
+          "url": "https://asx.api.markitdigital.com/asx-research/1.0/file/2924-03154299-3A705179"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Flynn Gold reported completion of a rights issue raising A$1.5 million gross, with 99,999,998 shares and 50,000,032 attaching options. This is a retrospective note; original qualification and delivery remain unconfirmed.",
+      "ticker": "FG1",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Flynn Gold reported completion of a rights issue raising A$1.5 million gross, with 99,999,998 shares and 50,000,032 attaching options. This is a retrospective note; original qualification and delivery remain unconfirmed."
+    }
+  ],
+  "schema_version": 1
+}
