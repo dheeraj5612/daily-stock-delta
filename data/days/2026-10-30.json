@@ -1,0 +1,679 @@
+{
+  "coverage_gaps": [
+    "PARTIAL SOURCE COMPILATION: Coverage is incomplete; prices and valuations are pending. Items are not investment recommendations, and their order is not a ranking.",
+    "RETROSPECTIVE: Compiled on November 4 from reviewed source notes. This does not claim an edition or email was sent on this date.",
+    "The displayed time is the recorded run cutoff or source capture; it does not establish original qualification or complete intake."
+  ],
+  "cutoff_at": "2026-10-30T12:35:23Z",
+  "date": "2026-10-30",
+  "digest_id": "web-source-2026-10-30-9cf94ce5d421b4bf",
+  "eligible_security_ids": [
+    "source-subject|nasdaq first north denmark: erria",
+    "source-subject|tse: 6199",
+    "source-subject|aim: fdbk",
+    "source-subject|xetra: evk",
+    "source-subject|nasdaq: seer",
+    "source-subject|sgx: mim",
+    "source-subject|aim: aet",
+    "source-subject|asx: cyp",
+    "source-subject|asx: kme",
+    "source-subject|asx: rml",
+    "source-subject|aim: jlp",
+    "source-subject|aim: glr",
+    "source-subject|aim: zin",
+    "source-subject|asx: cup",
+    "source-subject|asx: dxn",
+    "source-subject|asx: els",
+    "source-subject|aim: sav",
+    "source-subject|nasdaq helsinki: oriola",
+    "source-subject|lse: shel",
+    "source-subject|athex: eurob"
+  ],
+  "equities": [
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Erria A/S",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Nasdaq First North Denmark",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 1,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Management maintained its earnings outlook but expected revenue near the lower end of its range. Check receivables collection, conversion of opportunities to orders, cash flow and valuation.",
+      "security_id": "source-subject|nasdaq first north denmark: erria",
+      "sources": [
+        {
+          "label": "Nasdaq issuer announcement · October 30, 2026",
+          "url": "https://view.news.eu.nasdaq.com/view?id=bedacb4b97acb7ab4523fc167b8182af1&lang=da&src=listed"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 30, Erria reported unaudited nine-month revenue of DKK 137.0 million, compared with DKK 136.0 million a year earlier. EBITDA was DKK 5.8 million versus DKK 5.9 million, while operating profit was DKK 4.0 million versus DKK 5.6 million.",
+      "ticker": "ERRIA",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 30, Erria reported unaudited nine-month revenue of DKK 137.0 million, compared with DKK 136.0 million a year earlier. EBITDA was DKK 5.8 million versus DKK 5.9 million, while operating profit was DKK 4.0 million versus DKK 5.6 million."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Seraku Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 2,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Planned purchases may not occur. Check subsequent purchases, treasury shares, dilution, cash and debt, current share price and valuation.",
+      "security_id": "source-subject|tse: 6199",
+      "sources": [
+        {
+          "label": "TDnet issuer notice · October 30, 2026",
+          "url": "https://www.release.tdnet.info/inbs/140120261030560471.pdf"
+        },
+        {
+          "label": "JPX listed-company disclosure",
+          "url": "https://www2.jpx.co.jp/disc/61990/140120261030560471.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "Historical event dated October 30, 2026: Seraku reported repurchasing 172,100 ordinary shares for ¥249,889,200 through ToSTNeT-3. It said further market purchases were planned within the remaining authorization.",
+      "ticker": "6199",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "Historical event dated October 30, 2026: Seraku reported repurchasing 172,100 ordinary shares for ¥249,889,200 through ToSTNeT-3. It said further market purchases were planned within the remaining authorization."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Feedback plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 3,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Funding receipt and a larger prospective opportunity remained uncertain. Verify cash, financing, dilution and valuation.",
+      "security_id": "source-subject|aim: fdbk",
+      "sources": [
+        {
+          "label": "London Stock Exchange issuer announcement · October 29, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/FDBK/business-update/1eb2-c9-f2-c3-83-4b47a2"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In an October 29 announcement released after that day’s recorded cutoff, Feedback said Queen Victoria Hospital extended its contract through March 2027 for £127,000. It also reported a commitment for £249,000 in additional development funding. Management expected cash runway to the end of Q1 2027 without additional revenue or receipts.",
+      "ticker": "FDBK",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In an October 29 announcement released after that day’s recorded cutoff, Feedback said Queen Victoria Hospital extended its contract through March 2027 for £127,000. It also reported a commitment for £249,000 in additional development funding. Management expected cash runway to the end of Q1 2027 without additional revenue or receipts."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Evonik Industries AG",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Xetra",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 4,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "This was an expression of interest, not a binding offer; no price or terms were announced in this statement. Check for later proposals or board responses and current valuation.",
+      "security_id": "source-subject|xetra: evk",
+      "sources": [
+        {
+          "label": "Issuer announcement · October 30, 2026",
+          "url": "https://www.evonik.com/en/news/press-releases/2026/10/ad-hoc-statement-board-evonik.html"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In an October 30 announcement, Evonik said BASF had expressed interest in a voluntary public takeover offer in an October 22 letter. Evonik’s executive board declined negotiations but offered a confidential informational exchange. This retrospective note was captured after the original October 30 cutoff; its eligibility at that cutoff is unconfirmed.",
+      "ticker": "EVK",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In an October 30 announcement, Evonik said BASF had expressed interest in a voluntary public takeover offer in an October 22 letter. Evonik’s executive board declined negotiations but offered a confidential informational exchange. This retrospective note was captured after the original October 30 cutoff; its eligibility at that cutoff is unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Seer, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 5,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Both proposals were rejected and are not live offers. Check for later approaches or company updates, cash burn and current valuation.",
+      "security_id": "source-subject|nasdaq: seer",
+      "sources": [
+        {
+          "label": "Issuer announcement · October 29, 2026",
+          "url": "https://seerinc.gcs-web.com/news-releases/news-release-details/seer-remain-independent-public-company-following-conclusion"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Seer said its special committee rejected two unsolicited, nonbinding acquisition proposals: $2.55 per share in cash plus one contingent value right, and $2.45 per share plus two contingent value rights. The company said it would remain independent. This retrospective note was captured after the original October 30 cutoff; its eligibility at that cutoff is unconfirmed.",
+      "ticker": "SEER",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Seer said its special committee rejected two unsolicited, nonbinding acquisition proposals: $2.55 per share in cash plus one contingent value right, and $2.45 per share plus two contingent value rights. The company said it would remain independent. This retrospective note was captured after the original October 30 cutoff; its eligibility at that cutoff is unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Mi Material Holding Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "SGX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 6,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The stabilising manager reported purchases and said stabilisation ceased on October 30; the cause of the price move is unknown. Reconcile adjusted prices, post-listing cash, dilution and valuation.",
+      "security_id": "source-subject|sgx: mim",
+      "sources": [
+        {
+          "label": "Issuer nine-month update",
+          "url": "https://ir.mi-material.com/news.html/id/2631645"
+        },
+        {
+          "label": "Stabilisation notice",
+          "url": "https://ir.mi-material.com/news.html/id/2631742"
+        },
+        {
+          "label": "SGX price archive · October 29",
+          "url": "https://links.sgx.com/1.0.0/securities-historical/7340/SESprice.zip"
+        },
+        {
+          "label": "SGX price archive · October 30",
+          "url": "https://links.sgx.com/1.0.0/securities-historical/7341/SESprice.zip"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "SGX archived session last prices were S$1.80 on October 29 and S$1.51 on October 30, a raw decline of about 16.1%. Exact transaction times and complete corporate-action adjustment remain unverified. The company’s unaudited nine-month update reported US$91.5 million revenue and US$25.5 million group profit after tax; those figures do not establish common-share value.",
+      "ticker": "MIM",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "SGX archived session last prices were S$1.80 on October 29 and S$1.51 on October 30, a raw decline of about 16.1%. Exact transaction times and complete corporate-action adjustment remain unverified. The company’s unaudited nine-month update reported US$91.5 million revenue and US$25.5 million group profit after tax; those figures do not establish common-share value."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Afentra plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 7,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Completion or settlement may differ. Verify closing, diluted capital, cash and liabilities, then assess owner value and access.",
+      "security_id": "source-subject|aim: aet",
+      "sources": [
+        {
+          "label": "LSE announcement · October 29",
+          "url": "https://www.londonstockexchange.com/en/news/article/AET/etu-acquisition-update/f3f2-44-85-b3-bf-4781b2"
+        },
+        {
+          "label": "Issuer update · October 29",
+          "url": "https://www.afentraplc.com/rns/2026-oct-etu-acquisition-update-2/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Afentra said the executive decree for Block 3/05A was published. Both decrees for the proposed Etu acquisition had been published, while novation and completion remained outstanding; the upfront consideration was subject to adjustments.",
+      "ticker": "AET",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Afentra said the executive decree for Block 3/05A was published. Both decrees for the proposed Etu acquisition had been published, while novation and completion remained outstanding; the upfront consideration was subject to adjustments."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Cynata Therapeutics Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 8,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Expected gross proceeds are not verified cash received. Check completion, costs, subsequent cash balances, liabilities and dilution.",
+      "security_id": "source-subject|asx: cyp",
+      "sources": [
+        {
+          "label": "Issuer offer results · October 30, 2026",
+          "url": "https://announcements.asx.com.au/asxpdf/20261030/pdf/0760jb7vh8k1hq.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 30, Cynata reported applications for 23,514,945 shares in its entitlement offer and said the underwriter would subscribe for 67,781,296 shortfall shares. It expected approximately A$912,962 before costs upon completion, with issuance expected November 3. This is a retrospective note; qualification by the original cutoff is unconfirmed.",
+      "ticker": "CYP",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 30, Cynata reported applications for 23,514,945 shares in its entitlement offer and said the underwriter would subscribe for 67,781,296 shortfall shares. It expected approximately A$912,962 before costs upon completion, with issuance expected November 3. This is a retrospective note; qualification by the original cutoff is unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Kip McGrath Education Centres Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 9,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The notice expressed an intention, not proof that every remaining share had been acquired. Verify later notices, settlement and holder-specific proceeds.",
+      "security_id": "source-subject|asx: kme",
+      "sources": [
+        {
+          "label": "Bidder notice · October 30, 2026",
+          "url": "https://announcements.asx.com.au/asxpdf/20261030/pdf/0760xptqswyyz4.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 30, bidder Crimson Australia said its relevant interest in Kip McGrath had reached 91.40% as of October 29 and that it intended to compulsorily acquire the remaining shares. Its offer was then scheduled to close November 4 unless extended. This is a retrospective note; qualification by the original cutoff is unconfirmed.",
+      "ticker": "KME",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 30, bidder Crimson Australia said its relevant interest in Kip McGrath had reached 91.40% as of October 29 and that it intended to compulsorily acquire the remaining shares. Its offer was then scheduled to close November 4 unless extended. This is a retrospective note; qualification by the original cutoff is unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Resolution Minerals Ltd",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 10,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A stated draw is not proof of cash received. Check settlement, fees, conditional later draws, dilution, liabilities and current cash.",
+      "security_id": "source-subject|asx: rml",
+      "sources": [
+        {
+          "label": "Issuer quarterly report · October 29, 2026",
+          "url": "https://announcements.asx.com.au/asxpdf/20261029/pdf/075zfqdn897nz0.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "In its October 29 quarterly report, Resolution Minerals reported A$1.637 million in cash at September 30 and described a loan facility of up to A$10 million. The company said the first A$2.5 million would be drawn immediately; drawn amounts carry 12% annual interest and a six-month maturity. This is a retrospective October 30 review; original cutoff qualification is unconfirmed.",
+      "ticker": "RML",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "In its October 29 quarterly report, Resolution Minerals reported A$1.637 million in cash at September 30 and described a loan facility of up to A$10 million. The company said the first A$2.5 million would be drawn immediately; drawn amounts carry 12% annual interest and a six-month maturity. This is a retrospective October 30 review; original cutoff qualification is unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Jubilee Metals Group PLC",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 11,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Drilling results are not proof of mine economics or a completed resource estimate. Check project rights, funding, further studies and valuation.",
+      "security_id": "source-subject|aim: jlp",
+      "sources": [
+        {
+          "label": "Issuer RNS · October 29, 2026",
+          "url": "https://www.investegate.co.uk/announcement/rns/jubilee-metals-group--jlp/molefe-mine-update-/9848184"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Jubilee reported results from Phase 2 drilling at the Molefe copper project in Zambia. The work was conducted with Galileo Resources under a collaboration agreement. This is a retrospective October 30 review; original qualification and delivery remain unconfirmed.",
+      "ticker": "JLP",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Jubilee reported results from Phase 2 drilling at the Molefe copper project in Zambia. The work was conducted with Galileo Resources under a collaboration agreement. This is a retrospective October 30 review; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Galileo Resources plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 12,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The company said the schedule was not a resource estimate. Galileo and Jubilee are distinct issuers; check project interests, funding, studies and valuation.",
+      "security_id": "source-subject|aim: glr",
+      "sources": [
+        {
+          "label": "Issuer RNS · October 29, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/GLR/molefe-project-drilling-update-zambia/38ed-a2-69-95-07-4c81a5"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Galileo said drilling at the Molefe project extended the estimated mineralized strike by approximately 380 metres. It described a mine schedule targeting about one million tonnes at a grade of at least 1.30% total copper. This is a retrospective October 30 review; original qualification and delivery remain unconfirmed.",
+      "ticker": "GLR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Galileo said drilling at the Molefe project extended the estimated mineralized strike by approximately 380 metres. It described a mine schedule targeting about one million tonnes at a grade of at least 1.30% total copper. This is a retrospective October 30 review; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Zinc Media Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 13,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The placing was conditional and gross proceeds are not verified net cash. Check approvals, admission, dilution and the company’s cash runway.",
+      "security_id": "source-subject|aim: zin",
+      "sources": [
+        {
+          "label": "Issuer RNS · October 29, 2026",
+          "url": "https://www.investegate.co.uk/announcement/rns/zinc-media-group--zin/results-of-placing/9848878"
+        },
+        {
+          "label": "LSE RNS 0589B · October 29, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/ZIN/results-of-placing/f064-d2-82-de-db-42ed9a"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Zinc Media said it conditionally placed seven million new shares at 30 pence each, for approximately £2.1 million gross, and planned a separate retail offer of up to £250,000. This is a retrospective October 30 review; original qualification and delivery remain unconfirmed.",
+      "ticker": "ZIN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Zinc Media said it conditionally placed seven million new shares at 30 pence each, for approximately £2.1 million gross, and planned a separate retail offer of up to £250,000. This is a retrospective October 30 review; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Count Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 14,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The acquisition had not completed and underlying EBITA is an adjusted measure. Check approvals, consideration, integration, cash flow and valuation.",
+      "security_id": "source-subject|asx: cup",
+      "sources": [
+        {
+          "label": "Issuer announcement · October 30, 2026",
+          "url": "https://announcements.asx.com.au/asxpdf/20261030/pdf/076084wy1ryqbs.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 30, Count said it had agreed to acquire 30% of Apiary, subject to closing conditions and regulatory approvals. Its unaudited first-quarter FY2027 update reported revenue of A$52.1 million and underlying EBITA of A$12.7 million. This retrospective review does not establish original qualification or delivery.",
+      "ticker": "CUP",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 30, Count said it had agreed to acquire 30% of Apiary, subject to closing conditions and regulatory approvals. Its unaudited first-quarter FY2027 update reported revenue of A$52.1 million and underlying EBITA of A$12.7 million. This retrospective review does not establish original qualification or delivery."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "DXN Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 15,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The recovery amount and cancellation outcome were estimates or unresolved. Check settlement, receivables, cash needs and valuation.",
+      "security_id": "source-subject|asx: dxn",
+      "sources": [
+        {
+          "label": "Issuer quarterly update · October 30, 2026",
+          "url": "https://announcements.asx.com.au/asxpdf/20261030/pdf/07605dy8n6k280.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 30, DXN reported first-quarter FY2027 revenue of about A$3.4 million and said a customer intended to cancel an A$8.8 million contract; the cancellation was not finalized. DXN expected approximately A$4.2 million for completed work and committed costs. This retrospective review does not establish original qualification or delivery.",
+      "ticker": "DXN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 30, DXN reported first-quarter FY2027 revenue of about A$3.4 million and said a customer intended to cancel an A$8.8 million contract; the cancellation was not finalized. DXN expected approximately A$4.2 million for completed work and committed costs. This retrospective review does not establish original qualification or delivery."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Elsight Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ASX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 16,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A sales pipeline is not realized revenue. Check order conversion, cash use, future financing, share dilution and valuation.",
+      "security_id": "source-subject|asx: els",
+      "sources": [
+        {
+          "label": "Issuer business update · October 28, 2026",
+          "url": "https://announcements.asx.com.au/asxpdf/20261028/pdf/075x9y53fxjlcb.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 28, Elsight reported unaudited nine-month revenue of about US$25.8 million, up 91% year over year, while third-quarter revenue was below management expectations. It reported US$59.4 million of cash and no borrowings. This is a retrospective October 30 review; original qualification and delivery remain unconfirmed.",
+      "ticker": "ELS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 28, Elsight reported unaudited nine-month revenue of about US$25.8 million, up 91% year over year, while third-quarter revenue was below management expectations. It reported US$59.4 million of cash and no borrowings. This is a retrospective October 30 review; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Savannah Resources plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "AIM",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 17,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "A development milestone does not establish permits, financing or project economics. Check subsequent approvals, capital costs and valuation.",
+      "security_id": "source-subject|aim: sav",
+      "sources": [
+        {
+          "label": "Issuer project update · October 29, 2026",
+          "url": "https://www.londonstockexchange.com/en/news/article/SAV/completion-of-geotechnical-works/190d-b9-19-04-4a-4470b8"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Savannah said it completed a five-month geotechnical and hydrogeological programme at the Barroso Lithium Project’s Eastern Block, including 276 investigation points. The company expected its RECAPE submission the following week and said engineering work was progressing. This is a retrospective October 30 note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "SAV",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Savannah said it completed a five-month geotechnical and hydrogeological programme at the Barroso Lithium Project’s Eastern Block, including 276 investigation points. The company expected its RECAPE submission the following week and said engineering work was progressing. This is a retrospective October 30 note; original timing, qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Oriola Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Nasdaq Helsinki",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 18,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted EBITDA is not cash flow; nine-month free cash flow was negative. Check working capital, systems costs and valuation.",
+      "security_id": "source-subject|nasdaq helsinki: oriola",
+      "sources": [
+        {
+          "label": "Issuer interim report · October 29, 2026",
+          "url": "https://production.oriola.com/news-and-releases/stock-exchange-releases/2026/oriola-corporations-interim-report-1-january-30-september-2026"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Oriola reported third-quarter sales of €53.0 million versus €50.4 million and adjusted EBITDA of €9.6 million. This source was reviewed after the October 29 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "ORIOLA",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Oriola reported third-quarter sales of €53.0 million versus €50.4 million and adjusted EBITDA of €9.6 million. This source was reviewed after the October 29 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Shell plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 19,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted earnings and operating cash flow are not owner cash. Check commodity exposure, capital spending, working capital and valuation.",
+      "security_id": "source-subject|lse: shel",
+      "sources": [
+        {
+          "label": "Issuer Q3 results · October 29, 2026",
+          "url": "https://shell.gcs-web.com/news-releases/news-release-details/shell-plc-3rd-quarter-2026-and-nine-months-unaudited-results"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Shell reported third-quarter adjusted earnings of US$10.814 billion and cash flow from operating activities of US$21.043 billion. This source was reviewed after the October 29 run cutoff; original qualification and delivery remain unconfirmed.",
+      "ticker": "SHEL",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Shell reported third-quarter adjusted earnings of US$10.814 billion and cash flow from operating activities of US$21.043 billion. This source was reviewed after the October 29 run cutoff; original qualification and delivery remain unconfirmed."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Eurobank S.A.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "ATHEX",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 20,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted profit excludes specified items. Review credit quality, reported versus pro-forma capital, currency exposure and valuation.",
+      "security_id": "source-subject|athex: eurob",
+      "sources": [
+        {
+          "label": "Issuer nine-month results · October 29, 2026",
+          "url": "https://www.eurobank.gr/-/media/eurobank/omilos/enimerosi-ependuton/enimerosi-metoxon-eurobank/oikonomika-apotelesmata/2026/3q-2026/3q2026-results-pr-en.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On October 29, Eurobank reported nine-month net interest income of €2.068 billion and adjusted net profit of €1.209 billion. This is a retrospective note; original timing, qualification and delivery remain unconfirmed.",
+      "ticker": "EUROB",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On October 29, Eurobank reported nine-month net interest income of €2.068 billion and adjusted net profit of €1.209 billion. This is a retrospective note; original timing, qualification and delivery remain unconfirmed."
+    }
+  ],
+  "schema_version": 1
+}
