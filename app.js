@@ -53,7 +53,7 @@ const gaps=Array.isArray(data?.coverage_gaps)?data.coverage_gaps.filter(value=>t
 const target=$('edition-gaps');
 if(!target)return;
 if(!gaps.length){target.replaceChildren();return;}
-const details=node('details');details.append(node('summary','Research coverage'));
+const details=node('details');details.open=true;details.append(node('summary','Research coverage'));
 const list=node('ul');for(const gap of gaps)list.append(node('li',gap));
 details.append(list);target.replaceChildren(details);
 }

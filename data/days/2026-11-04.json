@@ -1,0 +1,987 @@
+{
+  "coverage_gaps": [
+    "PARTIAL SOURCE COMPILATION: Coverage is incomplete; prices and valuations are pending. Items are not investment recommendations, and their order is not a ranking.",
+    "TODAY: This is a bounded website compilation through the stated source capture. It is not the same cohort as the earlier preliminary email.",
+    "The displayed time is the recorded run cutoff or source capture; it does not establish original qualification or complete intake."
+  ],
+  "cutoff_at": "2026-11-04T19:45:24.197120Z",
+  "date": "2026-11-04",
+  "digest_id": "web-source-2026-11-04-430840c1c567f45d",
+  "eligible_security_ids": [
+    "source-subject|tse: 8081",
+    "source-subject|tse: 3626",
+    "source-subject|nasdaq helsinki: kempowr",
+    "source-subject|tse: 9432",
+    "source-subject|nasdaq copenhagen: novo-b",
+    "source-subject|euronext amsterdam: ad",
+    "source-subject|nyse: usna",
+    "source-subject|lse: pdl",
+    "source-subject|lse: lre",
+    "source-subject|lse: mtro",
+    "source-subject|nyse: hni",
+    "source-subject|lse: mks",
+    "source-subject|lse: sn",
+    "source-subject|tse: 8001",
+    "source-subject|tse: 2296",
+    "source-subject|nyse: cvs",
+    "source-subject|nyse: zbh",
+    "source-subject|nyse: prgo",
+    "source-subject|lse: cch",
+    "source-subject|nasdaq: ddog",
+    "source-subject|nyse: vgnt",
+    "source-subject|lse: trn",
+    "source-subject|lse: btrw",
+    "source-subject|xetra: con",
+    "source-subject|tse: 7453",
+    "source-subject|tse: 4547",
+    "source-subject|nyse: emr",
+    "source-subject|nyse: khc",
+    "source-subject|nyse: tkr",
+    "source-subject|nyse: you"
+  ],
+  "equities": [
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Kanaden Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 1,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "These are company forecasts, not final results. Management identified potential component supply constraints. Check actual orders, margins, cash flow and current valuation.",
+      "security_id": "source-subject|tse: 8081",
+      "sources": [
+        {
+          "label": "TDnet issuer forecast revision · November 4, 2026",
+          "url": "https://www.release.tdnet.info/inbs/140120261104563474.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Kanaden raised its revenue forecast for the fiscal year ending March 2027 from ¥150 billion to ¥160 billion, and its operating profit forecast from ¥5.9 billion to ¥6.5 billion. The company cited demand for semiconductor manufacturing equipment, data-center power facilities and other products.",
+      "ticker": "8081",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Kanaden raised its revenue forecast for the fiscal year ending March 2027 from ¥150 billion to ¥160 billion, and its operating profit forecast from ¥5.9 billion to ¥6.5 billion. The company cited demand for semiconductor manufacturing equipment, data-center power facilities and other products."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "TISI Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 2,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The forecast and dividend are not guaranteed. Check orders, margins, cash generation and current valuation.",
+      "security_id": "source-subject|tse: 3626",
+      "sources": [
+        {
+          "label": "TDnet issuer forecast revision · November 4, 2026",
+          "url": "https://www.release.tdnet.info/inbs/140120261104563644.pdf"
+        },
+        {
+          "label": "Issuer corporate information",
+          "url": "https://www.tisi.jp/en/company/information/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, TISI raised its forecast for the fiscal year ending March 2027 from ¥620 billion to ¥635 billion in revenue and from ¥81 billion to ¥83 billion in operating profit. It also raised its annual dividend forecast from ¥90 to ¥92 per share.",
+      "ticker": "3626",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, TISI raised its forecast for the fiscal year ending March 2027 from ¥620 billion to ¥635 billion in revenue and from ¥81 billion to ¥83 billion in operating profit. It also raised its annual dividend forecast from ¥90 to ¥92 per share."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Kempower Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ HELSINKI",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 3,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The company cited weaker demand. Check orders, cash use, restructuring costs and current valuation. Operative EBIT is the company’s adjusted measure.",
+      "security_id": "source-subject|nasdaq helsinki: kempowr",
+      "sources": [
+        {
+          "label": "Issuer interim report · November 4, 2026",
+          "url": "https://investors.kempower.com/releases/kempower-corporation-interim-report-2026-1-january-30-september-2026-outperforming-a-sharply-weaker-market-resetting-costs-for-2027/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Kempower reported third-quarter revenue of €66.2 million, down 10% from a year earlier, and operative EBIT of negative €1.7 million versus a €0.2 million profit. Quarterly operating cash flow was negative €5.9 million.",
+      "ticker": "KEMPOWR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Kempower reported third-quarter revenue of €66.2 million, down 10% from a year earlier, and operative EBIT of negative €1.7 million versus a €0.2 million profit. Quarterly operating cash flow was negative €5.9 million."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "NTT, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 4,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The full-year forecast remains a company estimate. Check the reasons for weaker profit, the revised outlook, cash flow and current valuation.",
+      "security_id": "source-subject|tse: 9432",
+      "sources": [
+        {
+          "label": "Issuer financial results · November 4, 2026",
+          "url": "https://group.ntt/en/ir/library/results/2026/pdf/fy2026q2kessan1104e.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, NTT reported revenue of ¥7.362 trillion for the six months ended September 30, up 8.7% year over year, while operating profit fell 12.2% to ¥830.1 billion and profit attributable to NTT fell 16.0% to ¥500.2 billion. It also revised its forecast for the year ending March 2027.",
+      "ticker": "9432",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, NTT reported revenue of ¥7.362 trillion for the six months ended September 30, up 8.7% year over year, while operating profit fell 12.2% to ¥830.1 billion and profit attributable to NTT fell 16.0% to ¥500.2 billion. It also revised its forecast for the year ending March 2027."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Novo Nordisk A/S",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Nasdaq Copenhagen",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 5,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted measures exclude specified items and the outlook is a forecast. Check demand, pricing, impairment effects, actual cash flow and current valuation.",
+      "security_id": "source-subject|nasdaq copenhagen: novo-b",
+      "sources": [
+        {
+          "label": "Issuer results · November 4, 2026",
+          "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919765"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Novo Nordisk reported third-quarter adjusted operating profit of DKK 31.72 billion, up 27% at constant exchange rates, while reported operating profit fell 9% at constant exchange rates after DKK 8.7 billion of impairments. It raised its 2026 adjusted sales and operating profit growth outlook to between negative 2% and positive 2% at constant exchange rates.",
+      "ticker": "NOVO-B",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Novo Nordisk reported third-quarter adjusted operating profit of DKK 31.72 billion, up 27% at constant exchange rates, while reported operating profit fell 9% at constant exchange rates after DKK 8.7 billion of impairments. It raised its 2026 adjusted sales and operating profit growth outlook to between negative 2% and positive 2% at constant exchange rates."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Koninklijke Ahold Delhaize N.V.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "Euronext Amsterdam",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 6,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The incident impacts and full-year cash-flow figure are estimates, not final results. Check remediation costs, performance, cash generation and current valuation.",
+      "security_id": "source-subject|euronext amsterdam: ad",
+      "sources": [
+        {
+          "label": "Issuer results · November 4, 2026",
+          "url": "https://newsroom.aholddelhaize.com/ahold-delhaize-reports-resilient-q3-2026-results-and-updates-2026-guidance-to-reflect-business-disruption-caused-by-recent-cybersecurity-incident/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Ahold Delhaize reported third-quarter net sales of €23.1 billion, up 1.9% at constant exchange rates. It estimated that an October cybersecurity incident would reduce fourth-quarter sales by €200 million to €250 million and operating income by €75 million to €100 million, and lowered its 2026 free-cash-flow outlook to around €2.1 billion.",
+      "ticker": "AD",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Ahold Delhaize reported third-quarter net sales of €23.1 billion, up 1.9% at constant exchange rates. It estimated that an October cybersecurity incident would reduce fourth-quarter sales by €200 million to €250 million and operating income by €75 million to €100 million, and lowered its 2026 free-cash-flow outlook to around €2.1 billion."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "USANA Health Sciences, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 7,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The outlook is a forecast; attributable results exclude Hiya’s noncontrolling interest. Check customer trends, margins, cash generation and current valuation.",
+      "security_id": "source-subject|nyse: usna",
+      "sources": [
+        {
+          "label": "Issuer results · November 3, 2026",
+          "url": "https://ir.usana.com/news-events/press-releases/detail/849/usana-health-sciences-reports-third-quarter-2026-results"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "After the U.S. market close on November 3, USANA reported third-quarter net sales of $206 million, down from $214 million a year earlier, and a net loss attributable to USANA of $5.6 million. It lowered its fiscal 2026 sales outlook to approaching $900 million.",
+      "ticker": "USNA",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "After the U.S. market close on November 3, USANA reported third-quarter net sales of $206 million, down from $214 million a year earlier, and a net loss attributable to USANA of $5.6 million. It lowered its fiscal 2026 sales outlook to approaching $900 million."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Petra Diamonds Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 8,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The ordinary shares remain suspended, the audit is ongoing and further restructuring may be needed. Check financing terms, creditor claims, liquidity and security status.",
+      "security_id": "source-subject|lse: pdl",
+      "sources": [
+        {
+          "label": "Issuer operating update · November 4, 2026",
+          "url": "https://news.cision.com/petra-diamonds-limited/r/q1-fy-2027-business--strategic-review-and-operating-update,c4419698"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Petra Diamonds said a subsidiary had entered a binding advance-payment agreement against future production and agreed a forbearance period with its senior secured lender. The company said the arrangement would provide short-term liquidity while its strategic review continued.",
+      "ticker": "PDL",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Petra Diamonds said a subsidiary had entered a binding advance-payment agreement against future production and agreed a forbearance period with its senior secured lender. The company said the arrangement would provide short-term liquidity while its strategic review continued."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Lancashire Holdings Limited",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 9,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The special dividend is a one-time distribution. Check underwriting and catastrophe losses, investment marks, capital needs and current valuation.",
+      "security_id": "source-subject|lse: lre",
+      "sources": [
+        {
+          "label": "Issuer trading statement · November 4, 2026",
+          "url": "https://news.cision.com/lancashire-holdings-limited/r/lancashire-holdings-limited---3rd-quarter-results,c4419612"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Lancashire reported nine-month gross premiums written of $1.806 billion, broadly flat year over year, and declared a special dividend of 75 U.S. cents per common share, approximately $182 million in aggregate.",
+      "ticker": "LRE",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Lancashire reported nine-month gross premiums written of $1.806 billion, broadly flat year over year, and declared a special dividend of 75 U.S. cents per common share, approximately $182 million in aggregate."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Metro Bank Holdings PLC",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 10,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Target-segment growth does not establish group profitability. Check credit quality, funding, capital, execution of profitability guidance and current valuation.",
+      "security_id": "source-subject|lse: mtro",
+      "sources": [
+        {
+          "label": "Issuer trading update · November 4, 2026",
+          "url": "https://www.webdisclosure.com/press-release/metro-bank-holdings-plc-etr-metro-bank-holdings-plc-third-quarter-2026-trading-update-CWIQZm0npzN"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Metro Bank said target lending had risen 37% year over year and its structural exit net interest margin was 3.45%, up 42 basis points. Total gross loans rose 5%, while customer deposits were about £13.0 billion and down roughly 1%.",
+      "ticker": "MTRO",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Metro Bank said target lending had risen 37% year over year and its structural exit net interest margin was 3.45%, up 42 basis points. Total gross loans rose 5%, while customer deposits were about £13.0 billion and down roughly 1%."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "HNI Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 11,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Organic growth is an adjusted measure and acquisition-driven comparisons can obscure underlying performance. Check integration, debt, demand and current valuation.",
+      "security_id": "source-subject|nyse: hni",
+      "sources": [
+        {
+          "label": "Issuer results · November 3, 2026",
+          "url": "https://investors.hnicorp.com/news-releases/news-release-details/hni-corporation-reports-third-quarter-2026-results"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 3, after the recorded early capture, HNI reported third-quarter sales of $1.6 billion, up 133% year over year, largely due to the Steelcase acquisition. Organic sales rose 5.6%, and diluted earnings per share were $1.23 versus $0.88.",
+      "ticker": "HNI",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 3, after the recorded early capture, HNI reported third-quarter sales of $1.6 billion, up 133% year over year, largely due to the Steelcase acquisition. Organic sales rose 5.6%, and diluted earnings per share were $1.23 versus $0.88."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Marks and Spencer Group plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 12,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Group sales and adjusted profit use company-defined measures; the prior-year comparison was affected by the cyber incident. Check second-half trading, costs, cash conversion and valuation.",
+      "security_id": "source-subject|lse: mks",
+      "sources": [
+        {
+          "label": "Issuer interim results · November 4, 2026",
+          "url": "https://corporate.marksandspencer.com/newsroom/press-releases/interim-results-26-weeks-ended-26-september-2026"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Marks and Spencer reported half-year group sales of £9.255 billion, up 16.2%, and statutory revenue of £9.169 billion, up 15.4%. Adjusted profit before tax was £403.2 million versus £184.1 million a year earlier; statutory profit before tax was £355.1 million versus £3.4 million.",
+      "ticker": "MKS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Marks and Spencer reported half-year group sales of £9.255 billion, up 16.2%, and statutory revenue of £9.169 billion, up 15.4%. Adjusted profit before tax was £403.2 million versus £184.1 million a year earlier; statutory profit before tax was £355.1 million versus £3.4 million."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Smith and Nephew plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 13,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Underlying growth is an adjusted measure and guidance is not realized cash flow. Check U.S. orthopaedics, margins, tariffs and current valuation.",
+      "security_id": "source-subject|lse: sn",
+      "sources": [
+        {
+          "label": "Issuer trading update · November 4, 2026",
+          "url": "https://www.smith-nephew.com/en/news/2026/11/04/smithnephew-third-quarter-2026-trading-update"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Smith and Nephew reported third-quarter revenue of $1.551 billion, up 3.4%, and lowered its full-year underlying revenue growth outlook to around 3% from around 4%. It lowered its free-cash-flow outlook to around $750 million from around $800 million.",
+      "ticker": "SN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Smith and Nephew reported third-quarter revenue of $1.551 billion, up 3.4%, and lowered its full-year underlying revenue growth outlook to around 3% from around 4%. It lowered its free-cash-flow outlook to around $750 million from around $800 million."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "ITOCHU Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 14,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Core profit is a company measure and the full-year figure is a forecast. Check extraordinary gains, commodity exposure, cash flow and valuation.",
+      "security_id": "source-subject|tse: 8001",
+      "sources": [
+        {
+          "label": "Issuer results presentation · November 4, 2026",
+          "url": "https://www.itochu.co.jp/en/ir/financial_statements/2027/__icsFiles/afieldfile/2026/11/04/27_2nd_02_e.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, ITOCHU reported consolidated net profit of ¥580.5 billion for the six months ended September 2026, up 16% year over year. The company reported core profit of ¥504.5 billion, up 33%, and retained a full-year net-profit forecast of ¥950 billion.",
+      "ticker": "8001",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, ITOCHU reported consolidated net profit of ¥580.5 billion for the six months ended September 2026, up 16% year over year. The company reported core profit of ¥504.5 billion, up 33%, and retained a full-year net-profit forecast of ¥950 billion."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Itoham Yonekyu Holdings Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 15,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The prior comparison includes a reporting-period alignment effect. Check raw-material costs, financing, the revised outlook and valuation.",
+      "security_id": "source-subject|tse: 2296",
+      "sources": [
+        {
+          "label": "Issuer interim results · November 4, 2026",
+          "url": "https://www.itoham-yonekyu-holdings.com/LinkClick.aspx?TabModule2537=0&fileticket=vUfWQCnBbxA%3D&mid=705&tabid=100"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Itoham Yonekyu reported six-month sales of ¥539.084 billion, down 0.6%, and operating profit of ¥11.560 billion, down 12.1%. Profit attributable to owners was ¥7.503 billion, down 21.1%.",
+      "ticker": "2296",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Itoham Yonekyu reported six-month sales of ¥539.084 billion, down 0.6%, and operating profit of ¥11.560 billion, down 12.1%. Profit attributable to owners was ¥7.503 billion, down 21.1%."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "CVS Health Corporation",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 16,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted earnings exclude specified items, and the prior-year comparison included a goodwill impairment. Check medical claims, reimbursement pressure, cash flow and valuation. The separation is proposed and subject to conditions, including final board approval and a registration statement. Timing, tax treatment, liabilities and shareholder value are not guaranteed.",
+      "security_id": "source-subject|nyse: cvs",
+      "sources": [
+        {
+          "label": "SEC-filed issuer results · November 4, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000107/cvs_ex99x1q3-26.htm"
+        },
+        {
+          "label": "Issuer proposed separation · November 4, 2026",
+          "url": "https://www.cvshealth.com/news/company-news/cvs-health-announces-intent-to-create-two-distinct-leaders-in-healthcare.html"
+        },
+        {
+          "label": "Issuer-filed separation announcement · November 4, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/64803/000119312526446150/d148827dex991.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, CVS Health reported third-quarter revenue of $108.4 billion, up 5.4% year over year, GAAP diluted earnings of $1.68 per share and adjusted earnings of $2.09 per share. It raised its full-year 2026 guidance. On November 4, CVS Health said it intends to separate into two independent publicly traded companies: a healthcare-solutions business and a retail pharmacy and community healthcare business. The company expects the separation in the first half of 2028 and intends it to be tax-free.",
+      "ticker": "CVS",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, CVS Health reported third-quarter revenue of $108.4 billion, up 5.4% year over year, GAAP diluted earnings of $1.68 per share and adjusted earnings of $2.09 per share. It raised its full-year 2026 guidance. On November 4, CVS Health said it intends to separate into two independent publicly traded companies: a healthcare-solutions business and a retail pharmacy and community healthcare business. The company expects the separation in the first half of 2028 and intends it to be tax-free."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Zimmer Biomet Holdings, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 17,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted earnings exclude specified items. Check knee-product demand, margins, acquisition effects, cash flow and valuation.",
+      "security_id": "source-subject|nyse: zbh",
+      "sources": [
+        {
+          "label": "SEC-filed issuer results · November 4, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1136869/000119312526446145/zbh-ex99_1.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Zimmer Biomet reported third-quarter sales of $2.063 billion, up 3.1% on a reported basis. GAAP diluted earnings fell 13.8% to $1.00 per share, while adjusted diluted earnings were $1.90, flat year over year.",
+      "ticker": "ZBH",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Zimmer Biomet reported third-quarter sales of $2.063 billion, up 3.1% on a reported basis. GAAP diluted earnings fell 13.8% to $1.00 per share, while adjusted diluted earnings were $1.90, flat year over year."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Perrigo Company plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 18,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted measures exclude specified items. Check the infant-formula divestiture, expected impairment, European demand, debt and valuation.",
+      "security_id": "source-subject|nyse: prgo",
+      "sources": [
+        {
+          "label": "SEC-filed issuer results · November 4, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1585364/000158536426000160/cy26q3ex991pressrelease.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Perrigo reported third-quarter All-In sales of $989 million, down 5.2% year over year, and All-In adjusted diluted earnings of $0.60 per share, down 25%. Reported diluted earnings were a loss of $0.10 per share versus a $0.09 profit.",
+      "ticker": "PRGO",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Perrigo reported third-quarter All-In sales of $989 million, down 5.2% year over year, and All-In adjusted diluted earnings of $0.60 per share, down 25%. Reported diluted earnings were a loss of $0.10 per share versus a $0.09 profit."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Coca-Cola HBC AG",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 19,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Organic growth is an adjusted measure. Check margins, currency effects, macro conditions, acquisition approvals and current valuation.",
+      "security_id": "source-subject|lse: cch",
+      "sources": [
+        {
+          "label": "Issuer trading update · November 4, 2026",
+          "url": "https://www.coca-colahellenic.com/en/media/news/financial_news/2026/2026-third-quarter-trading-update"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Coca-Cola HBC reported third-quarter organic revenue growth of 9.0%, reported revenue growth of 9.6% and organic volume growth of 5.4%.",
+      "ticker": "CCH",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Coca-Cola HBC reported third-quarter organic revenue growth of 9.0%, reported revenue growth of 9.6% and organic volume growth of 5.4%."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Datadog, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NASDAQ",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 20,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Non-GAAP measures exclude specified costs. Check growth durability, stock-based compensation, cash conversion and valuation.",
+      "security_id": "source-subject|nasdaq: ddog",
+      "sources": [
+        {
+          "label": "Issuer results · November 4, 2026",
+          "url": "https://investors.datadoghq.com/node/17891/pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Datadog reported third-quarter revenue of $1.20 billion, up 35% year over year, GAAP operating income of $75 million and non-GAAP operating income of $334 million. Operating cash flow was $290 million and free cash flow was $251 million.",
+      "ticker": "DDOG",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Datadog reported third-quarter revenue of $1.20 billion, up 35% year over year, GAAP operating income of $75 million and non-GAAP operating income of $334 million. Operating cash flow was $290 million and free cash flow was $251 million."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Versigent PLC",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 21,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted figures exclude specified items. Check automotive demand, launch costs, debt interest, capital spending and valuation.",
+      "security_id": "source-subject|nyse: vgnt",
+      "sources": [
+        {
+          "label": "SEC-filed issuer results · November 4, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/2078008/000207800826000023/versigentq32026ex991.htm"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Versigent reported third-quarter sales of $2.450 billion, up 7.2% year over year. Diluted earnings were $1.41 per share and adjusted diluted earnings were $1.91; free cash flow was $170 million versus $179 million a year earlier.",
+      "ticker": "VGNT",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Versigent reported third-quarter sales of $2.450 billion, up 7.2% year over year. Diluted earnings were $1.41 per share and adjusted diluted earnings were $1.91; free cash flow was $170 million versus $179 million a year earlier."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Trainline plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 22,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Ticket sales are not company revenue and adjusted EBITDA excludes specified costs. Check booking growth, regulatory matters, cash flow and valuation.",
+      "security_id": "source-subject|lse: trn",
+      "sources": [
+        {
+          "label": "Issuer RNS · November 4, 2026",
+          "url": "https://www.investments.halifax.co.uk/research-centre/news-centre/article/?id=36326449&type=rns"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Trainline reported half-year ticket sales of £3.263 billion, broadly flat year over year, and revenue of £233 million, down 1%. Adjusted EBITDA increased 7% to £100 million while operating profit fell 5% to £64 million.",
+      "ticker": "TRN",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Trainline reported half-year ticket sales of £3.263 billion, broadly flat year over year, and revenue of £233 million, down 1%. Adjusted EBITDA increased 7% to £100 million while operating profit fell 5% to £64 million."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Barratt Redrow plc",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "LSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 23,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The outlook is a forecast. Check affordability, reservations, build costs, margins and cash flow.",
+      "security_id": "source-subject|lse: btrw",
+      "sources": [
+        {
+          "label": "Issuer RNS · November 4, 2026",
+          "url": "https://www.investments.halifax.co.uk/research-centre/news-centre/article/?id=36326418&type=rns"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Barratt Redrow reported 3,223 completions for the 17 weeks to October 25, down 12.1% year over year. Its underlying private reservation rate was 0.53 per active outlet per week versus 0.57 in the comparable period; full-year guidance was unchanged.",
+      "ticker": "BTRW",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Barratt Redrow reported 3,223 completions for the 17 weeks to October 25, down 12.1% year over year. Its underlying private reservation rate was 0.53 per active outlet per week versus 0.57 in the comparable period; full-year guidance was unchanged."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Continental AG",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "XETRA",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 24,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Organic and adjusted measures differ from statutory results; outlook is a forecast. Check raw-material costs, automotive demand, cash flow and valuation.",
+      "security_id": "source-subject|xetra: con",
+      "sources": [
+        {
+          "label": "Issuer results · November 4, 2026",
+          "url": "https://www.continental.com/en/press/press-releases/results-nine-months-2026/"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Continental reported third-quarter sales from continuing operations of €3.5 billion, down 1.5% organically, and adjusted operating profit of €514 million, up 6.7%. Adjusted free cash flow fell to €31 million from €99 million, and the company raised its 2026 outlook.",
+      "ticker": "CON",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Continental reported third-quarter sales from continuing operations of €3.5 billion, down 1.5% organically, and adjusted operating profit of €514 million, up 6.7%. Adjusted free cash flow fell to €31 million from €99 million, and the company raised its 2026 outlook."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Ryohin Keikaku Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 25,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The investigation and the extent of any misuse remain unresolved. Check customer notification, remediation costs, regulatory developments and valuation.",
+      "security_id": "source-subject|tse: 7453",
+      "sources": [
+        {
+          "label": "Issuer incident update · November 4, 2026",
+          "url": "https://www.ryohin-keikaku.jp/news/articles/2026_1104_02"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, MUJI operator Ryohin Keikaku said further investigation into possible customer-data exposure included online-store users among up to approximately 27.26 million potentially affected records and found that some credit-card information may have been accessed externally.",
+      "ticker": "7453",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, MUJI operator Ryohin Keikaku said further investigation into possible customer-data exposure included online-store users among up to approximately 27.26 million potentially affected records and found that some credit-card information may have been accessed externally."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Kissei Pharmaceutical Co., Ltd.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "TSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 26,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The full-year amounts are forecasts, not realized earnings. Check product regulatory developments, impairment, securities gains, cash flow and valuation.",
+      "security_id": "source-subject|tse: 4547",
+      "sources": [
+        {
+          "label": "Issuer interim results · November 4, 2026",
+          "url": "https://www.release.tdnet.info/inbs/140120261104563724.pdf"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Kissei reported six-month revenue of ¥45.503 billion, down 0.7% year over year, and operating profit of ¥1.694 billion after an operating loss a year earlier. Its revised full-year forecast included ¥2.5 billion in operating profit and ¥10.0 billion in profit attributable to owners.",
+      "ticker": "4547",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Kissei reported six-month revenue of ¥45.503 billion, down 0.7% year over year, and operating profit of ¥1.694 billion after an operating loss a year earlier. Its revised full-year forecast included ¥2.5 billion in operating profit and ¥10.0 billion in profit attributable to owners."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Emerson Electric Co.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 27,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted earnings exclude specified items, and the company’s outlook is a forecast. Check demand, backlog conversion, cash flow and current valuation.",
+      "security_id": "source-subject|nyse: emr",
+      "sources": [
+        {
+          "label": "Issuer fourth-quarter results · November 4, 2026",
+          "url": "https://ir.emerson.com/news-events/press-releases/detail/649/emerson-reports-fourth-quarter-and-full-year-2026-results-provides-initial-2027-outlook"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Emerson reported fiscal fourth-quarter net sales of US$5.201 billion, up 7% year over year, and GAAP earnings per share of US$1.33 versus US$1.07. Adjusted earnings per share were US$1.86.",
+      "ticker": "EMR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Emerson reported fiscal fourth-quarter net sales of US$5.201 billion, up 7% year over year, and GAAP earnings per share of US$1.33 versus US$1.07. Adjusted earnings per share were US$1.86."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "The Kraft Heinz Company",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 28,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Volume, input costs and investment spending can affect margins. Check the company’s outlook, cash flow and current valuation.",
+      "security_id": "source-subject|nyse: khc",
+      "sources": [
+        {
+          "label": "Issuer third-quarter results · November 4, 2026",
+          "url": "https://ir.kraftheinzcompany.com/media/document/4da1f969-7485-48b1-99a1-6732690250a4/assets/EX_99.1_-_ER_Q3_2026_vFinal.pdf?disposition=inline"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Kraft Heinz reported third-quarter net sales of US$6.115 billion, down 2.0% year over year, and operating income of US$875 million versus US$1.025 billion.",
+      "ticker": "KHC",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Kraft Heinz reported third-quarter net sales of US$6.115 billion, down 2.0% year over year, and operating income of US$875 million versus US$1.025 billion."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "The Timken Company",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 29,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "Adjusted measures exclude specified items, and industrial demand and tariffs remain variables. Check cash flow, guidance and current valuation.",
+      "security_id": "source-subject|nyse: tkr",
+      "sources": [
+        {
+          "label": "Issuer third-quarter results · November 4, 2026",
+          "url": "https://news.timken.com/2026-11-04-Timken-Reports-Third-Quarter-2026-Results"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Timken reported third-quarter sales of US$1.211 billion, up 4.7% year over year, and diluted earnings per share of US$1.34 versus US$0.99. Adjusted earnings per share were US$1.65.",
+      "ticker": "TKR",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Timken reported third-quarter sales of US$1.211 billion, up 4.7% year over year, and diluted earnings per share of US$1.34 versus US$0.99. Adjusted earnings per share were US$1.65."
+    },
+    {
+      "base_upside_pct": null,
+      "bull_upside_pct": null,
+      "catalyst": null,
+      "company": "Clear Secure, Inc.",
+      "confidence": "Research incomplete",
+      "currency": null,
+      "downside_pct": null,
+      "exchange": "NYSE",
+      "gaps": [
+        "Exact security, historical qualification, delivery history, valuation and access may remain unverified."
+      ],
+      "price": null,
+      "price_as_of": null,
+      "rank": 30,
+      "rank_reason": "Presentation order only; not an investment ranking.",
+      "risk": "The settlement materially affected cash flow. Check recurring member growth, partner economics, cash generation and current valuation.",
+      "security_id": "source-subject|nyse: you",
+      "sources": [
+        {
+          "label": "Issuer third-quarter results · November 4, 2026",
+          "url": "https://ir.clearme.com/news-events/press-releases/detail/199/clear-announces-third-quarter-2026-financial-results"
+        }
+      ],
+      "status": "Source update · valuation pending · nonactionable",
+      "thesis": "On November 4, Clear Secure reported third-quarter revenue of US$292.9 million, up 27.8% year over year, and net income of US$75.3 million. Operating activities used US$98.6 million in cash, reflecting approximately US$315 million of accrued partnership liability settlements.",
+      "ticker": "YOU",
+      "torque": null,
+      "weighted_upside_pct": null,
+      "why_new": "On November 4, Clear Secure reported third-quarter revenue of US$292.9 million, up 27.8% year over year, and net income of US$75.3 million. Operating activities used US$98.6 million in cash, reflecting approximately US$315 million of accrued partnership liability settlements."
+    }
+  ],
+  "schema_version": 1
+}
