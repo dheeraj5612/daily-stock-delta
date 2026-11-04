@@ -1,0 +1,42 @@
+name: Deploy static site to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["pages build and deployment"]
+    types: [completed]
+    branches: [main]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages-static-site-deploy
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.id == 41809403391
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out intended commit
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Confirm the commit is still current on main
+        run: |
+          actual="$(git ls-remote origin refs/heads/main | cut -f1)"
+          test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
+          test "$actual" = "$GITHUB_SHA"
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
