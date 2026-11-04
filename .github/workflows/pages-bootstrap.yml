@@ -1,0 +1,43 @@
+name: Bootstrap verified Pages deployment
+on:
+  push:
+    branches: [gh-pages]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: daily-stock-delta-bootstrap
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.event.before == '1f29151b82ce47945a03d4c11f85818cb711fb83'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out the exact pending publication
+        uses: actions/checkout@v4
+        with:
+          ref: 1f29151b82ce47945a03d4c11f85818cb711fb83
+          persist-credentials: false
+      - name: Verify pending publication assets
+        run: |
+          test "$(git rev-parse HEAD)" = 1f29151b82ce47945a03d4c11f85818cb711fb83
+          sha256sum --check <<'CHECKSUMS'
+          10c480c4ee96fb31de2d744e82b131b751fd1642c1e4955024c1f1602a5a2e68  archive.html
+          5b13d423edf11da0aaecd11e0d8f59ea938e50cd955e15fd3d537c2f70291432  data/current.json
+          03971881a22a57122df6c614f7b120c491445a9f19bbfefbcf6ebd1dccec5c41  data/index.json
+          b8e09c5027066bc573901f90eeebe9176d80b3bd7419faa8adf24363b80af1ef  index.html
+          e775e9f9a5e48bba2a58ed21c2cd6f36f82c391c7d101d2f9e0eb2d9c67f94f1  preliminary.html
+          CHECKSUMS
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload exact static tree
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
